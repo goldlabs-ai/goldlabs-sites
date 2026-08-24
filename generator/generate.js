@@ -38,7 +38,7 @@ function renderRootIndex(allLeads) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Austin Website Mockups - LEMWebsites</title>
+    <title>Website Demos - GoldLabs.ai</title>
     <meta name="robots" content="noindex">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -96,13 +96,13 @@ function renderRootIndex(allLeads) {
 </head>
 <body>
     <div class="container">
-        <h1>Austin Website Mockups</h1>
-        <p class="subtitle">Free website demos for local businesses by <span class="brand">LEMWebsites.com</span></p>
+        <h1>Website Demos</h1>
+        <p class="subtitle">Free website demos for local businesses by <span class="brand">GoldLabs.ai</span></p>
         <p class="count">${allLeads.length} demo sites</p>
 ${sorted.map(card).join("\n")}
 
         <div class="footer">
-            <p>Built by LEMWebsites.com</p>
+            <p>Built by GoldLabs.ai</p>
         </div>
     </div>
 </body>

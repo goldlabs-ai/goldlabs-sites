@@ -109,7 +109,7 @@ function renderHtml(lead, opts = {}) {
   const address = fullAddress(lead);
   const mapQuery = encodeURIComponent(address);
   const year = new Date().getFullYear();
-  const claimUrl = opts.claimUrl || "https://lemwebsites.com";
+  const claimUrl = opts.claimUrl || "https://goldlabs.ai";
   const hasPhone = Boolean(lead.phone);
   const phoneHref = hasPhone ? telHref(lead.phone) : "#contact";
 
@@ -363,7 +363,7 @@ function renderHtml(lead, opts = {}) {
     <!-- Demo claim bar (owner-facing) -->
     <div class="claim-bar" id="claimBar">
         <div class="claim-text">
-            <strong>This is a free website demo</strong> built for ${esc(lead.name)} by LEMWebsites.
+            <strong>This is a free website demo</strong> built for ${esc(lead.name)} by GoldLabs.ai.
             Like it? It's yours.
         </div>
         <div class="claim-actions">
