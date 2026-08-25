@@ -370,5 +370,36 @@
     "state": "TX",
     "street": "10729 Audelia Road 103",
     "zip": "75238"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "nails",
+    "name": "K C Nails",
+    "phone": "(214) 348-9797",
+    "rating": 3.9,
+    "reviewCount": 153,
+    "reviews": [
+      {
+        "author": "Jacqueline Young",
+        "rating": 5,
+        "text": "I love how Helen does my brows she the best in Dallas… plus Steven who always does my nails and you can’t forget about Hannah who does my toes … I come here on a regular and they never miss.. they get down on short and l"
+      },
+      {
+        "author": "Kalisha Turner",
+        "rating": 5,
+        "text": "First time going to K C Nails but it’s definitely not my last time. Can you say NEW customer 🤏🏽 the customer service was outstanding and I got my nails and toes done under one hour. Ladies, thank me later"
+      },
+      {
+        "author": "Lynne Ade",
+        "rating": 5,
+        "text": "I read a few of the reviews while I was in the parking lot and I was iffy. I decided to go in and give them a try. They are very affordable. I loved the service I received. My nails came out good. Especially my toe nails"
+      }
+    ],
+    "slug": "k-c-nails",
+    "state": "TX",
+    "street": "10018 Royal Lane",
+    "zip": "75238"
   }
 ]
