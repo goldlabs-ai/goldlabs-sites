@@ -290,7 +290,9 @@
     "slug": "speedway-market",
     "state": "TX",
     "street": "104 East 31st Street Unit B",
-    "zip": "78705"
+    "zip": "78705",
+    "categoryLabel": null,
+    "reviews": null
   },
   {
     "categoryLabel": null,
