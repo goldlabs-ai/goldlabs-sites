@@ -27,15 +27,24 @@ const incoming = payload.leads || (payload.lead ? [payload.lead] : [payload]);
 
 // The app sends its visit-beacon endpoint with every build; persist it so
 // the generator injects the first-visit beacon into all sites.
-if (payload.beacon_url !== undefined) {
+if (payload.beacon_url !== undefined || payload.claim_url !== undefined) {
   const configPath = path.join(__dirname, "config.json");
   let config = {};
   try { config = JSON.parse(fs.readFileSync(configPath, "utf8")); } catch (e) { /* new file */ }
+  let changed = false;
   if (payload.beacon_url && config.beaconUrl !== payload.beacon_url) {
     config.beaconUrl = payload.beacon_url;
-    fs.writeFileSync(configPath, JSON.stringify(config, null, 2) + "\n");
+    changed = true;
     console.log("Updated beacon URL in generator/config.json");
   }
+  // Where "Claim This Website" sends the owner. Editable in the app's Settings
+  // so landing pages can change without touching the generator.
+  if (payload.claim_url && config.claimUrl !== payload.claim_url) {
+    config.claimUrl = payload.claim_url;
+    changed = true;
+    console.log("Updated claim URL in generator/config.json");
+  }
+  if (changed) fs.writeFileSync(configPath, JSON.stringify(config, null, 2) + "\n");
 }
 
 const leads = JSON.parse(fs.readFileSync(LEADS_PATH, "utf8"));

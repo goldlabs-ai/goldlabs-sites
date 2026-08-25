@@ -109,7 +109,16 @@ function renderHtml(lead, opts = {}) {
   const address = fullAddress(lead);
   const mapQuery = encodeURIComponent(address);
   const year = new Date().getFullYear();
-  const claimUrl = opts.claimUrl || "https://goldlabs.ai";
+  // Claim destination comes from the app's Settings via config.json (same path
+  // as the beacon URL); ?ref=<slug> tells you which demo sent them.
+  let claimBase = opts.claimUrl;
+  if (!claimBase) {
+    try {
+      claimBase = require("./config.json").claimUrl || null;
+    } catch (e) { /* no config yet */ }
+  }
+  claimBase = claimBase || "https://goldlabs.ai";
+  const claimUrl = claimBase + (claimBase.includes("?") ? "&" : "?") + "ref=" + encodeURIComponent(lead.slug);
   const hasPhone = Boolean(lead.phone);
   const phoneHref = hasPhone ? telHref(lead.phone) : "#contact";
 
