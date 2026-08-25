@@ -308,5 +308,36 @@
     "state": "TX",
     "street": "310 Comal Street Suite 200",
     "zip": "78702"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Richardson",
+    "hours": null,
+    "industry": "nails",
+    "name": "Hello Nails & Spa",
+    "phone": "(972) 677-7810",
+    "rating": 4.3,
+    "reviewCount": 256,
+    "reviews": [
+      {
+        "author": "Abigail Rosales",
+        "rating": 5,
+        "text": "My sister and I have used the lovely people at Hello Nails for every major event this last 2 years. They have been amazing! They did my nails for my engagement and my wedding! For my wedding they knew we had a big group "
+      },
+      {
+        "author": "Catherine Long Rockwell",
+        "rating": 5,
+        "text": "Very pleased with my services. I like to get my French manicures VERY pink and Megan made sure it was dark enough to my liking."
+      },
+      {
+        "author": "Angel Babac",
+        "rating": 5,
+        "text": "My very first experience with nail spa and it was amazing. The staff were so sweet and the whole environment was just relaxing. I got exactly what I asked for and I loved it. 11/10!!!"
+      }
+    ],
+    "slug": "hello-nails-and-spa",
+    "state": "TX",
+    "street": "1419 East Spring Valley Road",
+    "zip": "75081"
   }
 ]
