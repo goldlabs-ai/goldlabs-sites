@@ -339,5 +339,36 @@
     "state": "TX",
     "street": "1419 East Spring Valley Road",
     "zip": "75081"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "nails",
+    "name": "Yes Nails",
+    "phone": "(214) 463-0903",
+    "rating": 4.4,
+    "reviewCount": 47,
+    "reviews": [
+      {
+        "author": "Courtney Griffis",
+        "rating": 5,
+        "text": "Phoebe is amazing. She’s so sweet and goes above and beyond for her clients to make sure they are satisfied. You can tell she loves her work. I visited Dallas from Illinois and she gave me the best nail experience of my "
+      },
+      {
+        "author": "Laura Martinez",
+        "rating": 5,
+        "text": "I found this place on google and went in based on the great reviews. I got there almost at closing time and Phoebe was there. She was super nice and fast. I didn't feel rushed and i could tell she knew what she was doing"
+      },
+      {
+        "author": "Sar Rup",
+        "rating": 5,
+        "text": "I was so impressed. Phoebe was so fast and friendly I was in and out in under an hour. She even fixed the problem with the thickness of my last service with a different nail salon. I very highly recommend this nail shop "
+      }
+    ],
+    "slug": "yes-nails",
+    "state": "TX",
+    "street": "10729 Audelia Road 103",
+    "zip": "75238"
   }
 ]
