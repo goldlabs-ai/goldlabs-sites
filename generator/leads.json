@@ -401,5 +401,36 @@
     "state": "TX",
     "street": "10018 Royal Lane",
     "zip": "75238"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "nails",
+    "name": "Jeannie's Nails",
+    "phone": "(972) 250-1656",
+    "rating": 3.7,
+    "reviewCount": 47,
+    "reviews": [
+      {
+        "author": "Jenifer Atutis",
+        "rating": 5,
+        "text": "I have been coming here for the last 4 yrs and wouldn't think about going to another place!! The staff is so sweet and Mrs. Jeannie always remembers who I am when I walk in. Her daughter Tan is the absolute best nail tec"
+      },
+      {
+        "author": "Jessica Sanford",
+        "rating": 5,
+        "text": "Love these ladies!  I have been going to Jeannie's for over 5 years, and they are such sweet people who do a great job.  And you know it really says a lot about a business when you always see the same people there, becau"
+      },
+      {
+        "author": "Amy Parker",
+        "rating": 5,
+        "text": "Great place! I called this morning around 10 and scheduled an appt for noon.  I got there about 15 minutes early, while I waited my old polish was removed. Jeannie apologized for my wait, which was no big deal, I got the"
+      }
+    ],
+    "slug": "jeannie-s-nails",
+    "state": "TX",
+    "street": "17610 Midway Road 138",
+    "zip": "75287"
   }
 ]
