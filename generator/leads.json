@@ -16743,5 +16743,1445 @@
     "state": "TX",
     "street": "2722 Rollingwood Drive",
     "zip": "78746"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Volt Electric",
+    "phone": "(512) 743-2730",
+    "rating": 4.4,
+    "reviewCount": 19,
+    "reviews": [
+      {
+        "author": "Sha'ree Roff",
+        "rating": 5,
+        "text": "I called for a light issue and Rueben came out the next day! He knew exactly what he was doing and fixed the problem quickly. He had great customer service and was super nice. Thank you Rueben for fixing it so fast! Defi"
+      },
+      {
+        "author": "Agnes Sekowski",
+        "rating": 5,
+        "text": "Rueben was awesome.. Very professional, reasonable rates and really thought through everything we were asking him to do to make sure we would get what we wanted in the end. And we did! He went through our 10 year laundry"
+      },
+      {
+        "author": "Janet Serna",
+        "rating": 5,
+        "text": "Excellent work and reasonable prices.  Ask for Rueben.  Very kind and patient.  I have requested him for several different type of jobs and all completed well.  He is very knowledgeable."
+      }
+    ],
+    "slug": "volt-electric",
+    "state": "TX",
+    "street": "5505 Prock Lane",
+    "zip": "78721"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Power Flow Electricians",
+    "phone": "(229) 742-7222",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "power-flow-electricians",
+    "state": "TX",
+    "street": "1816 South Lamar Boulevard",
+    "zip": "78704"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Southwestern Electric & Supply",
+    "phone": "(512) 320-0900",
+    "rating": 5,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "Mario Cavazos",
+        "rating": 5,
+        "text": "Best electric company for light bulbs, ceiling tiles, and any type of electrical repairs or installs. Great prices, excellent service and do it once right type of staff. Ask for Raymond! He makes it happen!"
+      },
+      {
+        "author": "Paul Froelich",
+        "rating": 5,
+        "text": "Raymond always provides irreplaceable knowledge and exceptional service."
+      },
+      {
+        "author": "William Inmon",
+        "rating": 5,
+        "text": "Very helpful, did not have what I needed. Referred me to the closest stores that could have it. Awesome way to do business, very professional and highly recommended."
+      }
+    ],
+    "slug": "southwestern-electric-and-supply",
+    "state": "TX",
+    "street": "407 Baylor Street",
+    "zip": "78703"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Edison Electricians of Austin",
+    "phone": "(512) 402-2609",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Willard Wallace",
+        "rating": 5,
+        "text": "I had a very positive experience with the electricians from this electrical company. They provided detailed and transparent cost estimates, which I really appreciated. I hired them to repair wiring, fixtures, and solar p"
+      },
+      {
+        "author": "Allan Osmond",
+        "rating": 5,
+        "text": "I was recently having issues with many of my TV's, lamps, and fans not working. I initially hired another company who did some trouble-shooting and determined we needed a new circuit breaker. So I bought one from them, p"
+      },
+      {
+        "author": "Jo Sims",
+        "rating": 5,
+        "text": "You’ve come to the right place! This is the company to hire if you need great electricians that can solve all your electrical problems. My experience with this contractor was a positive one. They repaired my furnace in h"
+      }
+    ],
+    "slug": "edison-electricians-of-austin",
+    "state": "TX",
+    "street": "4009 Banister Lane 104",
+    "zip": "78704"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Home Electrician",
+    "phone": "(737) 204-1435",
+    "rating": 5,
+    "reviewCount": 17,
+    "reviews": [
+      {
+        "author": "Linda Ray",
+        "rating": 5,
+        "text": "Exceptional electrical service. The electrician arrived promptly and worked carefully to fix the electrical problem. Excellent collaboration and expert execution."
+      },
+      {
+        "author": "Eleanor Hatfield",
+        "rating": 5,
+        "text": "Excellent electrical service throughout. The technician was prompt, educated, and thorough. All wiring was nice and secure. Work quality is great."
+      },
+      {
+        "author": "Deborah Chung",
+        "rating": 5,
+        "text": "After installing new lights, the home felt dramatically different. The light is pleasant and even. Happy with outcomes."
+      }
+    ],
+    "slug": "home-electrician",
+    "state": "TX",
+    "street": "2323 San Antonio Street",
+    "zip": "78705"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Budget Lube",
+    "phone": "(512) 258-5545",
+    "rating": 4.5,
+    "reviewCount": 458,
+    "reviews": [
+      {
+        "author": "Hanlin Wu",
+        "rating": 5,
+        "text": "This has got to be the most no-BS, straightforward auto shop I’ve ever been to.\n\nI really appreciate the guys who work here. They are hard-working, down-to-earth, and very polite. This shop has been in business for decad"
+      },
+      {
+        "author": "Ryan",
+        "rating": 5,
+        "text": "This place should honestly call itself “Two-Minute State Inspection” — that’s how quick they were! I was in and out before I even had time to finish checking my phone. The service was super friendly, efficient, and the p"
+      },
+      {
+        "author": "Michael Keplinger",
+        "rating": 5,
+        "text": "Love this place for oil changes and state inspections. Used to go to Jiffy Lube and get completely bent over with their prices and up sells. Such a great change in pace at this place. Only wish they were open a little la"
+      }
+    ],
+    "slug": "budget-lube",
+    "state": "TX",
+    "street": "8661 Spicewood Springs Road",
+    "zip": "78759"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Urban Car Savers",
+    "phone": "(737) 381-3163",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Van Dyke Specialty Coating",
+        "rating": 5,
+        "text": "I had an exceptional experience with Urban Car Savers recently when I needed a towing service. My car broke down unexpectedly, and they came to the rescue promptly. The team was professional, friendly, and efficient, ens"
+      }
+    ],
+    "slug": "urban-car-savers",
+    "state": "TX",
+    "street": "7727 Burnet Road",
+    "zip": "78757"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Ruiz Automotive",
+    "phone": "(512) 339-2223",
+    "rating": 5,
+    "reviewCount": 43,
+    "reviews": [
+      {
+        "author": "Michael Aguilar",
+        "rating": 5,
+        "text": "Fair pricing, great communication, and solid work. I’ll definitely be coming back and would recommend them to anyone who needs a reliable mechanic also quickly diagnosed The problems I was having and had my car up in run"
+      },
+      {
+        "author": "MohantyJams",
+        "rating": 5,
+        "text": "Joe is not just an amazing mechanic but one of the most honest and nicest guys you will ever meet. He is gem and his shop although a smaller shop still packs the punch with top quality repair and service. His honesty can"
+      },
+      {
+        "author": "Cathy Puga",
+        "rating": 5,
+        "text": "Mr. Ruiz Automotive shop is always trustworthy when it comes to customer service.  My husband takes his truck get fixed and they do a great job.  He makes sure the truck is locked and safe.  We will continue to refer fri"
+      }
+    ],
+    "slug": "ruiz-automotive",
+    "state": "TX",
+    "street": "8222 Jamestown Drive Apartment 6",
+    "zip": "78758"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Lempar's Garage",
+    "phone": "(512) 453-4123",
+    "rating": 4.7,
+    "reviewCount": 17,
+    "reviews": [
+      {
+        "author": "Maddie Mondshine",
+        "rating": 5,
+        "text": "Mike did an excellent job repairing my car! Super quick turn around too which I greatly appreciated. I brought it in on a Tuesday and he had it ready for me that Thursday. He even fixed up a few other things on my car th"
+      },
+      {
+        "author": "Vilma Laurel",
+        "rating": 5,
+        "text": "Had a bashed in driver door from an accident and I was referred  to Lempar by my friends at Big Brand Tire Service.  Accident happened on a Wed and Mike the owner took my car in first thing Thurs morning.  Shortly after "
+      },
+      {
+        "author": "Ybelhs Gnik",
+        "rating": 5,
+        "text": "I had the pleasure of working with Lempar’s Garage through my company and a third party, and the experience was outstanding. Their communication was excellent, and they consistently followed through on everything they pr"
+      }
+    ],
+    "slug": "lempar-s-garage",
+    "state": "TX",
+    "street": "6735 Burnet Lane",
+    "zip": "78757"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Terry's Burnet Road Inspection",
+    "phone": "(512) 451-4677",
+    "rating": 4.8,
+    "reviewCount": 251,
+    "reviews": [
+      {
+        "author": "Bob Cooksey",
+        "rating": 5,
+        "text": "After driving around to five different places purporting to do State Inspections and finding none of them had anyone doing inspections (despite the sign out front saying they did) I found this out of the way place close "
+      },
+      {
+        "author": "Jessica W.",
+        "rating": 5,
+        "text": "Been using Terry’s for years and it’s always a breeze. Terry is friendly, thorough and quick getting everything done. Even coming around lunchtime I never have to wait too long and my car is done in 5 minutes or so. Also"
+      },
+      {
+        "author": "Fi H",
+        "rating": 5,
+        "text": "Quick, efficient, and friendly service. I was in and out in less than 10 minutes for $20. My usual inspection spot was closed, so I came here instead and honestly had an even better experience. They also checked safety i"
+      }
+    ],
+    "slug": "terry-s-burnet-road-inspection",
+    "state": "TX",
+    "street": "5220 Jim Hogg Avenue",
+    "zip": "78756"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Wrenching Bunny Garage",
+    "phone": "(512) 487-4845",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "reviews": [
+      {
+        "author": "Richard Avila",
+        "rating": 5,
+        "text": "Came by to do my vehicle inspection after work and it was quick! Margelia the inspector was knowledgeable, kind and professional. Great experience here overall."
+      },
+      {
+        "author": "Luis Antonio Becerril",
+        "rating": 5,
+        "text": "Quickest state inspection I've had. The staff was very friendly."
+      },
+      {
+        "author": "Connor Brim",
+        "rating": 5,
+        "text": "Fastest inspection I’ve ever had"
+      }
+    ],
+    "slug": "wrenching-bunny-garage",
+    "state": "TX",
+    "street": "1605 Dungan Lane 14A",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "North Lamar Auto Body Shop",
+    "phone": "(512) 371-7713",
+    "rating": 4.8,
+    "reviewCount": 124,
+    "reviews": [
+      {
+        "author": "michelle chan",
+        "rating": 5,
+        "text": "Mark was highly recommended by a trusted friend. We drove all the way from downtown Austin to pflguerville for his services and it was so worth it!  From start to finish he was efficient, trustworthy, and competent. Not "
+      },
+      {
+        "author": "D. B.",
+        "rating": 5,
+        "text": "Mark runs this shop. He is very nice and fair. Him and his team repaired my car shockingly quicker than I anticipated. I left very happy with the work done. I would recommend their services to any and everyone. I feel as"
+      },
+      {
+        "author": "Jordan Pessin",
+        "rating": 5,
+        "text": "North Lamar Body Shop was absolutely outstanding from start to finish. Mark, the owner, is incredibly friendly, honest, and genuinely cares about his customers. He gave me a fair and transparent estimate for the body wor"
+      }
+    ],
+    "slug": "north-lamar-auto-body-shop",
+    "state": "TX",
+    "street": "2108 East Yager Lane",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Afghan Auto Service LLC",
+    "phone": "(512) 945-9351",
+    "rating": 4.5,
+    "reviewCount": 23,
+    "reviews": [
+      {
+        "author": "Hadi Khoda",
+        "rating": 5,
+        "text": "With Mr.Mirvase you can fix your car easily"
+      },
+      {
+        "author": "Vince Toarmina",
+        "rating": 5,
+        "text": "I have to admit I was skeptical at first as their price was so much lower than everyone elses.\n\nTurns out they fixed everything perfectly for the quoted price and did it in a super short amount of time.  Like less than 2"
+      },
+      {
+        "author": "M G",
+        "rating": 5,
+        "text": "I had my car oil and filter changed, and inspection done at this location. Very friendly staff that deliver high quality service. Highly recommend. I was in and out within 30 minutes. Affordable pricing as well"
+      }
+    ],
+    "slug": "afghan-auto-service-llc",
+    "state": "TX",
+    "street": "907 Sagebrush Drive",
+    "zip": "78758"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Holland Automotive",
+    "phone": "(512) 719-3442",
+    "rating": 4.9,
+    "reviewCount": 37,
+    "reviews": [
+      {
+        "author": "Michael Rajski",
+        "rating": 5,
+        "text": "Clay is by far the best Mechanic I’ve used for over 25 years. Excellent service at competitive pricing and he’s very honest. I won’t take my vehicles to anyone else.!!"
+      },
+      {
+        "author": "John Ratcliff",
+        "rating": 5,
+        "text": "Clay is a great guy and a great mechanic.  It's nice when you meet such an honest person who really wants to help others.....and knows what they're doing to boot!"
+      },
+      {
+        "author": "Andres",
+        "rating": 5,
+        "text": "One of the best automotive repair experiences we've had. Clay was honest, punctual and responsive. His costs were very fair and he charged us less than his quote because he didn't have to replace A/C refrigerant because "
+      }
+    ],
+    "slug": "holland-automotive",
+    "state": "TX",
+    "street": "11116 Middle Fiskville Road",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "ismaelautorepair",
+    "phone": "(512) 620-5188",
+    "rating": 4.4,
+    "reviewCount": 9,
+    "reviews": [
+      {
+        "author": "Johnny Utah",
+        "rating": 5,
+        "text": "After my wife accidentally put diesel fuel in the Jeep Cherokee, I took it to Jeep covert of Austin off research blvd where they putzy around for three months and told me it would cost $9000 to fix with a new engine. I t"
+      },
+      {
+        "author": "christopher czapla",
+        "rating": 5,
+        "text": "The guys are very friendly good prices. Been coming here 6yrs"
+      },
+      {
+        "author": "Kis C",
+        "rating": 5,
+        "text": "ALWAYS polite,quick and knowledgeable."
+      }
+    ],
+    "slug": "ismaelautorepair",
+    "state": "TX",
+    "street": "9610 Brown Lane",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "ARDON ZELAYA AUTO REPAIR",
+    "phone": "(512) 968-4102",
+    "rating": 5,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "christopher czapla",
+        "rating": 5,
+        "text": "Manuel was very helpful."
+      },
+      {
+        "author": "Jose noe Escobar ramirez",
+        "rating": 5,
+        "text": "Excellent service and guaranteed work"
+      }
+    ],
+    "slug": "ardon-zelaya-auto-repair",
+    "state": "TX",
+    "street": "9610 Brown Lane",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Mecanico hispano y auto pintura",
+    "phone": "(512) 300-5869",
+    "rating": 5,
+    "reviewCount": 9,
+    "reviews": [
+      {
+        "author": "Olivia F",
+        "rating": 5,
+        "text": "I had an amazing experience with Victor! He worked on my Lexus and completely brought it back to life. My AC is finally working perfectly again (just in time for this Texas heat!), and my car is running like new.\n\nVictor"
+      },
+      {
+        "author": "Yitzel Calderon",
+        "rating": 5,
+        "text": "I always recommend Victor to any person that needs a mechanic, very honest and quick to fix the issue your car has ! 100/10 🙌🏻"
+      },
+      {
+        "author": "Frida Chavez",
+        "rating": 5,
+        "text": "If you’re looking for a trustworthy mechanic, Victor is the one!\n\nFrom our very first conversation, he was kind, patient, and communicative. Since my parents don’t live here in Austin, I would have them on the phone, and"
+      }
+    ],
+    "slug": "mecanico-hispano-y-auto-pintura",
+    "state": "TX",
+    "street": "9608 Brown Lane",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Phoenix Mecanica General",
+    "phone": "(512) 973-9004",
+    "rating": 3.7,
+    "reviewCount": 55,
+    "reviews": [
+      {
+        "author": "Lex Stewart",
+        "rating": 5,
+        "text": "Great customer service, in and out really quickly. They didn't spend a bunch of time trying to upsell me on things which I really appreciated. Would absolutely come here again for my auto needs."
+      },
+      {
+        "author": "Alice Meneses (MsTxAlly)",
+        "rating": 5,
+        "text": "I get my oil changed here all the time. They are fast! Normally there less than 30mins. Today they offered brake service for my back Axle, I'm not ready to do that but will definitely take it to them in the near future."
+      }
+    ],
+    "slug": "phoenix-mecanica-general",
+    "state": "TX",
+    "street": "10111 North Lamar Boulevard",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Olmeda's Tire & Auto",
+    "phone": "(512) 251-0451",
+    "rating": 4.6,
+    "reviewCount": 180,
+    "reviews": [
+      {
+        "author": "Peter Sandford",
+        "rating": 5,
+        "text": "This place is absolutely top-notch and I will definitely be returning for routine maintenance and upgrades for my 2021 Toyota Sequoia"
+      },
+      {
+        "author": "David Murillo",
+        "rating": 5,
+        "text": "If you need a great price on maintenance for your vehicle, Olmeda's is the place! Alfred and his mechanics are very knowledgeable and fix it right the first time. I've brought both of my vehicles to get serviced here and"
+      },
+      {
+        "author": "Perry Crain",
+        "rating": 5,
+        "text": "These guys are great. They've pulled nails out of my tires on at least 5 separate occasions and the service is fast and professional."
+      }
+    ],
+    "slug": "olmeda-s-tire-and-auto",
+    "state": "TX",
+    "street": "8807 North Lamar Boulevard",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "M & M Auto Shop",
+    "phone": "(512) 832-1002",
+    "rating": 3.4,
+    "reviewCount": 16,
+    "reviews": [
+      {
+        "author": "joseph white",
+        "rating": 5,
+        "text": "Fast service and good price"
+      }
+    ],
+    "slug": "m-and-m-auto-shop",
+    "state": "TX",
+    "street": "10501 North Lamar Boulevard",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Javier's Automotive",
+    "phone": "(512) 563-3542",
+    "rating": 4.3,
+    "reviewCount": 32,
+    "reviews": [
+      {
+        "author": "Jacqueline Pena",
+        "rating": 5,
+        "text": "Found the shop on tiktok and decided to stop by to finally fix my car’s AC. Staff was super friendly and clearly explained what was wrong with my car and what they were doing to fix it. This is a local family ran busines"
+      },
+      {
+        "author": "Juanita Reynoso",
+        "rating": 5,
+        "text": "I did my oil change here and they did a good job! The owner is very nice!! I will definitely come back!!"
+      },
+      {
+        "author": "Ulysses Ramirez",
+        "rating": 5,
+        "text": "Exceptional Service at Javier's Automotive!\n\nI recently had the pleasure of getting my vehicle serviced at Javier's Automotive, and I can't recommend them enough! Their team is incredibly knowledgeable, professional, and"
+      }
+    ],
+    "slug": "javier-s-automotive",
+    "state": "TX",
+    "street": "11116 Middle Fiskville Road # A",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "ADK Auto Service",
+    "phone": "(530) 429-2528",
+    "rating": 5,
+    "reviewCount": 26,
+    "reviews": [
+      {
+        "author": "Ali Qamhieh",
+        "rating": 5,
+        "text": "Great service for my 2016 BMW 535i! The dealership wanted almost 2k more for the same service. ADK used OEM parts and had it done in less time. The location is great on Lamar and the staff is very knowledgeable."
+      },
+      {
+        "author": "Kaz",
+        "rating": 5,
+        "text": "Excellent service! I'm new in town, so finding a trustworthy mechanic has been difficult. My Nissan Altima came in to ADK with suspension issues and a very high quote from another shop. The team was very transparent with"
+      },
+      {
+        "author": "Kyla Nies",
+        "rating": 5,
+        "text": "I had a great experience getting my Nissan Xterra fixed! I had two error lights, and ADK auto service was quick to run a diagnostic, upfront and communicative in telling me the issues and the quote and then did excellent"
+      }
+    ],
+    "slug": "adk-auto-service",
+    "state": "TX",
+    "street": "8605 North Lamar Boulevard",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Luu Auto Repair & Body Shop",
+    "phone": "(512) 837-3714",
+    "rating": 4.9,
+    "reviewCount": 133,
+    "reviews": [
+      {
+        "author": "Eric Hume",
+        "rating": 5,
+        "text": "Danny was a pleasure to deal with. I came in with AC issues on my Toyota Sienna and he was able to diagnose the issue and have it fixed the next day. We had a few other quotes for the fix and he gave us the most fair pri"
+      },
+      {
+        "author": "Kathy Jacobs",
+        "rating": 5,
+        "text": "I trust Danny Luu with all my car repairs! I know I’ll get an honest assessment, a reasonable price, options for repairs, and it’ll be done on time! He’s knowledgeable, friendly, and does a great job!"
+      },
+      {
+        "author": "Rebecca Yao",
+        "rating": 5,
+        "text": "Mr. Danny Luu is a definitely trustful auto mechanic . You can know it when you see how busy the business is. He works hard and treats customers well. He helped replace my car’s battery with a fair price. It’s a great pl"
+      }
+    ],
+    "slug": "luu-auto-repair-and-body-shop",
+    "state": "TX",
+    "street": "903 Kramer Lane",
+    "zip": "78758"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Ramirez Auto Repair",
+    "phone": "(512) 552-3091",
+    "rating": 4.5,
+    "reviewCount": 48,
+    "reviews": [
+      {
+        "author": "JP Perez",
+        "rating": 5,
+        "text": "Absolutely amazing place. Great service, very friendly and great prices. Been coming for over 15 years. No complaints. Highly recommend."
+      },
+      {
+        "author": "JP Perez",
+        "rating": 5,
+        "text": "An absolute blessing finding this place. I’m a customer of over 10 years. Finding an honest mechanic is worth its weight in gold. Fantastic service every time. You won’t regret it. Don’t listen to these bitter reviews be"
+      },
+      {
+        "author": "Kallie Eller",
+        "rating": 5,
+        "text": "Great crew, fast service, super friendly!! Fixed my car door in under 5 minutes. Highly recommend!"
+      }
+    ],
+    "slug": "ramirez-auto-repair",
+    "state": "TX",
+    "street": "701 Provines Drive",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Deluxe Auto Services",
+    "phone": "(512) 310-2222",
+    "rating": 4.6,
+    "reviewCount": 78,
+    "reviews": [
+      {
+        "author": "Dakota Bryant",
+        "rating": 5,
+        "text": "Easy to work with and super polite. Pricing was upfront and fair. I had an O2 sensor that I bought to replace myself. I ended up bringing it to this mechanic. They installed the customer supplied part. Before I got done "
+      },
+      {
+        "author": "Matt Cook",
+        "rating": 5,
+        "text": "They do great work and dont charge more than they should.  They have fixed my car three or four times now, and nothing has gone wrong with anything They've fixed."
+      },
+      {
+        "author": "Cruz Lastname",
+        "rating": 5,
+        "text": "Angello was amazing to work with. Not only did he help keep me under budget, but was just an absolute joy to work with. I'm an out of state buyer and that was no issue for him at all to arrange. Transport through Deluxe "
+      }
+    ],
+    "slug": "deluxe-auto-services",
+    "state": "TX",
+    "street": "8307 Jamestown Drive",
+    "zip": "78758"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Martinez auto works",
+    "phone": "(512) 945-7788",
+    "rating": 4.8,
+    "reviewCount": 25,
+    "reviews": [
+      {
+        "author": "Amanda Martinez",
+        "rating": 5,
+        "text": "My husband’s car needed new wheel bearings. They were able to get it done within a few hours and at a very good price. Will be coming back for any future car issues/repairs."
+      },
+      {
+        "author": "Blake Bingel",
+        "rating": 5,
+        "text": "The other reviews are accurate. They do very good work. I needed an intake manifold replaced. I called and they told me to come in Saturday; Saturday morning I come in and they were able to fix it same day!\nIt was much m"
+      },
+      {
+        "author": "Hookers Rack",
+        "rating": 5,
+        "text": "Run by good people and we couldn’t be happier with their business.  Honest people who love what they do and here to HELP  you. I can’t say how grateful we are to find these guys and be treated fairly ( as women we person"
+      }
+    ],
+    "slug": "martinez-auto-works",
+    "state": "TX",
+    "street": "6800 Airport Boulevard",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Southern automotive specialist",
+    "phone": "(737) 280-3154",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Internet Famous",
+        "rating": 5,
+        "text": "Best in the Austin/Greater Austin area! They have serviced my vehicle and friend’s vehicles for body work and more after collisions. Everytime is a stellar job as if it was brand new! No need to search for another shop, "
+      }
+    ],
+    "slug": "southern-automotive-specialist",
+    "state": "TX",
+    "street": "6706 North Lamar Boulevard",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Jeff's Auto Body Repair, Inc.",
+    "phone": "(512) 452-3373",
+    "rating": 4.8,
+    "reviewCount": 375,
+    "reviews": [
+      {
+        "author": "Dorothy Brady",
+        "rating": 5,
+        "text": "Jeff's did a fantastic job on my crumpled Subaru. Extremely professional and friendly shop, careful diagnostics for potential underlying damage beyond the cosmetic, and they worked seamlessly with my insurance company. T"
+      },
+      {
+        "author": "Dan Popovich",
+        "rating": 5,
+        "text": "Joe and Amanda were a pleasure to work with. They addressed all of my concerns. The repair work was excellent. I can say my truck came out better than when it went in. I will be a customer for life."
+      },
+      {
+        "author": "Leslie Botts",
+        "rating": 5,
+        "text": "A big shout out to Brandon and all the kind people at Jeff’s Auto Body Repair.  I had an experience with Subaru that left me with a misaligned hood and dent due to impaired hood movement.  In previous years I’d taken my "
+      }
+    ],
+    "slug": "jeff-s-auto-body-repair-inc",
+    "state": "TX",
+    "street": "6614 North Lamar Boulevard",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Eagle Lube and Brakes",
+    "phone": "(512) 698-2519",
+    "rating": 5,
+    "reviewCount": 10,
+    "reviews": [
+      {
+        "author": "Dirt Curtin",
+        "rating": 5,
+        "text": "Carlos does great work, is honest, and has extremely fair prices. i’ve been going to this shop for over 5 years and never had anything less than a great experience."
+      },
+      {
+        "author": "Dany Santur",
+        "rating": 5,
+        "text": "It is a very special business, its attention is unique, its prices are very good, the location is perfect, it counts a lot of area for park. y lo que valoro mucho es su honestidas"
+      },
+      {
+        "author": "Braylen King",
+        "rating": 5,
+        "text": "Carlos was very quick to respond when I reached out to him! He is super professional and was able to fix the issues with my vehicle in a timely manner. I will be going back if I have car issues in the future!"
+      }
+    ],
+    "slug": "eagle-lube-and-brakes",
+    "state": "TX",
+    "street": "5210 Airport Boulevard",
+    "zip": "78751"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Newspeed Automotive",
+    "phone": "(512) 923-4919",
+    "rating": 4.7,
+    "reviewCount": 83,
+    "reviews": [
+      {
+        "author": "Ricardo Chacón",
+        "rating": 5,
+        "text": "⭐⭐⭐⭐⭐\n\nOutstanding Service and Exceptional Workmanship!!\n\nI can’t say enough good things about Rudy and the entire team at Newspeed Automotive. I brought in my Toyota Prius for a complete ABS system replacement as well a"
+      },
+      {
+        "author": "Emily Rosenbaum",
+        "rating": 5,
+        "text": "I can’t begin to explain how helpful Rudy and his shop were after my accident. They were able to take in my car same-day on a weekend and begin the repairs right away. The speed of their high-quality repair is truly impr"
+      },
+      {
+        "author": "Olivia Rodriguez",
+        "rating": 5,
+        "text": "They did an amazing job! They finished so quickly and have reasonable prices! Rudy was extremely helpful and his team members are very hardworking. 10/10 definitely recommend."
+      }
+    ],
+    "slug": "newspeed-automotive",
+    "state": "TX",
+    "street": "6507 Shirley Avenue",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "SureFix Solutions",
+    "phone": "(304) 549-2448",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "surefix-solutions",
+    "state": "TX",
+    "street": "4701 U.S. 290",
+    "zip": "78749"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "TAYLOR MOTORWORKS",
+    "phone": "(512) 291-3001",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "taylor-motorworks",
+    "state": "TX",
+    "street": "8201 Peaceful Hill Lane",
+    "zip": "78748"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Peaceful Hill Motors",
+    "phone": "(512) 291-3001",
+    "rating": 4.9,
+    "reviewCount": 51,
+    "reviews": [
+      {
+        "author": "Joseph Stidman",
+        "rating": 5,
+        "text": "Best mechanic in Austin. Ronnie really took care of me and helped me out with some stuff with my car, he gave me a lot of advice and was really straight up and honest about everything. He got me out of a tight spot and I"
+      },
+      {
+        "author": "Terri Galloway",
+        "rating": 5,
+        "text": "They are very accommodating. Will work with you to get your car fixed in a timely manner.  Always super friendly and willing to help in anyway they can.  Not one of those big shops with no personal interaction.  The work"
+      },
+      {
+        "author": "lauren young",
+        "rating": 5,
+        "text": "I had a really positive experience with Ronnie when it came to fixing my car’s AC issues, he is kind, professional, and took the time to explain what was going on with my car in a way that was easy to understand. I never"
+      }
+    ],
+    "slug": "peaceful-hill-motors",
+    "state": "TX",
+    "street": "8201 Peaceful Hill Lane",
+    "zip": "78748"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "M & E Automotive",
+    "phone": "(512) 467-4222",
+    "rating": 4.2,
+    "reviewCount": 38,
+    "reviews": [
+      {
+        "author": "Rosalinda Aranda",
+        "rating": 5,
+        "text": "Great service. Good mechanics are hard to come by, I’m really glad to have found him. Being a female a lot of mechanics try to take advantage of you but he was very honest and upfront with me. This is the second time I h"
+      },
+      {
+        "author": "Danny Jock",
+        "rating": 5,
+        "text": "Outstanding. Affordable! Fixed my driver’s side rear mirror that was flopping and did it quickly! Dealership told me they couldn’t fix it and M & E saved the day!"
+      },
+      {
+        "author": "Arnold Carr",
+        "rating": 5,
+        "text": "Eli, is a great man he does what he promise. Came through with a new engine for my car like he said he would."
+      }
+    ],
+    "slug": "m-and-e-automotive",
+    "state": "TX",
+    "street": "10524 Menchaca Road",
+    "zip": "78748"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Banker Automotive",
+    "phone": "(512) 280-0877",
+    "rating": 4.9,
+    "reviewCount": 51,
+    "reviews": [
+      {
+        "author": "notamountain",
+        "rating": 5,
+        "text": "Don Banker of Banker Automotive in South Austin, TX has got to be one of the most forthright and honest mechanics I've ever dealt with.\n\nI appreciate the way he broke things down for me so that as a not-really-a-car-kind"
+      },
+      {
+        "author": "LISA CRAWFORD",
+        "rating": 5,
+        "text": "I've known Banker Automotive for about 30yrs. Had a recent problem and luckily I was close to his shop, I live close to BCS. He said call the tow company they use took it to his shop and had the problem fixed without bur"
+      },
+      {
+        "author": "Skyler Hart",
+        "rating": 5,
+        "text": "Ford Dealer quoted me 2600 bucks and said my brakes, rotors and drivers side wheel hub were all shot. I was almost going to do the job myself but took it to Banker just to see cause I was nervous about the wheel hub. The"
+      }
+    ],
+    "slug": "banker-automotive",
+    "state": "TX",
+    "street": "10404 Slaughter Creek Drive",
+    "zip": "78748"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "F1 24/7 Automotive & Tire Tweekers",
+    "phone": "(737) 900-7700",
+    "rating": 4.9,
+    "reviewCount": 30,
+    "reviews": [
+      {
+        "author": "Rosa Yanez",
+        "rating": 5,
+        "text": "I had an emergency tire issue and needed help at the last minute. These guys are amazing, quick, professional, and genuinely helpful. I truly appreciate their kindness and willingness to help. I highly recommend this tir"
+      },
+      {
+        "author": "Lawrence M",
+        "rating": 5,
+        "text": "The fastest and most reliable guy I've ever seen! He came in less then as hour of my call and was done in about 15 min or less! Great guy"
+      },
+      {
+        "author": "Sebastian Ramon",
+        "rating": 5,
+        "text": "Travis is awesome , called him in an urgent emergency and he was very communcative , was abl of to get to my family and i quickly  !\nHe took care of patching my tire fast ,no hassle , no struggle ! He has great pricing ,"
+      }
+    ],
+    "slug": "f1-24-7-automotive-and-tire-tweekers",
+    "state": "TX",
+    "street": "9100 Farm to Market Road 812",
+    "zip": "78719"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "C2 Auto Mechanics",
+    "phone": "(737) 216-4357",
+    "rating": 3.4,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Anthony Walter",
+        "rating": 5,
+        "text": "Very reliable an gets job done would recommend to anyone"
+      },
+      {
+        "author": "Thomas Nevins",
+        "rating": 5,
+        "text": "Omg great service actually came to my house on a Sunday and did everything in one day … car have been great ever since definitely recommended them to anyone"
+      },
+      {
+        "author": "Margo Valigura",
+        "rating": 5,
+        "text": "Chris did an excellent job on my car highly recommend him"
+      }
+    ],
+    "slug": "c2-auto-mechanics",
+    "state": "TX",
+    "street": "6107 Cougar Drive",
+    "zip": "78745"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "SOUTHSIDE MUFFLER, RADIATOR & AUTO REPAIR",
+    "phone": "(737) 279-0913",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "southside-muffler-radiator-and-auto-repair",
+    "state": "TX",
+    "street": "4412 Brandt Road",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "John Wayne auto repair",
+    "phone": "(270) 925-7232",
+    "rating": 4.6,
+    "reviewCount": 34,
+    "reviews": [
+      {
+        "author": "Yinkai",
+        "rating": 5,
+        "text": "This is hands-down the best mechanic in Austin—bring your own oil, filters, or parts for expert installation at unbeatable prices and top-quality work from a pro. (Note: No paint jobs here; that’s next door.) Check ‘em o"
+      },
+      {
+        "author": "Hunter Merrill",
+        "rating": 5,
+        "text": "I'd trust John with anything he says he can handle. He's up front about what you need and always helps fond the most cost effective method for getting you where you need to be. No price gouging, no unnecessary upsetting."
+      },
+      {
+        "author": "Christian",
+        "rating": 5,
+        "text": "John Wayne has worked on my car 3x already so this review is long overdue. Also! Id like to point out that the people writing reviews for the Body Shop is the opposite of John Waynes AUTO SHOP; he is a mechanic and does "
+      }
+    ],
+    "slug": "john-wayne-auto-repair",
+    "state": "TX",
+    "street": "8703 Lava Hill Road",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Ed's Bluff Springs Auto",
+    "phone": "(512) 444-0201",
+    "rating": 4.4,
+    "reviewCount": 38,
+    "reviews": [
+      {
+        "author": "Chale Bill",
+        "rating": 5,
+        "text": "Ed is an amazing person with a unique Rock and roll history! consider him a legend and a friend, love you Ed!"
+      },
+      {
+        "author": "linda jackson",
+        "rating": 5,
+        "text": "These guys are truly awesome they are very accommodating. Moving is stressful enough. But in this case I was helping someone else. Which made it even more stressful. They made the transportation issue stress-free. I left"
+      },
+      {
+        "author": "krystal mugno",
+        "rating": 5,
+        "text": "Ed's great! One of the very few true, honest local mechanic's still in business. I have worked for him, and known him a long time yet still don't have a single negative thing to say about Ed or his work. Highly recommend"
+      }
+    ],
+    "slug": "ed-s-bluff-springs-auto",
+    "state": "TX",
+    "street": "7333 Bluff Springs Road",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Neighborly Auto Repair",
+    "phone": "(737) 235-7155",
+    "rating": 5,
+    "reviewCount": 39,
+    "reviews": [
+      {
+        "author": "Jake Chuharski",
+        "rating": 5,
+        "text": "Nelson is great! Super knowledgable, was able to help me diagnose a problem that I was having on the phone. He is quick and efficient. Brought my car in and helped me in a timely manner and teach me about the issues I wa"
+      },
+      {
+        "author": "Travis S.",
+        "rating": 5,
+        "text": "Could not recommend Nelson enough. He responded to my call immediately, got me in the next day, and was able to fix my car the moment I showed up and in a very short time. Throughout the entire process he explained what "
+      },
+      {
+        "author": "Emma Koch",
+        "rating": 5,
+        "text": "Nelson has now done several repairs on my '05 Subaru Forester and has been clear, honest, fair, and flexible each time. Prices are far better than you could get at any chain mechanic or the dealership and he allows you t"
+      }
+    ],
+    "slug": "neighborly-auto-repair",
+    "state": "TX",
+    "street": "1652 Chippeway Lane",
+    "zip": "78745"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Hdz Auto Repair",
+    "phone": "(512) 897-3022",
+    "rating": 5,
+    "reviewCount": 6,
+    "reviews": [
+      {
+        "author": "Stephanie Lindholm",
+        "rating": 5,
+        "text": "After getting quotes from Midas, the dealership, and a few other big-name shops that were pushing close to $4,000 for my exhaust system, I was honestly pretty frustrated. Ray gave me a far more reasonable quote, explaine"
+      },
+      {
+        "author": "Carlos Moreno",
+        "rating": 5,
+        "text": "Ray has been handling the maintenance for our company trucks for years. He has replaced shocks, brakes and has completed a full tuneup including fluid changes, spark plug/wire replacement, hydraulic system and cooling sy"
+      },
+      {
+        "author": "Sasha M",
+        "rating": 5,
+        "text": "Just had a great first experience from HDZ. I have a 2006 corolla that needed lots of fixes. I've been shopping around, and HDZ quoted me the most reasonable price. Really glad I found Ray. I'd reccomended them to friend"
+      }
+    ],
+    "slug": "hdz-auto-repair",
+    "state": "TX",
+    "street": "4416 Brandt Road",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "George Auto Repair & Inspections",
+    "phone": "(512) 799-4011",
+    "rating": 4.7,
+    "reviewCount": 76,
+    "reviews": [
+      {
+        "author": "Dorsey Allen",
+        "rating": 5,
+        "text": "All other inspections shops refused to do my Class C RV. George Auto said bring it on in. Took care of everything."
+      },
+      {
+        "author": "Honest Reviews Only",
+        "rating": 5,
+        "text": "I went for an emissions test. Travis did a great job. Thank you.  Note: park in front of office door, not garage doors."
+      },
+      {
+        "author": "Adam",
+        "rating": 5,
+        "text": "Checked out my car quickly and fully explained what needed fixed and categorized it as a safety or functional fix. Super helpful and useful will return with future fixes etc."
+      }
+    ],
+    "slug": "george-auto-repair-and-inspections",
+    "state": "TX",
+    "street": "6608 South Highway 183 S",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "AA Auto and Equipment",
+    "phone": "(512) 389-0676",
+    "rating": 4.8,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Precision Pedicab",
+        "rating": 5,
+        "text": "Amazing mechanics.  They fixed my wife's Kia for half of what other shops quoted.  They keep my 7.3 ford diesel running smooth.  They fixed my buddy's school bus and keep it running.  I take all my cars and trucks to the"
+      },
+      {
+        "author": "Anastasia Ostrom-Weitz (RatQueenLabs)",
+        "rating": 5,
+        "text": "The owner picked us up after we got stranded. We're from out of town, and we broke down with no clue what to do. He came and picked us up off the side of the road, took our battery back to his shop long enough to get us "
+      },
+      {
+        "author": "Phillip Ogle",
+        "rating": 4,
+        "text": "These guys are friendly, will work with you to make your work affordable, and they're really helpful when you need to borrow a car while yours is being repaired."
+      }
+    ],
+    "slug": "aa-auto-and-equipment",
+    "state": "TX",
+    "street": "1115 Old Bastrop Highway",
+    "zip": "78742"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Ryan's Automotive Repair",
+    "phone": "(512) 243-1607",
+    "rating": 4.9,
+    "reviewCount": 24,
+    "reviews": [
+      {
+        "author": "Tray russo",
+        "rating": 5,
+        "text": "Ryan and his wife are both VERY welcoming and helpful. I just brought my old school suburban in on a tow truck for a brake issue and he had it finished very fast, even though there were other cars before me. He even did "
+      },
+      {
+        "author": "Stephen Feng",
+        "rating": 5,
+        "text": "This is an honest and professional family owned business. The moment you call in, you’re welcomed and listened to. Ryan is not just an amazing mechanic, but also a wonderful person. He explains everything to you in detai"
+      },
+      {
+        "author": "Larry Buhrman",
+        "rating": 5,
+        "text": "Ryan examined my Toyota today and explained that two very big items that a Toyota dealership told me absolutely needed work did not and why they were totally unnecessary. He is a very honest and excellent mechanic. I enc"
+      }
+    ],
+    "slug": "ryan-s-automotive-repair",
+    "state": "TX",
+    "street": "7926 Coulver Road",
+    "zip": "78747"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "183 AUTO REPAIR",
+    "phone": "(512) 999-7854",
+    "rating": 4.9,
+    "reviewCount": 52,
+    "reviews": [
+      {
+        "author": "Sarah West",
+        "rating": 5,
+        "text": "Very professional. Took my car in last minute that died on the road. Took a few days to fix but was still timely and affordably priced."
+      },
+      {
+        "author": "Jerel.Grace Marines",
+        "rating": 5,
+        "text": "Outstanding experience with 183 Auto Repair Shop.\nExcellent service from start to finish.\nProfessional management and a serious mechanic his attentiveness, & outstanding work; immediately I felt confident with the diagno"
+      },
+      {
+        "author": "Gracie Montoya",
+        "rating": 5,
+        "text": "I want to express my gratitude to 183 Auto Repair.\nI Highly recommend this amazing auto shop from the nicest manager to the professional mechanic.\nMy vehicle received a complete diagnostic for a second opinion. Rush Auto"
+      }
+    ],
+    "slug": "183-auto-repair",
+    "state": "TX",
+    "street": "10505 Maha Circle B",
+    "zip": "78747"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "J.J Mobile Tire Repair",
+    "phone": "(512) 993-8162",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "j-j-mobile-tire-repair",
+    "state": "TX",
+    "street": "2430 Cromwell Circle 1101",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Longhorn Rapid Lube",
+    "phone": "(512) 913-7579",
+    "rating": 3.7,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Veronica Rivas",
+        "rating": 5,
+        "text": "Come here every year to get my auto inspection for Texas renewal, the staff is kind, Ernest is great, thorough, respectful and honest. 10/10 recommend!"
+      },
+      {
+        "author": "Maira Viera",
+        "rating": 5,
+        "text": "Very friendly, excellent service, they explain things very well and in Spanish."
+      }
+    ],
+    "slug": "longhorn-rapid-lube",
+    "state": "TX",
+    "street": "1951 East Oltorf Street",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Tigre Del Barrio Tire Shop",
+    "phone": "(737) 368-5380",
+    "rating": 4.8,
+    "reviewCount": 44,
+    "reviews": [
+      {
+        "author": "sylvia aponte",
+        "rating": 5,
+        "text": "We got back into Austin Airport to find we had a flat. They were the only place still open after 8p near the airport.  They were fast courteous and charged a reasonable price to patch our tire. They even topped off the a"
+      },
+      {
+        "author": "Golden Ekeanyanwu",
+        "rating": 5,
+        "text": "My tire blew out so I had a tow take me to this shop to get a replacement.\n\nThey were the only people still open and willing to get me in right when they were closing around 10pm on a Saturday!\n\nTruly amazing service all"
+      },
+      {
+        "author": "Mark",
+        "rating": 5,
+        "text": "​\"Found my new go-to tire shop! I went in for a patch job, and they were incredibly fast, getting me back on the road in under 30 minutes. The staff was friendly, and the price was unbeatable—under $20 for the repair. Ho"
+      }
+    ],
+    "slug": "tigre-del-barrio-tire-shop",
+    "state": "TX",
+    "street": "1710 Montopolis Drive",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Jimenez Guerrero Tire Shop",
+    "phone": "(512) 653-9251",
+    "rating": 4.6,
+    "reviewCount": 312,
+    "reviews": [
+      {
+        "author": "Tom Ferguson",
+        "rating": 5,
+        "text": "Instant service with a smile. All other shops need to take some lessons from these guys, they know what they are doing.They were so quick in patching my tire it might as well have been a NASCAR pitstop! I was in and out "
+      },
+      {
+        "author": "David Quinn",
+        "rating": 5,
+        "text": "Excellent service 10/10! I called and wanted 4 good condition all terrain tires for my 4Runner. They installed very quickly for an excellent price and we’re very nice & helpful. Highly recommend! :)"
+      },
+      {
+        "author": "Katie W",
+        "rating": 5,
+        "text": "Stopped in with a screw in my tire. Had it fixed and filled me my other tires with air in 15 minutes. Very nice and great service"
+      }
+    ],
+    "slug": "jimenez-guerrero-tire-shop",
+    "state": "TX",
+    "street": "6301 Monsanto Drive",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Astoria Door's Solutions",
+    "phone": "(864) 929-2820",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "astoria-door-s-solutions",
+    "state": "TX",
+    "street": "9500 Escarpment Boulevard",
+    "zip": "78749"
   }
 ]
