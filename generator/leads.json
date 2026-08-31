@@ -14518,5 +14518,2230 @@
     "state": "TX",
     "street": "303 Almarion Drive",
     "zip": "78746"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Butler Plumbing",
+    "phone": "(512) 280-1680",
+    "rating": 4.3,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Rebecca Gonzales",
+        "rating": 5,
+        "text": "👍🏼"
+      },
+      {
+        "author": "Ricardo Ruelas",
+        "rating": 5,
+        "text": "It is an extraordinary place; you can breathe clean air at dawn."
+      }
+    ],
+    "slug": "butler-plumbing",
+    "state": "TX",
+    "street": "9709 Swansons Ranch Road",
+    "zip": "78748"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Rayborn Plumbing",
+    "phone": "(512) 441-3202",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Ronnie Ray",
+        "rating": 5,
+        "text": "Great company amazing service"
+      }
+    ],
+    "slug": "rayborn-plumbing",
+    "state": "TX",
+    "street": "8112 Seminary Ridge Drive",
+    "zip": "78745"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Eric's Plumbing",
+    "phone": "(512) 848-9318",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "eric-s-plumbing",
+    "state": "TX",
+    "street": "2719 Creeks Edge Parkway",
+    "zip": "78716"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Ranallo Plumbing LLC",
+    "phone": "(512) 331-6218",
+    "rating": 2.5,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "Susan Espinosa",
+        "rating": 5,
+        "text": "I run a small preschool.  My  potty for the kids went down and Ranallo Plumbing answerd my call and showed up within 20 minutes.  This is not the first time i have used them.  I jave been a customer for 7 uears amd my ex"
+      }
+    ],
+    "slug": "ranallo-plumbing-llc",
+    "state": "TX",
+    "street": "8005 Boneta Trail",
+    "zip": "78729"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Austin Plumbing & Drain Pros",
+    "phone": "(737) 292-2113",
+    "rating": 5,
+    "reviewCount": 23,
+    "reviews": [
+      {
+        "author": "Jamison Zeller",
+        "rating": 5,
+        "text": "My kitchen faucet started spraying water sideways. Reached out to this plumbing service and they replaced the damaged part. Works perfectly now."
+      },
+      {
+        "author": "Victoria Walker",
+        "rating": 5,
+        "text": "The outdoor drain near my house was blocked. They cleared it and restored proper flow. Water doesn’t collect anymore. Good work."
+      },
+      {
+        "author": "Emmett Vaughn",
+        "rating": 5,
+        "text": "Not long back, the kitchen drain pipe was vibrating loudly. They secured it with proper support. The noise stopped completely. I’m satisfied with the result."
+      }
+    ],
+    "slug": "austin-plumbing-and-drain-pros",
+    "state": "TX",
+    "street": "14000 Summit Drive 315",
+    "zip": "78728"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Galvez plumbing & construccion LLC",
+    "phone": "(737) 999-4971",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Yaritza Cantillano",
+        "rating": 5,
+        "text": "They did all the plumbing repairs in my house and everything was perfect 👌 Gálvez is a very professional person, I love his work"
+      }
+    ],
+    "slug": "galvez-plumbing-and-construccion-llc",
+    "state": "TX",
+    "street": "14909 Riff Cove",
+    "zip": "78725"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Pipe Down Services Inc",
+    "phone": "(855) 767-7473",
+    "rating": 3.6,
+    "reviewCount": 100,
+    "reviews": [
+      {
+        "author": "rj m",
+        "rating": 5,
+        "text": "This company was great ,they really made me feel comfortable, and they cared about my plumbing needs.  There was no short changing in the work they did, made sure the job was done right. Even after they had to wait for c"
+      },
+      {
+        "author": "Jon Lamb",
+        "rating": 5,
+        "text": "This company was dispatched for us on a warranty call and Larry was awesome. He discovered the issue the first plumbing technician diagnosed was incorrect and addressed the issue. He went above and beyond explaining some"
+      },
+      {
+        "author": "SK B (Fitpro660)",
+        "rating": 5,
+        "text": "John was outstanding. He analyzed the problem and made every possible attempt to resolve the situation accurately and expeditiously. My toilet was a Briggs and Stratton circa: 1998 with a tank retrofitted by the manufact"
+      }
+    ],
+    "slug": "pipe-down-services-inc",
+    "state": "TX",
+    "street": "8000 Centre Park Drive",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Aqua Austin Plumbing Experts",
+    "phone": "(512) 615-8256",
+    "rating": 5,
+    "reviewCount": 6,
+    "reviews": [
+      {
+        "author": "Carla Griffith",
+        "rating": 5,
+        "text": "The plumber quoted a reasonable upfront fee and resolved my garbage disposal issue promptly by replacing a worn-out gasket, wrapping up in about an hour. This was more efficient than the previous plumber who attempted a "
+      },
+      {
+        "author": "Melody Pagan",
+        "rating": 5,
+        "text": "The problem turned out to be a faulty pressure valve on the water tank, and they had it repaired with parts they had on hand, so the whole process wrapped up in about an hour. After a previous negative experience with an"
+      },
+      {
+        "author": "TRUDY FIORELA CABRERA TOLEDO",
+        "rating": 5,
+        "text": "The plumber quoted a fair price for the water heater installation and completed the job efficiently, wrapping up in about three hours. He took care to ensure the connections were secure and even checked twice for any pot"
+      }
+    ],
+    "slug": "aqua-austin-plumbing-experts",
+    "state": "TX",
+    "street": "7112z Ed Bluestein Boulevard",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Cedar Park",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Boone Plumbing Services",
+    "phone": "(512) 577-6833",
+    "rating": 4.7,
+    "reviewCount": 47,
+    "reviews": [
+      {
+        "author": "Lura Flynn",
+        "rating": 5,
+        "text": "Great customer service. My pilot light was out, and he resolved it as a courtesy.  Known him for years, and highly recommend, as he did an amazing job when he installed my water heater.  Best part, it's independently own"
+      },
+      {
+        "author": "Alma Bills",
+        "rating": 5,
+        "text": "Awesome work! John Boone showed up at my house right on time and replaced my dispose-all in less than 30 minutes. They even took the old, broken one for me. Friendly people too! The guys seemed more than happy put up wit"
+      },
+      {
+        "author": "Kym King",
+        "rating": 5,
+        "text": "Awesome job! I called Boone plumbing on a Friday morning for a clogged kitchen sink. Travis responded within an hour and completed the job. These guys are the real deal!! I would highly recommend them for any job, large "
+      }
+    ],
+    "slug": "boone-plumbing-services",
+    "state": "TX",
+    "street": "600 Territory Cove",
+    "zip": "78613"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "24hourplumber",
+    "phone": "(512) 458-2145",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Steve Zavala",
+        "rating": 5,
+        "text": "Sanders Brothers Plumbing & Electrical consistently goes above and beyond my expectations. They work swiftly and always prioritize the needs of their customers. Roger and Zachary are the plumbers who frequently attend to"
+      }
+    ],
+    "slug": "24hourplumber",
+    "state": "TX",
+    "street": "929 East 41st Street",
+    "zip": "78751"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Demoss Plumbing Company Inc",
+    "phone": "(512) 280-4600",
+    "rating": 3,
+    "reviewCount": 24,
+    "reviews": [
+      {
+        "author": "tara Hodgins",
+        "rating": 5,
+        "text": "Demoss Plumbing provided outstanding service when I needed it most. Their team was extremely professional and went out of their way to fit me into their schedule to restore water to my home before the holiday. They arriv"
+      },
+      {
+        "author": "Chris Rogers",
+        "rating": 5,
+        "text": "I had an issue with a plumbing leak. These guys were dispatched by my insurance company to diagnose the problem. Ins would pay for the diagnosis, but I'd have been responsible to pay for repairs. They came on time, liste"
+      }
+    ],
+    "slug": "demoss-plumbing-company-inc",
+    "state": "TX",
+    "street": "3911 Warehouse Row",
+    "zip": "78704"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Built Right Plumber of Austin",
+    "phone": "(512) 645-2125",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "built-right-plumber-of-austin",
+    "state": "TX",
+    "street": "3212 Rustic River Cove",
+    "zip": "78746"
+  },
+  {
+    "categoryLabel": "plumbing",
+    "city": "Austin",
+    "hours": null,
+    "industry": "plumbing",
+    "name": "Austin Plumbers - Repair Service Installation",
+    "phone": "(512) 265-5260",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Ivey Becker",
+        "rating": 5,
+        "text": "Dustin was quick, courteous, and very helpful. I will definitely ask for him when I use y’all’s services."
+      }
+    ],
+    "slug": "austin-plumbers-repair-service-installation",
+    "state": "TX",
+    "street": "1505 West 6th Street Bldg 1 3rd Floor Ste 310",
+    "zip": "78703"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Manuel Landscaping Service",
+    "phone": "(512) 203-9459",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Chrysa Rice",
+        "rating": 5,
+        "text": "Amazing service...highly recommend.  My lawn has never been so well manicured!  Their tree service is top notch and the added plus ... services are extremely  affordable!"
+      }
+    ],
+    "slug": "manuel-landscaping-service",
+    "state": "TX",
+    "street": "1401 Rutland Drive",
+    "zip": "78758"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "MS Landscape",
+    "phone": "(512) 696-3796",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "kelin gonzales",
+        "rating": 5,
+        "text": "I got my trees cut in my property really clean job. And laid some mulch out definitely recommend."
+      },
+      {
+        "author": "mani mo",
+        "rating": 5,
+        "text": "Amazing mulch work while mulch dump was done in just a few hours great pricing as well."
+      },
+      {
+        "author": "ceez lol",
+        "rating": 5,
+        "text": "MS did a really good job with my stone work in my front yard."
+      }
+    ],
+    "slug": "ms-landscape",
+    "state": "TX",
+    "street": "8407 North Lamar Boulevard A",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Thompson + Hanson Landscape Architecture",
+    "phone": "(512) 327-7424",
+    "rating": 3.7,
+    "reviewCount": 3,
+    "reviews": null,
+    "slug": "thompson-hanson-landscape-architecture",
+    "state": "TX",
+    "street": "1508 West 34th Street Suite 100",
+    "zip": "78703"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Green Brothers Landscaping",
+    "phone": "(512) 761-7571",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "green-brothers-landscaping",
+    "state": "TX",
+    "street": "5350 Burnet Road 7",
+    "zip": "78756"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Sanchez Irrigation & Landscaping",
+    "phone": "(512) 998-6561",
+    "rating": 3,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Sena E",
+        "rating": 5,
+        "text": "Did an awesome job with clearing out our backyard and resodding with zoysia + mulching areas. Very professional, great group of guys."
+      },
+      {
+        "author": "Rebecca J",
+        "rating": 5,
+        "text": "Sal and his team do such a great job. They installed my sprinkler system at my last house, do I called him again when we moved, and he completed a new installation here as well.\n\nHe also installed new sod and landscape r"
+      }
+    ],
+    "slug": "sanchez-irrigation-and-landscaping",
+    "state": "TX",
+    "street": "7801 North Lamar Boulevard",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Luna's Lawn and Construction LLC",
+    "phone": "(512) 810-8205",
+    "rating": 5,
+    "reviewCount": 20,
+    "reviews": [
+      {
+        "author": "Trinity",
+        "rating": 5,
+        "text": "Lunas lawn care did a huge overall on my home that included full demo of my existing front yard, adding irrigation, and installing beautiful zoysia sod. Jose the owner is so close to each job that you can be confident if"
+      },
+      {
+        "author": "Rashad Ajalov",
+        "rating": 5,
+        "text": "I work in real estate and helped coordinate a landscaping job for a landlord client. The team was efficient, responsive, and delivered great results."
+      },
+      {
+        "author": "Tess Guzman",
+        "rating": 5,
+        "text": "We had a fantastic experience working with Jose and his team. They handled everything, from installing irrigation and laying down Zoysia grass to taking care of the soil and mulch. They have great attention to detail. We"
+      }
+    ],
+    "slug": "luna-s-lawn-and-construction-llc",
+    "state": "TX",
+    "street": "5400 Freidrich Lane",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Sweetgrass 512 Landscaping & Tree Services",
+    "phone": "(512) 506-1318",
+    "rating": 5,
+    "reviewCount": 14,
+    "reviews": [
+      {
+        "author": "Alison P. Sauter",
+        "rating": 5,
+        "text": "I'm a first time home owner.\n\nDaniel and Felipe and his other teammate were so easy to work with and were cost effective for what I needed completed at the time. They were extremely knowledgable at trimming the trees and"
+      },
+      {
+        "author": "Martha Carleton",
+        "rating": 5,
+        "text": "The guys were great! We got a lot of compliments from our neighbors about our front yard. Even the deer like it!"
+      },
+      {
+        "author": "Victoria Obregon-Osorio",
+        "rating": 5,
+        "text": "I was very happy with the results.  My yard needed some attention. They were able to get rid of the vines on the fencing. They also cleaned up my front tree and rid of the smaller trees that were becoming eye stores. The"
+      }
+    ],
+    "slug": "sweetgrass-512-landscaping-and-tree-services",
+    "state": "TX",
+    "street": "8501 Bluff Springs Road",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Happy Gardens of Austin",
+    "phone": "(512) 290-9998",
+    "rating": 5,
+    "reviewCount": 7,
+    "reviews": [
+      {
+        "author": "Adam Schaeffer",
+        "rating": 5,
+        "text": "Hanna and her team did a great job with our front yard. Our home sits about 5 feet above our street, and for years, we've struggled with how to landscape the west-facing hill at the curb. Hanna listened to the challenges"
+      },
+      {
+        "author": "Катя Діхтяренко",
+        "rating": 5,
+        "text": "I know this Wonderful Person for many years. And I know for sure that in addition to high professionalism, it's a person with exceptional taste, incredible scrupulousness, punctuality and a huge store of knowledge. Anna "
+      },
+      {
+        "author": "ari",
+        "rating": 5,
+        "text": "She created a wonderful succulent garden for us and we couldn’t be happier. We strongly recommend her for your interior or outdoor landscape needs. She addressed all our needs professionally and ended up delivering resul"
+      }
+    ],
+    "slug": "happy-gardens-of-austin",
+    "state": "TX",
+    "street": "2301 South MoPac Expressway #238",
+    "zip": "78746"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Vista-Scape Inc",
+    "phone": "(512) 834-0583",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Troll bums",
+        "rating": 5,
+        "text": "I was not a customer but I ran out of gas and these guys were kind enough to help me push my car up a huge hill and all the way to the gas station and didn’t ask anything in return and I very much appreciate and recommen"
+      },
+      {
+        "author": "Luis Nunez-Gonzalez",
+        "rating": 5,
+        "text": "Best landscaping company I know!\nThey always go above and beyond for the customer!!"
+      }
+    ],
+    "slug": "vista-scape-inc",
+    "state": "TX",
+    "street": "13704 Thermal Drive",
+    "zip": "78728"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Marathon Lawn Care & Services LLC",
+    "phone": "(512) 589-8363",
+    "rating": 5,
+    "reviewCount": 81,
+    "reviews": [
+      {
+        "author": "Chris Simonton",
+        "rating": 5,
+        "text": "Exceeded expectations!  I could write more but honestly if you are in their service area, you should use them. I used to have the ugliest yard on the block.  Now I'm easily a top 3 contender.  Photos from May 2021 sod in"
+      },
+      {
+        "author": "Mike Lawrence",
+        "rating": 5,
+        "text": "We’ve been using Marathon lawn care for our properties for about 2 years now and Zach and the team are always friendly, accommodating, professional, and do excellent work at a fair price. Zach is an excellent communicato"
+      },
+      {
+        "author": "John Wise",
+        "rating": 5,
+        "text": "Zach and his team are fantastic. They are very thorough, courteous,  efficient, and professional. Their prices are extremely reasonable and they are great at communicating when they will be coming by to work on the yard "
+      }
+    ],
+    "slug": "marathon-lawn-care-and-services-llc",
+    "state": "TX",
+    "street": "4600 Everest Lane",
+    "zip": "78727"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Grace Landscape",
+    "phone": "(512) 810-4153",
+    "rating": 4.6,
+    "reviewCount": 11,
+    "reviews": [
+      {
+        "author": "Graham Ellis",
+        "rating": 5,
+        "text": "Felix is incredible to work with. His team is amazing and installed my irrigation efficiently and did a great job cleaning up after themselves. I would recommend to anyone looking to get irrigation installed. No one bett"
+      },
+      {
+        "author": "Mirt Norgren",
+        "rating": 5,
+        "text": "Felix and his team did a fantastic job installing an irrigation system for our home in Dripping Springs, TX. Everything was delivered as promised, installed professionally and our yard was left in pristine shape. You wou"
+      },
+      {
+        "author": "Marisa Beckett",
+        "rating": 5,
+        "text": "Felix did such an amazing job laying river rock and concrete steps in my side yard!  This was an area with very little sun and poor drainage.  His attention to detail was terrific and he even installed tiny bubblers on m"
+      }
+    ],
+    "slug": "grace-landscape",
+    "state": "TX",
+    "street": "7212 Grand Canyon Drive Unit b",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Zamora Landscaping & Tree Service",
+    "phone": "(737) 207-0337",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Bill Greif",
+        "rating": 5,
+        "text": "Zamora Landscaping & Tree Service has done a couple of big mowing jobs for me. They did an excellent job each time. Robert is easy to work with, affordable, prompt, and does a first class job. I definitely recommend the "
+      },
+      {
+        "author": "Alex h",
+        "rating": 5,
+        "text": "Great communication, service, and price. Timely & effective, couldn't ask for more."
+      },
+      {
+        "author": "Brenda Boonabaana",
+        "rating": 5,
+        "text": "Roberto did an excellent job with our lawn. It was so grown that it needed a professional touch. He did the work to our expectations. He is very efficient and easy to work with. His cost is also pocket friendly. Highly r"
+      }
+    ],
+    "slug": "zamora-landscaping-and-tree-service",
+    "state": "TX",
+    "street": "7108 Northeast Drive",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Flora Landscaping",
+    "phone": "(512) 628-1590",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Dere Vere",
+        "rating": 5,
+        "text": "Felt comfortable with the process. It was fine for my needs."
+      }
+    ],
+    "slug": "flora-landscaping",
+    "state": "TX",
+    "street": "610 Springdale Road",
+    "zip": "78702"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "JD Landscaping Services LLC",
+    "phone": "(512) 336-7371",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "jd-landscaping-services-llc",
+    "state": "TX",
+    "street": "6400 Wilcab Road",
+    "zip": "78721"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Greenway Landscaping",
+    "phone": "(512) 258-4064",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Robin Smith",
+        "rating": 5,
+        "text": "Terry and David at Greenway did an absolute fantastic job in creating a backyard lily pond for me. They went above an beyond in finding solutions for securing some large standing boulders that surrounded the feature. Eve"
+      }
+    ],
+    "slug": "greenway-landscaping",
+    "state": "TX",
+    "street": "9800 Queensland Drive",
+    "zip": "78729"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Lone Star Grass & Landscape",
+    "phone": "(512) 596-6555",
+    "rating": 4.5,
+    "reviewCount": 13,
+    "reviews": [
+      {
+        "author": "Jax Meek",
+        "rating": 5,
+        "text": "I’m so happy with how everything turned out. The team did an amazing job bringing my ideas to life and creating a custom landscape design that fits my space perfectly. They were professional, reliable, and easy to work w"
+      },
+      {
+        "author": "Orion",
+        "rating": 5,
+        "text": "Whole team was great, had great suggestions and really cared about their work. Project was completed on time and better than expected. Left my garden looking like a million bucks."
+      },
+      {
+        "author": "Matthew Madjik",
+        "rating": 5,
+        "text": "Did a great job with my zoysia sod and a very difficult landscaping area with large trees and difficult soil. Just a joy to work with."
+      }
+    ],
+    "slug": "lone-star-grass-and-landscape",
+    "state": "TX",
+    "street": "12224 Roxie Drive",
+    "zip": "78729"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Elder's Landscaping",
+    "phone": "(832) 779-3003",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "elder-s-landscaping",
+    "state": "TX",
+    "street": "5900 Balcones Drive Suit 100",
+    "zip": "78731"
+  },
+  {
+    "categoryLabel": "landscaping",
+    "city": "Austin",
+    "hours": null,
+    "industry": "landscaping",
+    "name": "Austin Landscape Designer & Architect Co.",
+    "phone": "(737) 383-0811",
+    "rating": 5,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "hernan orozco",
+        "rating": 5,
+        "text": "The 3D landscape design made it easy to understand how everything would look before the work began. The finished project matched the plan closely, and the entire yard finally feels connected."
+      },
+      {
+        "author": "Sonya Allen",
+        "rating": 5,
+        "text": "What a FANTASTIC experience!!! Our front yard had become overgrown and dated, and we needed someone who could see beyond what was already there. The designer came up with a fresh layout using flowering plants, low-mainte"
+      },
+      {
+        "author": "manny jagroop",
+        "rating": 5,
+        "text": "Our backyard turned into a swamp every time it rained and the front beds were overgrown and dated, so we finally called Austin Landscape Designer & Architect Co. They regraded the lawn, put in proper drainage, and design"
+      }
+    ],
+    "slug": "austin-landscape-designer-and-architect-co",
+    "state": "TX",
+    "street": "801 Barton Springs Road",
+    "zip": "78704"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "KP SERVICES",
+    "phone": "(512) 593-2066",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": null,
+    "slug": "kp-services",
+    "state": "TX",
+    "street": "3625 Duval Road",
+    "zip": "78759"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "T M Electric",
+    "phone": "(512) 834-8174",
+    "rating": 4.5,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "Michael Geiger",
+        "rating": 5,
+        "text": "TM Electric replaced all our church's parking lot lights with LED fixtures.  The work was done efficiently and professionally.  We've never had a brighter lit-up campus!  Thank you to TM Electric!"
+      },
+      {
+        "author": "Gabriel Marquez",
+        "rating": 5,
+        "text": "Very professional and outstanding  work 5 🌟 rating"
+      },
+      {
+        "author": "Samantha Estrada",
+        "rating": 5,
+        "text": "Awesome worker's they get the job done!!!"
+      }
+    ],
+    "slug": "t-m-electric",
+    "state": "TX",
+    "street": "9802 Gray Boulevard",
+    "zip": "78758"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Holden Electrical Contracting",
+    "phone": "(512) 290-9437",
+    "rating": 5,
+    "reviewCount": 6,
+    "reviews": [
+      {
+        "author": "Hibart Gulam",
+        "rating": 5,
+        "text": "Holden Electrical Contracting delivers exceptional service with expert craftsmanship and reliable solutions. Their team is professional, efficient, and always goes the extra mile to ensure customer satisfaction. Highly r"
+      },
+      {
+        "author": "Rasmoni Hanasd",
+        "rating": 5,
+        "text": "They replaced several light fixtures in my home and even helped me choose the right bulbs for each room. The electricians were patient and friendly, making the entire process enjoyable."
+      },
+      {
+        "author": "Christopher Wallace",
+        "rating": 5,
+        "text": "I called on a Saturday and they provided an accurate estimated cost on services we were seeking to be performed. We made an appointment for Monday morning and I received an email confirming appointment. This was my first"
+      }
+    ],
+    "slug": "holden-electrical-contracting",
+    "state": "TX",
+    "street": "10435 Burnet Road",
+    "zip": "78758"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Rand Electrical",
+    "phone": "(512) 399-3595",
+    "rating": 3.5,
+    "reviewCount": 22,
+    "reviews": [
+      {
+        "author": "Torex Japano",
+        "rating": 5,
+        "text": "Rand Electrical delivers exceptional service with skilled, reliable technicians who prioritize safety and efficiency. Their prompt response and quality workmanship make every project smooth and hassle-free. Highly recomm"
+      },
+      {
+        "author": "Richard Hovis",
+        "rating": 5,
+        "text": "Our first experience with Rand Electrical was outstanding. They did an excellent job. Not only was their pricing excellent, they saved me a lot of money and hassle by being able to replace old recessed light fixtures wit"
+      },
+      {
+        "author": "William Overlock",
+        "rating": 5,
+        "text": "We have been Rand Electrical  customers for a number of years.  We also have had many professionals from them and other companies come to provide a wide variety of services, including annual reviews conducted today.  Sam"
+      }
+    ],
+    "slug": "rand-electrical",
+    "state": "TX",
+    "street": "9804 North Lamar Boulevard",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Duvall Electric",
+    "phone": "(512) 599-4061",
+    "rating": 4.4,
+    "reviewCount": 7,
+    "reviews": [
+      {
+        "author": "Sujatha Kashyap",
+        "rating": 5,
+        "text": "Such a fantastic team at Duvall Electric - they have helped me out in emergency situations a couple of times, and they have always been very prompt, professional, follow-through with courtesy,  and get the job done quick"
+      },
+      {
+        "author": "Paul Hernandez",
+        "rating": 5,
+        "text": "They have all the experience at all the equipment in to do your electrical work"
+      }
+    ],
+    "slug": "duvall-electric",
+    "state": "TX",
+    "street": "1715 West Anderson Lane",
+    "zip": "78757"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Grand Mansion Electricians",
+    "phone": "(479) 529-7248",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "grand-mansion-electricians",
+    "state": "TX",
+    "street": "5310 Burnet Road",
+    "zip": "78756"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Gomez Electric & Appliance Services",
+    "phone": "(512) 280-5623",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "gomez-electric-and-appliance-services",
+    "state": "TX",
+    "street": "10007 Gail Road",
+    "zip": "78748"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Alderson Electric",
+    "phone": "(512) 693-7230",
+    "rating": 5,
+    "reviewCount": 7,
+    "reviews": [
+      {
+        "author": "Sam Mattord",
+        "rating": 5,
+        "text": "Jon is a great electrician. He is honest and fair and friendly."
+      },
+      {
+        "author": "Elon Goldman",
+        "rating": 5,
+        "text": "I needed an electrical repair done at my house and Jon was quick to respond to my request. He was on time and got the job done in a timely manner. Would highly recommend!"
+      },
+      {
+        "author": "Amanda Castroverde",
+        "rating": 5,
+        "text": "Cannot recommend Jon enough. Communication was easy, he knocked out the work quickly, and charged a fair price. He was very thoughtful about the job and gave me options: cheapest way to get it done vs. the right/best way"
+      }
+    ],
+    "slug": "alderson-electric",
+    "state": "TX",
+    "street": "720 Maltese Cross Drive",
+    "zip": "78748"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Buda",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Electrician Near me Atx LLC",
+    "phone": "(817) 662-0635",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Adrian Whipp",
+        "rating": 5,
+        "text": "Great experience. Ryan responded promptly and fixed a list of electrical issues that had been piling up over the years. Highly recommended!"
+      },
+      {
+        "author": "Adam Parker",
+        "rating": 5,
+        "text": "Ryan is awesome - super personable, educated, and explains what needs to be done for safety and what needs to be done for optimization. Before using Ryan, I had found two other companies that were using scare tactics to "
+      }
+    ],
+    "slug": "electrician-near-me-atx-llc",
+    "state": "TX",
+    "street": "116 Old West Trail",
+    "zip": "78610"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Elite Spark Electrician",
+    "phone": "(912) 796-9685",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "elite-spark-electrician",
+    "state": "TX",
+    "street": "2001 East Slaughter Lane",
+    "zip": "78747"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Sovereign Crest Electricians",
+    "phone": "(714) 747-5337",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "sovereign-crest-electricians",
+    "state": "TX",
+    "street": "2512 East Riverside Drive",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Domingo electric service LLC",
+    "phone": "(512) 679-5241",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "domingo-electric-service-llc",
+    "state": "TX",
+    "street": "2425 Cromwell Circle",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "PrimeVolt Electrician Solutions",
+    "phone": "(640) 269-9976",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "primevolt-electrician-solutions",
+    "state": "TX",
+    "street": "6700 Trissino Drive",
+    "zip": "78739"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Wade Electric",
+    "phone": "(512) 399-8697",
+    "rating": 5,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Kaden Kairo",
+        "rating": 5,
+        "text": "Wade Electric delivered exceptional service with prompt and professional technicians. Their attention to detail and commitment to safety really stood out. Highly recommended for anyone needing reliable electrical work!"
+      },
+      {
+        "author": "Joseph Kennedy",
+        "rating": 5,
+        "text": "This entire crew is amazing, very happy they were recommended to us by a by a family member.  We are very impressed with their wk, professionalism and overall individual character. I recommend Wade Electric. You wont reg"
+      },
+      {
+        "author": "Arielle Ouedraogo",
+        "rating": 5,
+        "text": "Wade Electric provides excellent service with skilled craftsmanship and attention to detail. Reliable, professional, and highly recommended!"
+      }
+    ],
+    "slug": "wade-electric",
+    "state": "TX",
+    "street": "610 Ladin Lane",
+    "zip": "78734"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Rentner Electrician",
+    "phone": "(512) 256-8249",
+    "rating": 3.7,
+    "reviewCount": 6,
+    "reviews": [
+      {
+        "author": "Katie Zamora",
+        "rating": 5,
+        "text": "This is the third time that we have used the Rentner Electrician and the first time to use David P. to service the wiring needs of our mid century modern home. I find their work to be superior and all of their staff to b"
+      },
+      {
+        "author": "Joann Major",
+        "rating": 5,
+        "text": "Rentner Electrician team did an absolutely amazing job building a fence for us! They literally had it up in 2 days and it could not look better! Would 100% recommend this company! We were on a budget and they were totall"
+      }
+    ],
+    "slug": "rentner-electrician",
+    "state": "TX",
+    "street": "15500 Fox Run Drive",
+    "zip": "78737"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "TrustedShield Electrician",
+    "phone": "(845) 633-6866",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "trustedshield-electrician",
+    "state": "TX",
+    "street": "250 Lotus Circle",
+    "zip": "78737"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Calvin's Electric",
+    "phone": "(512) 445-4580",
+    "rating": 3.4,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Heath Carpenter",
+        "rating": 5,
+        "text": "Calvin’s wired my house 8 years ago, as well as many friends and people I know.  Exceptional experience.  The other unhappy reviewer sounds like he doesn’t appreciate a man’s prerogative to run and focus his business in "
+      },
+      {
+        "author": "luis garcia",
+        "rating": 5,
+        "text": "Good service"
+      }
+    ],
+    "slug": "calvin-s-electric",
+    "state": "TX",
+    "street": "11190 Circle Drive",
+    "zip": "78736"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Fast Track Electricians",
+    "phone": "(737) 292-8943",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "fast-track-electricians",
+    "state": "TX",
+    "street": "166 Hargraves Drive",
+    "zip": "78737"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Tech Electric",
+    "phone": "(512) 292-6950",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Matt Haney",
+        "rating": 5,
+        "text": "I have used Jeff for years and like any small business he has had challenges keeping up with the growth. Jeff has hired several new journeymen to help and my recent experiences with them have been nothing but FANTASTIC. "
+      },
+      {
+        "author": "Robert B",
+        "rating": 5,
+        "text": "Great service!"
+      }
+    ],
+    "slug": "tech-electric",
+    "state": "TX",
+    "street": "7903 Wycombe Drive",
+    "zip": "78749"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Home Electrician Pros Austin",
+    "phone": "(512) 631-5677",
+    "rating": 4.3,
+    "reviewCount": 21,
+    "reviews": [
+      {
+        "author": "ศศิธร ราชแป้น",
+        "rating": 5,
+        "text": "From the moment the electrician arrived, it was clear he was a true professional. His attention to detail while installing my new fixtures was impressive. The job was completed in just over an hour, and everything works "
+      },
+      {
+        "author": "Sanaa Emilio",
+        "rating": 5,
+        "text": "After an hour of methodical work, the electrician expertly revived our malfunctioning electrical panel. His attention to detail and clear explanations transformed a potentially stressful situation into a seamless experie"
+      },
+      {
+        "author": "Sandra Starr",
+        "rating": 5,
+        "text": "After a seamless experience, my electrical panel is back in top shape. The electrician arrived within 30 minutes, diagnosed the issue swiftly, and executed the repair with precision. Highly recommend!"
+      }
+    ],
+    "slug": "home-electrician-pros-austin",
+    "state": "TX",
+    "street": "72 Sundown Parkway",
+    "zip": "78746"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "West Lake Hills",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Eco Electrical Co.",
+    "phone": "(512) 489-1793",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Torex Japano",
+        "rating": 5,
+        "text": "Eco Electrical Co. delivers exceptional service with a strong commitment to sustainability and quality. Their team is knowledgeable, reliable, and always goes the extra mile to ensure customer satisfaction. Highly recomm"
+      },
+      {
+        "author": "Miranda Eric",
+        "rating": 5,
+        "text": "Can't believe how wonderful they did an excellent job to solve all my electrical problems ! Now, I have a peaceful mind in stress free environment. I am glad that I used their services. You won't be sorry if you use this"
+      },
+      {
+        "author": "Jon Blake",
+        "rating": 5,
+        "text": "Thank you!  I am glad that I used their services. You won't be sorry if you use this company they did a great excellent job. It was a nice experience"
+      }
+    ],
+    "slug": "eco-electrical-co",
+    "state": "TX",
+    "street": "5307 Bee Caves Road",
+    "zip": "78746"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Tomei Electric",
+    "phone": "(512) 893-9715",
+    "rating": 5,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "Diana Sun",
+        "rating": 5,
+        "text": "We recently had Todd & Leo install an ev charger, a dining room ceiling lamp, and an outlet behind the toilet for a bidet. They were super patient with our many questions, & the end result for all 3 projects look great. "
+      },
+      {
+        "author": "Linda",
+        "rating": 5,
+        "text": "Excellent! Excellent!! Excellent!!!\nTodd and Leo were true professionals from start to finish.  I was able to get an appointment that worked for me, they showed up on time, and ready to get to work.  There were many elec"
+      },
+      {
+        "author": "Maryam Nazari",
+        "rating": 5,
+        "text": "Todd worked on multiple electrical projects (including rebuilding of outdoor panel, GFCI installation, light installation and adding a new 30A receptacle to my garage) at my house and I was impressed by his professionali"
+      }
+    ],
+    "slug": "tomei-electric",
+    "state": "TX",
+    "street": "6400 Fair Valley Trail",
+    "zip": "78749"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Johnson- Powers Contruction Inc.",
+    "phone": "(512) 413-5992",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "William",
+        "rating": 5,
+        "text": "Best construction company in Texas"
+      }
+    ],
+    "slug": "johnson-powers-contruction-inc",
+    "state": "TX",
+    "street": "104 Weston Lane South",
+    "zip": "78733"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Sparkify Electric",
+    "phone": "(840) 225-1647",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "sparkify-electric",
+    "state": "TX",
+    "street": "8656 State Highway 71",
+    "zip": "78735"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "American Electric Co",
+    "phone": "(512) 263-1214",
+    "rating": 3.6,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "SCOTT GIBBONS",
+        "rating": 5,
+        "text": "The owner, Jack, is always available and his employees are top notch people.  Great choice for your electrical needs."
+      },
+      {
+        "author": "Derek Prilop",
+        "rating": 5,
+        "text": "Started here loved it great group of guys i learned a trade and want to continue soon if they take me back ill never leave again"
+      }
+    ],
+    "slug": "american-electric-co",
+    "state": "TX",
+    "street": "1107 Cuernavaca Drive North",
+    "zip": "78733"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Midway Electric",
+    "phone": "(512) 269-0365",
+    "rating": 4.2,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Tample Osadat",
+        "rating": 5,
+        "text": "Midway Electric delivers exceptional service with a skilled and friendly team. Their work is reliable, efficient, and always up to the highest standards. I highly recommend them for any electrical needs!"
+      },
+      {
+        "author": "Rabbi Yisroel Bernath",
+        "rating": 5,
+        "text": "Fantastic service!!!"
+      }
+    ],
+    "slug": "midway-electric",
+    "state": "TX",
+    "street": "7501 Sandia Loop",
+    "zip": "78735"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Admiral Electrical Services",
+    "phone": "(512) 265-8906",
+    "rating": 4.3,
+    "reviewCount": 6,
+    "reviews": [
+      {
+        "author": "Hibart Gulam",
+        "rating": 5,
+        "text": "Admiral Electrical Services delivers reliable, top-quality workmanship with great attention to detail. Their team is professional, punctual, and always ensures customer satisfaction. I highly recommend them for any elect"
+      },
+      {
+        "author": "Eric Lara",
+        "rating": 5,
+        "text": "When I had a problem with my hardwired smoke detectors and needed a rocker light switch replaced last week, I called Admiral Electrical Services. I was extremely pleased that they were able to dispatch someone the same d"
+      },
+      {
+        "author": "Callan Finn",
+        "rating": 5,
+        "text": "The electrician arrived on time and did an excellent job. Very reliable and honest. I will definitely use their services again."
+      }
+    ],
+    "slug": "admiral-electrical-services",
+    "state": "TX",
+    "street": "8810 Travis Hills Drive",
+    "zip": "78735"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Grayson Electrical",
+    "phone": "(512) 543-4020",
+    "rating": 4.5,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "Hurdhan Manik",
+        "rating": 5,
+        "text": "Grayson Electrical delivered exceptional service with professionalism and efficiency. Their team was knowledgeable, punctual, and completed the job flawlessly. Highly recommend them for any electrical work!"
+      },
+      {
+        "author": "Agnes Ritchie",
+        "rating": 5,
+        "text": "Jack did an excellent job installing and ensuring our new whole house generator was fully operational. He was very courteous and informative. The whole team was outstanding beginning, took time to answer all our question"
+      },
+      {
+        "author": "Kurt Machuca",
+        "rating": 5,
+        "text": "I am impressed with my new air conditioner! Nick, my salesperson, is such a professional in this field. Jack kept my old A/c running at no additional charge while my new unit was on order. I was so grateful for that. Ins"
+      }
+    ],
+    "slug": "grayson-electrical",
+    "state": "TX",
+    "street": "5619 Sunset Ridge",
+    "zip": "78735"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Jimmie Farrell Electric Inc",
+    "phone": "(512) 442-1175",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Debbi Silagi",
+        "rating": 5,
+        "text": "I requested services from Jimmie Farrell Electric Inc. and was greeted by two attentive technicians that asked lots of questions on what my needs were, had a ceiling fan installed and electricity was tied into the switch"
+      },
+      {
+        "author": "Roper Kelley",
+        "rating": 5,
+        "text": "RIP Jimmie"
+      }
+    ],
+    "slug": "jimmie-farrell-electric-inc",
+    "state": "TX",
+    "street": "14904 Broken Bow Trail",
+    "zip": "78734"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Sparkora Electrician solution",
+    "phone": "(779) 427-6442",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "sparkora-electrician-solution",
+    "state": "TX",
+    "street": "9725 Angelwylde Drive",
+    "zip": "78733"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Matt's Electrical Work",
+    "phone": "(512) 263-4242",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Bobbi",
+        "rating": 5,
+        "text": "Real quality service. Matt was patient, knowledgeable and obviously very skilled. So was Amir! These guys are professionals and have great prices. Simply the best in Austin!"
+      },
+      {
+        "author": "Damon Hashemi",
+        "rating": 5,
+        "text": "Matt gave me a discount for juice"
+      }
+    ],
+    "slug": "matt-s-electrical-work",
+    "state": "TX",
+    "street": "3012 Portola Court",
+    "zip": "78738"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "BrightVolt Electric Services",
+    "phone": "(582) 279-7136",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "brightvolt-electric-services",
+    "state": "TX",
+    "street": "3303 Northland Drive",
+    "zip": "78731"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Prime Mansion Electricians",
+    "phone": "(464) 231-9352",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "prime-mansion-electricians",
+    "state": "TX",
+    "street": "7022 1/2 Wood Hollow Drive",
+    "zip": "78731"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Anderson Electrician",
+    "phone": "(972) 284-1911",
+    "rating": 3.7,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Matthew Potter",
+        "rating": 5,
+        "text": "Anderson Electrician\nPrompt, skilled, and courteous—Anderson Electrician delivers exceptional electrical solutions!"
+      },
+      {
+        "author": "JScho",
+        "rating": 5,
+        "text": "The electrician was very quick and efficient with repairs."
+      }
+    ],
+    "slug": "anderson-electrician",
+    "state": "TX",
+    "street": "4410 Spicewood Springs Road",
+    "zip": "78759"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Next Level Electrician",
+    "phone": "(641) 444-2629",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "next-level-electrician",
+    "state": "TX",
+    "street": "5204 Ranch to Market Road 2222",
+    "zip": "78731"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Round Rock",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Goat Electric",
+    "phone": "(512) 822-6555",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Dave Claunch",
+        "rating": 5,
+        "text": "These guys are great! Justin and his crew are friendly and professional and really know what they're doing. I've used them for several projects, big and small, including a new circuit for an EV charger and an emergency c"
+      }
+    ],
+    "slug": "goat-electric",
+    "state": "TX",
+    "street": "806 Pack Saddle Pass",
+    "zip": "78681"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Power Trust Electricians",
+    "phone": "(239) 474-8718",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "power-trust-electricians",
+    "state": "TX",
+    "street": "2113 Wells Branch Parkway",
+    "zip": "78728"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "VoltEdge Electrical",
+    "phone": "(951) 573-6302",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "voltedge-electrical",
+    "state": "TX",
+    "street": "12707 North Mopac Expressway",
+    "zip": "78727"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "JLB Electric LLC",
+    "phone": "(512) 825-5008",
+    "rating": 5,
+    "reviewCount": 20,
+    "reviews": [
+      {
+        "author": "J O",
+        "rating": 5,
+        "text": "I was dealing with a tough situation today and needed an electrician fast. Jonathan arrived promptly and handled everything with total professionalism. He listened to my problem involving an electric water heater, diagno"
+      },
+      {
+        "author": "Kelly Arnold",
+        "rating": 5,
+        "text": "I've called Jonathan on a few electric tasks and have always had a great experience. Recently, both my hall lights and a ceiling fan suddenly stopped working, and he was able to quickly diagnose and resolve the issues. H"
+      },
+      {
+        "author": "Jeff Marker",
+        "rating": 5,
+        "text": "I had Jonathan install a 200V 50A circuit in my garage and add a couple of 110V outlets in the house.  He responded quick to my phone call.  We schedule a time later that week to do the job and he showed up on time.  All"
+      }
+    ],
+    "slug": "jlb-electric-llc",
+    "state": "TX",
+    "street": "2140 Cervin Boulevard",
+    "zip": "78728"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Ultimate Electrical Service In Austin",
+    "phone": "(737) 312-6636",
+    "rating": 5,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "Sue Linares",
+        "rating": 5,
+        "text": "From the moment the electrician arrived, it was clear that professionalism and attention to detail were top priorities. He took the time to explain each step of the electrical inspection, ensuring I understood what was h"
+      },
+      {
+        "author": "ศสินา กุลอัก",
+        "rating": 5,
+        "text": "After a swift consultation, the electrician installed new outlets and switches with great precision. Their attention to detail and efficiency, completing everything within an hour, truly impressed me. Highly recommended!"
+      },
+      {
+        "author": "Margot Murrell",
+        "rating": 5,
+        "text": "Transforming my living room with new lighting was seamless thanks to the electricians expertise They arrived on time worked efficiently and ensured everything was perfect I'm impressed with the quality and professionalis"
+      }
+    ],
+    "slug": "ultimate-electrical-service-in-austin",
+    "state": "TX",
+    "street": "13819 Avenue I",
+    "zip": "78728"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "TrustedSpark Electric",
+    "phone": "(716) 580-0100",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "trustedspark-electric",
+    "state": "TX",
+    "street": "4923 Ranch Road 620 North",
+    "zip": "78732"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "ReliableVolt Electrical",
+    "phone": "(925) 539-6804",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "reliablevolt-electrical",
+    "state": "TX",
+    "street": "4308 North Quinlan Park Road",
+    "zip": "78732"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Terry Maxwell Electric Inc",
+    "phone": "(512) 250-1194",
+    "rating": 3,
+    "reviewCount": 3,
+    "reviews": null,
+    "slug": "terry-maxwell-electric-inc",
+    "state": "TX",
+    "street": "10208 Ranch Road 620 North",
+    "zip": "78726"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Pro Current Electricians",
+    "phone": "(908) 597-3581",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "pro-current-electricians",
+    "state": "TX",
+    "street": "8300 North FM 620",
+    "zip": "78726"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Anthonys Electrical Services",
+    "phone": "(512) 601-4161",
+    "rating": 4,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Shelim Khulshan",
+        "rating": 5,
+        "text": "Anthony’s Electrical Services is reliable, professional, and efficient. Their team delivers high-quality work with great attention to detail. I highly recommend them for any electrical needs!"
+      },
+      {
+        "author": "Claudia Louise",
+        "rating": 5,
+        "text": "Very professional, courteous, and well done from the appointment set up through the service call.  Mike, the technician, was perfect!  !  Better than new.  I'll recommend Anthonys Electrical to anyone.  Thanks so much.  "
+      },
+      {
+        "author": "ปริญดา ปักการะโถ",
+        "rating": 5,
+        "text": "Great service! The electrician was very knowledgeable and fixed the problem quickly."
+      }
+    ],
+    "slug": "anthonys-electrical-services",
+    "state": "TX",
+    "street": "9810 Brandywine Circle",
+    "zip": "78750"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "CitySpark Electrician Services",
+    "phone": "(334) 935-4013",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "cityspark-electrician-services",
+    "state": "TX",
+    "street": "11303 Ranch to Market Road 2222",
+    "zip": "78730"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "True Power Electricians",
+    "phone": "(609) 856-4591",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "true-power-electricians",
+    "state": "TX",
+    "street": "14509 Webberville Road",
+    "zip": "78725"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Safe Neighborhood Electrician",
+    "phone": "(534) 237-6818",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "safe-neighborhood-electrician",
+    "state": "TX",
+    "street": "9301 Hog Eye Road",
+    "zip": "78724"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Zavalas Electric LLC",
+    "phone": "(512) 698-0316",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "José Rivera",
+        "rating": 5,
+        "text": "Excellent 👌"
+      }
+    ],
+    "slug": "zavalas-electric-llc",
+    "state": "TX",
+    "street": "1625 Edgeworth Bend",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Prime Villa Electricians",
+    "phone": "(619) 316-2836",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "prime-villa-electricians",
+    "state": "TX",
+    "street": "6406 North Interstate Highway 35",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Summit Mansion Electricians",
+    "phone": "(385) 544-1614",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "summit-mansion-electricians",
+    "state": "TX",
+    "street": "1404 Ferguson Lane",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Best Electrician 24/7",
+    "phone": "(737) 301-5578",
+    "rating": 4.7,
+    "reviewCount": 24,
+    "reviews": [
+      {
+        "author": "ศรีวิไล มีวงษ์",
+        "rating": 5,
+        "text": "Having a functional home is crucial, and when a few outlets and switches went haywire, I knew I needed professional help. The electrician arrived promptly, just about 20 minutes earlier than expected, and quickly diagnos"
+      },
+      {
+        "author": "Betty Cornwell",
+        "rating": 5,
+        "text": "After a couple of hours spent on meticulous work, the new light fixtures transformed my living room into a much brighter and more inviting space. The electrician's expertise was evident, and I appreciated the friendly, p"
+      },
+      {
+        "author": "Lenora Farley",
+        "rating": 5,
+        "text": "Arriving just in time, the electrician swiftly replaced the faulty fuse with precision. Thorough work and clear explanations made the entire process stress-free. Highly recommended!"
+      }
+    ],
+    "slug": "best-electrician-24-7",
+    "state": "TX",
+    "street": "7901 Centre Park Drive",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Electric Austin go",
+    "phone": "(737) 529-6718",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Marissa Ojeda",
+        "rating": 5,
+        "text": "My wall connection plugs look great and good service"
+      }
+    ],
+    "slug": "electric-austin-go",
+    "state": "TX",
+    "street": "7500 Blessing Avenue",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Expert Electrical Service In Austin",
+    "phone": "(737) 312-6637",
+    "rating": 5,
+    "reviewCount": 18,
+    "reviews": [
+      {
+        "author": "Kathryn McPherson",
+        "rating": 5,
+        "text": "The transformation in our backyard is stunning thanks to the exceptional lighting installation. The electrician's attention to detail and creativity brought our vision to life. They arrived promptly, and the entire job w"
+      },
+      {
+        "author": "Luvenia King",
+        "rating": 5,
+        "text": "After searching for a reliable electrician, I finally found someone who exceeded my expectations. The installation of our new light fixtures went smoothly, and it's clear they take pride in their work. They arrived just "
+      },
+      {
+        "author": "ศรีสุนีย์ ทองทับ",
+        "rating": 5,
+        "text": "When I flicked the switch and the new lights danced to life, I knew I had chosen the right electrician. They arrived promptly and worked efficiently, finishing in just under an hour. The attention to detail and care in t"
+      }
+    ],
+    "slug": "expert-electrical-service-in-austin",
+    "state": "TX",
+    "street": "8503 Wall Street",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "BrightHome Electrician TX",
+    "phone": "(505) 625-9901",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "brighthome-electrician-tx",
+    "state": "TX",
+    "street": "1504 East 51st Street",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Patriot Power Electrican",
+    "phone": "(623) 306-5070",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "patriot-power-electrican",
+    "state": "TX",
+    "street": "5100 Manor Road",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "VoltMaster Electric Services",
+    "phone": "(686) 206-2388",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "voltmaster-electric-services",
+    "state": "TX",
+    "street": "1801 East 51st Street",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "SafeCurrent Electrical",
+    "phone": "(669) 269-1809",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "safecurrent-electrical",
+    "state": "TX",
+    "street": "8 Tracor Lane",
+    "zip": "78725"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Charles Electrical",
+    "phone": "(512) 598-8892",
+    "rating": 4.2,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Dudley Peek",
+        "rating": 5,
+        "text": "The electrician  was very professional and empathetic.  My garage burned on the interior and he was instrumental in getting power back to the house and me moving out of a hotel.  I received timely text notifying me of wh"
+      },
+      {
+        "author": "Grace Hansen",
+        "rating": 5,
+        "text": "Electricians came over on time.  They acted very professionally and experienced.  They gave me estimate of all that needs to be done.  They were friendly and knowledgeable.  They made me feel very confident in working wi"
+      },
+      {
+        "author": "Ambrose Emmitt",
+        "rating": 5,
+        "text": "I am extremely happy from this company work. Amazing company and helpful staff."
+      }
+    ],
+    "slug": "charles-electrical",
+    "state": "TX",
+    "street": "6003 Techni Center Drive",
+    "zip": "78721"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Premier Electrician Services",
+    "phone": "(737) 281-2742",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "reviews": [
+      {
+        "author": "Patricia Weatherwax",
+        "rating": 5,
+        "text": "The whole process was smooth and stress free. It was easy to schedule and the technician was on time and had everything required to get the job done. The work was done professionally. I would strongly suggest them."
+      },
+      {
+        "author": "Myrna Clark",
+        "rating": 5,
+        "text": "Troubleshooting electricity problems and quickly figuring out what's wrong are what our plumbers do best. We fix things in a way that keeps your electricity system working safely."
+      },
+      {
+        "author": "Angela Anderson",
+        "rating": 5,
+        "text": "The electrician was really professional. He was really nice, informed, and thorough. He fixed our wiring carefully and made sure all the circuits were working. The outcomes are great for me."
+      }
+    ],
+    "slug": "premier-electrician-services",
+    "state": "TX",
+    "street": "5605 Springdale Road",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Cedar Park",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Dabek Electrician",
+    "phone": "(512) 265-8925",
+    "rating": 4.2,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Huklam Jordhuo",
+        "rating": 5,
+        "text": "GDabek Electrician delivers reliable and efficient service with a friendly, professional attitude. Their expertise ensures every job is done safely and on time. Highly recommended for all your electrical needs!"
+      },
+      {
+        "author": "Matthew Simcock",
+        "rating": 5,
+        "text": "Ask for Raymond. He was a friendly electrician who really got us out of a bind during the ice storm."
+      },
+      {
+        "author": "Laurel Bodah",
+        "rating": 5,
+        "text": "Hey! This isn't a review as much as it is a HEY HELP! My number is shown on your page as the company number, so I keep getting calls. Please change!"
+      }
+    ],
+    "slug": "dabek-electrician",
+    "state": "TX",
+    "street": "3006 Juneau Drive",
+    "zip": "78613"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Volt Works Electricians",
+    "phone": "(667) 512-1570",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "volt-works-electricians",
+    "state": "TX",
+    "street": "4001 North Lamar Boulevard",
+    "zip": "78756"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Titan Volt Electricians",
+    "phone": "(464) 271-3641",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "titan-volt-electricians",
+    "state": "TX",
+    "street": "3005 South Lamar Boulevard",
+    "zip": "78704"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Mendez Family Plumbing & Electrical",
+    "phone": "(512) 813-0488",
+    "rating": 4.8,
+    "reviewCount": 111,
+    "reviews": [
+      {
+        "author": "Cory Matthews",
+        "rating": 5,
+        "text": "We had a great experience with Mendez Family Plumbing & Electrical for a new water heater replacement in Austin. Miguel was the technician on this job, and he was very polite, friendly, and easy to talk with. He really k"
+      },
+      {
+        "author": "Tracey Stanton",
+        "rating": 5,
+        "text": "I recently hired a plumbing company when our drain pipes stopped flowing properly. After trying several times to fix the issue myself, I called in a professional plumber. They ran a sewer camera through the line to find "
+      },
+      {
+        "author": "Sabrina Wiggins",
+        "rating": 5,
+        "text": "Billy arrived at our home and quickly checked the plumbing issue. He explained a better pipe layout and walked us through the repair in simple terms. With Miguel helping, they carefully opened the drywall and installed n"
+      }
+    ],
+    "slug": "mendez-family-plumbing-and-electrical",
+    "state": "TX",
+    "street": "2508 Guadalupe Street Suite 175",
+    "zip": "78705"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Austin",
+    "hours": null,
+    "industry": "electrician",
+    "name": "The Power Electric Austin",
+    "phone": "(512) 648-8270",
+    "rating": 4.6,
+    "reviewCount": 10,
+    "reviews": [
+      {
+        "author": "Sherryl Millette",
+        "rating": 5,
+        "text": "From the moment the technician arrived, it was clear I was in capable hands. They worked efficiently, completing the entire wiring installation in just under an hour. Their attention to detail and professionalism put me "
+      },
+      {
+        "author": "Jodi Bush",
+        "rating": 5,
+        "text": "From the moment the electrician arrived, professionalism and expertise were evident. The thorough inspection revealed a few issues I hadn't anticipated, but they explained everything clearly and fixed it efficiently. Tru"
+      },
+      {
+        "author": "Asa Nyasia",
+        "rating": 5,
+        "text": "A friend recommended this electrician, and I'm so glad they did. Arriving within 45 minutes, they efficiently installed new outlets and switches throughout my home. Their professionalism and attention to detail were impr"
+      }
+    ],
+    "slug": "the-power-electric-austin",
+    "state": "TX",
+    "street": "3000 White Rock Drive",
+    "zip": "78757"
+  },
+  {
+    "categoryLabel": "electrician",
+    "city": "Rollingwood",
+    "hours": null,
+    "industry": "electrician",
+    "name": "Sherman Electrician",
+    "phone": "(512) 601-4048",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Hurdhan Manik",
+        "rating": 5,
+        "text": "Sherman Electrician provided outstanding service—prompt, professional, and efficient. The technician quickly diagnosed and fixed the issue with great attention to detail. Highly recommend for anyone seeking reliable and "
+      },
+      {
+        "author": "Foom Vwj",
+        "rating": 5,
+        "text": "I called them late at night when my power went out unexpectedly, and they were at my door within an hour. The electrician diagnosed and fixed a faulty breaker quickly. I appreciate their 24/7 availability and professiona"
+      },
+      {
+        "author": "Kurtis Ugarte",
+        "rating": 5,
+        "text": "Technician Mike is professional, courteous, and knows what he's doing.  He troubleshot the nest of wires with his bag of gadgets, found the problem, jumped inside the outside unit and replaced a burnt condenser wire.  Th"
+      }
+    ],
+    "slug": "sherman-electrician",
+    "state": "TX",
+    "street": "2722 Rollingwood Drive",
+    "zip": "78746"
   }
 ]
