@@ -6701,5 +6701,36 @@
     "state": "TX",
     "street": "2647 West Northwest Highway B",
     "zip": "75220"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "nails",
+    "name": "Tip 2 Toe",
+    "phone": "(214) 381-3625",
+    "rating": 3.8,
+    "reviewCount": 241,
+    "reviews": [
+      {
+        "author": "Kay",
+        "rating": 5,
+        "text": "Oh goodness where do I start?! Been going to Tip 2 Toe for over three years now.  I absolutely love getting my nails done with David! His attention to detail is unmatched, and he always makes sure my nails look flawless."
+      },
+      {
+        "author": "Savanna Hooks",
+        "rating": 5,
+        "text": "I had such an amazing experience. Customer service was throughout the roof!  I went in the shop and got seated immediately. The nail tech who did my nails name is Bryan, and I strongly suggest booking with him. My nails "
+      },
+      {
+        "author": "Jocey Lara",
+        "rating": 5,
+        "text": "Ask for David! I trust no other to do my sets 💯trusted nail tech super cool and sweet"
+      }
+    ],
+    "slug": "tip-2-toe",
+    "state": "TX",
+    "street": "2943 South Buckner Boulevard 200",
+    "zip": "75227"
   }
 ]
