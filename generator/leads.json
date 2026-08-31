@@ -4530,5 +4530,2176 @@
     "state": "TX",
     "street": "1328 North Jim Miller Road",
     "zip": "75217"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Line King Power Cuts",
+    "phone": "(318) 663-2202",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Natalino Carlo",
+        "rating": 5,
+        "text": "He IS the Line King. Highly recommend having him as your barber. You can go to his shop or he also does house calls. During his house calls he is literally a walking barber shop. He has a whole set he brings that you mus"
+      },
+      {
+        "author": "M Wilson",
+        "rating": 5,
+        "text": "Line King, thanks for getting me right! I've tried several barbers here in dallas and NO ONE has every gotten my line the way I wanted until today! Customer service was excellent as well, thank you!!"
+      },
+      {
+        "author": "Broderick Battee",
+        "rating": 5,
+        "text": "Excellent barber if you need someone to keep you looking sharp then he’s your guy"
+      }
+    ],
+    "slug": "line-king-power-cuts",
+    "state": "TX",
+    "street": "407 North Lamar Street",
+    "zip": "75202"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "A Cut Above Barber Shop",
+    "phone": "(214) 480-2037",
+    "rating": 3,
+    "reviewCount": 2,
+    "reviews": null,
+    "slug": "a-cut-above-barber-shop",
+    "state": "TX",
+    "street": "3502 Simpson Stuart Road",
+    "zip": "75241"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Fili Barber & Salon",
+    "phone": "(469) 877-6999",
+    "rating": 5,
+    "reviewCount": 107,
+    "reviews": [
+      {
+        "author": "Logan McLain",
+        "rating": 5,
+        "text": "10/10 WOULD RECOMMEND!\n\nWalked into Fili’s as a walk-in. I was staying at the Westin around the corner, and needed a cut for a business meeting.\n\nFili was quick to fit me in, only had to wait a few minutes. He was super "
+      },
+      {
+        "author": "Nathaniel Tedros",
+        "rating": 5,
+        "text": "Very professional. I am always satisfied with this place. I highly recommend this place for salon and barber services."
+      },
+      {
+        "author": "Ralph",
+        "rating": 5,
+        "text": "I had a fantastic experience at Fill Barber and Salon! From the moment I walked in, the atmosphere was welcoming, and the staff was friendly and professional. My barber took the time to listen to what I wanted and gave m"
+      }
+    ],
+    "slug": "fili-barber-and-salon",
+    "state": "TX",
+    "street": "13021 Coit Road Ste 222",
+    "zip": "75240"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "George The Barber",
+    "phone": "(972) 374-7202",
+    "rating": 5,
+    "reviewCount": 21,
+    "reviews": [
+      {
+        "author": "Geneaan Jenonias",
+        "rating": 5,
+        "text": "Excellent service, 100% recommended. Clean cut and very attentive to detail. Excellent."
+      },
+      {
+        "author": "Dariel Posadas",
+        "rating": 5,
+        "text": "Richardson's barber is the best"
+      },
+      {
+        "author": "Jauregui Guadalupe",
+        "rating": 5,
+        "text": "Recommended, does a good job"
+      }
+    ],
+    "slug": "george-the-barber",
+    "state": "TX",
+    "street": "14215 South Coit Road 126",
+    "zip": "75254"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Richardson",
+    "hours": null,
+    "industry": "barber",
+    "name": "GOMEZ BARBERSHOP",
+    "phone": "(214) 635-9618",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Pablo Leon",
+        "rating": 5,
+        "text": "Place clean and great service\nProfessional barbers"
+      }
+    ],
+    "slug": "gomez-barbershop",
+    "state": "TX",
+    "street": "200 North Coit Road 375",
+    "zip": "75080"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Prolific Cuts & More",
+    "phone": "(469) 371-9107",
+    "rating": 5,
+    "reviewCount": 44,
+    "reviews": [
+      {
+        "author": "David Trucios",
+        "rating": 5,
+        "text": "I’ve been seeing Jennifer for 8 years now and I can’t recommend her haircut care services enough. It’s always easy to schedule an appointment and she works with you even if it’s a last minute one. She is always attentive"
+      },
+      {
+        "author": "John Bengier",
+        "rating": 5,
+        "text": "Jenny has been cutting my hair for 3 years.   She is very experienced and knows what makes me look best.  Very friendly and customer driven.     Can't recommend her enough."
+      },
+      {
+        "author": "Ben Lenzini",
+        "rating": 5,
+        "text": "I have been going to Jenny for years. She does a great job every time and is a pleasure to be around. I always get the haircut I want and she does not cut corners. She takes her time and I always leave happy!"
+      }
+    ],
+    "slug": "prolific-cuts-and-more",
+    "state": "TX",
+    "street": "14902 Preston Road 506",
+    "zip": "75254"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "City Fade Barbershop and beauty salon",
+    "phone": "(469) 271-1229",
+    "rating": 4.7,
+    "reviewCount": 50,
+    "reviews": [
+      {
+        "author": "Caleb Korede",
+        "rating": 5,
+        "text": "Great service, skilled barbers, and a clean, welcoming atmosphere. Always satisfied with my haircut. Highly recommend!"
+      },
+      {
+        "author": "rahwa haileslassie",
+        "rating": 5,
+        "text": "First visit at this place and the service is amazing! I got low skin fade and got skin irritationadvice from barber!\nThank you and defininly will be back"
+      },
+      {
+        "author": "Jose Castillo",
+        "rating": 5,
+        "text": "I had an amazing experience at City Fade Barbershop & Beauty Salon! Barber Obsa absolutely knocked it out of the park with my haircut. He took his time, paid attention to every detail, and gave me one of the cleanest fad"
+      }
+    ],
+    "slug": "city-fade-barbershop-and-beauty-salon",
+    "state": "TX",
+    "street": "5555 Preston Oaks Road",
+    "zip": "75254"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Garland",
+    "hours": null,
+    "industry": "barber",
+    "name": "MTP Barbershop",
+    "phone": "(469) 443-0011",
+    "rating": 5,
+    "reviewCount": 118,
+    "reviews": [
+      {
+        "author": "Jeremiah",
+        "rating": 5,
+        "text": "Oh man… WAY better than my other barbershop! Barbers were very considerate and welcoming. My barber actually did what I wanted him to do, and he showed me photos so I could get an idea on what im getting. Great service, "
+      },
+      {
+        "author": "Maricela Armendariz",
+        "rating": 5,
+        "text": "I’ve been taking my boys to Angel for a couple of years now. Cuts range from fades, to freehand designs and clean edge ups with reasonable prices. Highly recommend him as your next barber and this barbershop as well."
+      },
+      {
+        "author": "Mauricio Martinez",
+        "rating": 5,
+        "text": "10/10 Getting haircuts with Gabriel has been by far one of the best and easiest experiences with a barber. Takes the time in the craft of his work and always makes sure to get you right and make you feel confident after "
+      }
+    ],
+    "slug": "mtp-barbershop",
+    "state": "TX",
+    "street": "2404 West Walnut Street Suite 104",
+    "zip": "75042"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Garland",
+    "hours": null,
+    "industry": "barber",
+    "name": "Professional Barber Salón",
+    "phone": "(214) 598-5039",
+    "rating": 4.8,
+    "reviewCount": 80,
+    "reviews": [
+      {
+        "author": "Paul Revo",
+        "rating": 5,
+        "text": "Wow, I don’t think I’ve felt so “Taken care of” before, like I did when I came here and sat in Jorge’s chair! HE IS A PROFESSIONAL!!!!\nExcellent service!\nI won’t get my hair cut anywhere else now!\nGracias Amigos!"
+      },
+      {
+        "author": "jose acosta",
+        "rating": 5,
+        "text": "Amazing service . Very skillful barbers . Super professionals . I drove 30 minutes just to get a haircut with theses guys because they’re amazing"
+      },
+      {
+        "author": "Gustavo",
+        "rating": 5,
+        "text": "This is my second time getting a cut with this dude and this guy is a legend mane, this guy knows how to cut your hair. Ive been to many places that are really good barbers as well but this guy is the best of all."
+      }
+    ],
+    "slug": "professional-barber-sal-n",
+    "state": "TX",
+    "street": "2517 Forest Lane",
+    "zip": "75042"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "MVP barber shop dallas llc",
+    "phone": "(214) 500-4270",
+    "rating": 5,
+    "reviewCount": 11,
+    "reviews": [
+      {
+        "author": "Jon Greuel",
+        "rating": 5,
+        "text": "Very nice old school barber shop.  Nice guys.  Tool boxes and fades!!!"
+      },
+      {
+        "author": "Illias Gomez",
+        "rating": 5,
+        "text": "Great haircut came in for a walk in, and Jose got me straight away. Will be coming back"
+      },
+      {
+        "author": "Juan bautista",
+        "rating": 5,
+        "text": "If you want a fresh clean fade, you have to go see my boy/my brotha Xavier! He'll leave you and your kids looking fresh! Real humble guy gives you exactly what you're looking for and sometimes even better and they speak "
+      }
+    ],
+    "slug": "mvp-barber-shop-dallas-llc",
+    "state": "TX",
+    "street": "11312 Lyndon B Johnson Freeway Suite 200",
+    "zip": "75238"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Garland",
+    "hours": null,
+    "industry": "barber",
+    "name": "Jhon08 the barber",
+    "phone": "(903) 905-7339",
+    "rating": 5,
+    "reviewCount": 29,
+    "reviews": [
+      {
+        "author": "Rangel Nunez",
+        "rating": 5,
+        "text": "I had an amazing experience at this barbershop yesterday. The service was top-notch from the moment I walked in, friendly staff, great atmosphere, and attention to detail. My barber john took the time to understand exact"
+      },
+      {
+        "author": "Friend Mamba",
+        "rating": 5,
+        "text": "This place is really good and even though there was a language barrier he tried his best to understand and did his job that's what matters most."
+      },
+      {
+        "author": "Mark Schmitz",
+        "rating": 5,
+        "text": "This is one of the best barbers I’ve ever had… please trust that he’s going to make you look dapper!"
+      }
+    ],
+    "slug": "jhon08-the-barber",
+    "state": "TX",
+    "street": "3235 Forest Lane",
+    "zip": "75042"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "BLESSEDMAN THE BARBER",
+    "phone": "(903) 441-7269",
+    "rating": 4.5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Joseph Dumas",
+        "rating": 5,
+        "text": "Man's know how to cut hair"
+      }
+    ],
+    "slug": "blessedman-the-barber",
+    "state": "TX",
+    "street": "3221 West Camp Wisdom Road",
+    "zip": "75237"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "Wala Hair Creations",
+    "phone": "(214) 270-5112",
+    "rating": 4.3,
+    "reviewCount": 32,
+    "reviews": [
+      {
+        "author": "CB Enterprises",
+        "rating": 5,
+        "text": "Get my hair cut by a cool female that always fade me up right love this place."
+      },
+      {
+        "author": "M F Q",
+        "rating": 5,
+        "text": "Nice place to have a great hair cut , people who work there are so friendly ."
+      },
+      {
+        "author": "Dionne Nelson",
+        "rating": 5,
+        "text": "Love Dre he cuts my hair just like I like it definitely go see Dre"
+      }
+    ],
+    "slug": "wala-hair-creations",
+    "state": "TX",
+    "street": "700 South Cockrell Hill Road Suite 142",
+    "zip": "75137"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "💈 Rod The Barber 💈",
+    "phone": "(214) 270-5112",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Guillermo Jasso",
+        "rating": 5,
+        "text": "My boy get you right! #gizmodabarber\nWe need some more pics of that talent that God bless you with! Great page great barber"
+      }
+    ],
+    "slug": "rod-the-barber",
+    "state": "TX",
+    "street": "700 South Cockrell Hill Road",
+    "zip": "75137"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "KING GOODMAN BARBERSHOP",
+    "phone": "(469) 797-9519",
+    "rating": 5,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Tazzy Cup",
+        "rating": 5,
+        "text": "I love coming to this shop he is the most passionate person about a hair style I ever seen & dedicated to his Customer and very professional & respectful 😘😘"
+      },
+      {
+        "author": "Taz Joseph",
+        "rating": 5,
+        "text": "I LOVE MR.KING BARBER ITS SO FAMILY ORGANIZE ITS NOT ONLY A SHOP ITS WHERE U CAN BRING UR KIDS AND LET THEM HAVE FUN MR.KING SO RESPECTFUL AND KIND WITH FAIR PRICES I LOVE KINGS BARBER"
+      }
+    ],
+    "slug": "king-goodman-barbershop",
+    "state": "TX",
+    "street": "7676 South Westmoreland Road",
+    "zip": "75237"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "Chop-a-lot Barbershop",
+    "phone": "(972) 803-5978",
+    "rating": 4.7,
+    "reviewCount": 67,
+    "reviews": [
+      {
+        "author": "Isel Lopez",
+        "rating": 5,
+        "text": "Great service! Juan did an amazing job on my son’s haircut today incredibly patient with my four-year-old. Truly appreciated! Professional, patient, and very detailed definitely will be returning!"
+      },
+      {
+        "author": "Thomasine Joseph",
+        "rating": 5,
+        "text": "My son has been going to the barber Emmanuel since he first opened his shop. He is a amazing barber who can work on all ages and ethnicity. He is clean and does an amazing job no matter the task. His art skills with desi"
+      },
+      {
+        "author": "Ricardo Mendoza",
+        "rating": 5,
+        "text": "Quick service with laughter and smile. The people there are nice, friendly and take care of your hair cut needs. I been going here off and on. Due to I live a hour away, but when I'm near I stop and get my hair cut."
+      }
+    ],
+    "slug": "chop-a-lot-barbershop",
+    "state": "TX",
+    "street": "510 North Main Street",
+    "zip": "75116"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "TF BarberShop",
+    "phone": "(469) 676-7443",
+    "rating": 4.5,
+    "reviewCount": 25,
+    "reviews": [
+      {
+        "author": "Richard Bullock",
+        "rating": 5,
+        "text": "My grandson never got a bad haircut from there.  Good service polite Xander is awesome."
+      },
+      {
+        "author": "Yvette Camacho",
+        "rating": 5,
+        "text": "Took my son the other day, such a good environment, while waiting my son was playing the console which made him be patient and entrained. Overall the haircut and experience was great, definitely taking my son again."
+      },
+      {
+        "author": "Gustavo",
+        "rating": 5,
+        "text": "If you're looking for a clean fade this is the spot. My son and I have been going to Angel for a couple years now and have never been disappointed, always clean and professional. Typical laid back, welcoming barbershop e"
+      }
+    ],
+    "slug": "tf-barbershop",
+    "state": "TX",
+    "street": "1206 South Main Street",
+    "zip": "75137"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "Headliners Barbershop & Hair Studio",
+    "phone": "(214) 296-7736",
+    "rating": 4.6,
+    "reviewCount": 52,
+    "reviews": [
+      {
+        "author": "Anwar Muhammad",
+        "rating": 5,
+        "text": "DP is a great Barber the reason I haven't been here in a long time is because I don't have a car I stay in Irving but if had a car I will come back the long drive there is worth it"
+      },
+      {
+        "author": "Raymond C",
+        "rating": 5,
+        "text": "Great cut and great experience and very clean. I'm from Arkansas and the next time I am here I will be visiting them."
+      },
+      {
+        "author": "Charles Neal",
+        "rating": 5,
+        "text": "It's crazy I've never been to this place but I tell yuh what I found a new home I would suggest this place anyone looking for a spot to get their hair treated right great job fellas ✊"
+      }
+    ],
+    "slug": "headliners-barbershop-and-hair-studio",
+    "state": "TX",
+    "street": "767 West Wheatland Road",
+    "zip": "75116"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "Wisdom Cutz",
+    "phone": "(469) 513-2243",
+    "rating": 4.5,
+    "reviewCount": 47,
+    "reviews": [
+      {
+        "author": "Whitney Young • Witty Eats",
+        "rating": 5,
+        "text": "Love it here! My favorite barber shop. Such a good vibe. Good music and a  respectable family friendly atmosphere. Great barbers and good pricing. Diane and Mike are the best. So down to earth and talented."
+      },
+      {
+        "author": "Brown Lady",
+        "rating": 5,
+        "text": "The barber at this shop made my sons so comfortable while doing their hair. My sons are very picky but this guy was able to cut their hair the exact way they wanted it done. He spoke to them while cutting their hair and "
+      }
+    ],
+    "slug": "wisdom-cutz",
+    "state": "TX",
+    "street": "108 West Camp Wisdom Road",
+    "zip": "75116"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "WOW Beauty & Barber Lounge LLC",
+    "phone": "(682) 418-8177",
+    "rating": 5,
+    "reviewCount": 20,
+    "reviews": [
+      {
+        "author": "ReneeOnPoint",
+        "rating": 5,
+        "text": "While staying briefly in Dallas, I found myself on the hunt for a stylist. The salon I stumbled upon in Duncanville exuded warmth and hospitality. Opting for a deep conditioner and a simple sew-in, I was beyond pleased w"
+      },
+      {
+        "author": "Jordan Simonne",
+        "rating": 5,
+        "text": "I have been coming here a few months now to get my locs done by Nessa. Such a nice establishment! I have walked in through the front and back, and the barbershop is really nice as well. All of the stylists and barbers I "
+      },
+      {
+        "author": "Angela Harris",
+        "rating": 5,
+        "text": "Tierany did an amazing job! My relaxer was applied perfectly, the cut was on point, and the style came out beautiful. Professional, attentive, and very skilled. I’m extremely happy with my results and will definitely be "
+      }
+    ],
+    "slug": "wow-beauty-and-barber-lounge-llc",
+    "state": "TX",
+    "street": "242 West Wheatland Road",
+    "zip": "75137"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "Chop Houze Elite Barbershop",
+    "phone": "(972) 637-3464",
+    "rating": 4.5,
+    "reviewCount": 51,
+    "reviews": [
+      {
+        "author": "D. R. 1906",
+        "rating": 5,
+        "text": "Nothing but 5 stars from me at Chop Houze Elite Barbershop. I went in to get my beard shaped up by the owner and my entire experience was stellar. This establishment is very clean, organized, safe, friendly, and professi"
+      },
+      {
+        "author": "Vanessa Lewis",
+        "rating": 5,
+        "text": "Great experience! Nice environment, wait time was minimal!  The barber, Lonnie, interacted with my grandson (age 7) & was very nice. No cursing or smoking that I have to endure at some other shops. Also loved the greetin"
+      },
+      {
+        "author": "Larry Horne",
+        "rating": 5,
+        "text": "Best shop in DFW! Shop is clean, good vibes and some of the best cuts around DFW. Both barbers Crib & Derde will for sure get you right. Kid friendly and free donuts and coffee is a plus on the weekends!"
+      }
+    ],
+    "slug": "chop-houze-elite-barbershop",
+    "state": "TX",
+    "street": "719 South Cockrell Hill Road Suite 106",
+    "zip": "75137"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "Champions Barbershop",
+    "phone": "(214) 229-1838",
+    "rating": 4.8,
+    "reviewCount": 18,
+    "reviews": [
+      {
+        "author": "Carlos Vergara",
+        "rating": 5,
+        "text": "Best find in years! The young man is personable, professional, and his prices are reasonable. Wish I'd known about him earlier. Support local businesses!"
+      },
+      {
+        "author": "Erik Hernandez",
+        "rating": 5,
+        "text": "Can't remember his name but he did a great job with my haircut especially with a new style I'm trying out. 10 out of 10 would recommend"
+      },
+      {
+        "author": "Eureka Professional Carpet Cleaning",
+        "rating": 5,
+        "text": "If you want quality and a professional haircut you need to come see Luis at champions I promise you’ll want to tip him every time Literally been coming to this barbershop for weeks and he’s always kept me looking fresh ,"
+      }
+    ],
+    "slug": "champions-barbershop",
+    "state": "TX",
+    "street": "318 North Main Street",
+    "zip": "75116"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "Big Mike’s Barber and Salon",
+    "phone": "(972) 955-1783",
+    "rating": 4.7,
+    "reviewCount": 118,
+    "reviews": [
+      {
+        "author": "Renee Gabriel",
+        "rating": 5,
+        "text": "Got my hair done by a lady name Ms. PHat...She was so nice and very pleasant.  She made me feel very comfortable. She isn't expensive at all. I love my hair."
+      },
+      {
+        "author": "Candi Steward",
+        "rating": 5,
+        "text": "Miss Cotton is a professional hair stylist that provides excellent services from locs to braids to Marcel curls, custom wigs and hair pieces."
+      },
+      {
+        "author": "Jeremy Swanson",
+        "rating": 5,
+        "text": "Lexus is the best 5stars very neat and professional I highly recommend"
+      }
+    ],
+    "slug": "big-mike-s-barber-and-salon",
+    "state": "TX",
+    "street": "414 East Wheatland Road",
+    "zip": "75116"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Hypnotize 504 Barber Shop",
+    "phone": "(214) 673-6306",
+    "rating": 4.6,
+    "reviewCount": 96,
+    "reviews": [
+      {
+        "author": "Olish Allen",
+        "rating": 5,
+        "text": "I've been going to Marlon at Hypnotize 504 for years, and it's more than just a barbershop—it's family. From the moment you walk in, you're welcomed like you've known everyone forever. Marlon takes pride in his work, pay"
+      },
+      {
+        "author": "Rose Buis",
+        "rating": 5,
+        "text": "I took my sons to this barbershop for the first time today. I’m very particular on who I let cut my kids hair and I’m very picky. Juan cut my boys hair and he did an amazing job!! I was very much pleased and very satisfi"
+      },
+      {
+        "author": "Angela LaMorgese",
+        "rating": 5,
+        "text": "Amazing experience. I was a walk in and  Marlon was very attentive to detail and how exactly I wanted my hair to turn out. I didnt feel unwelcome and I definitely suggest checking this place out if you need a thorough an"
+      }
+    ],
+    "slug": "hypnotize-504-barber-shop",
+    "state": "TX",
+    "street": "3917 West Camp Wisdom Road",
+    "zip": "75237"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "barber",
+    "name": "First Class Cuts",
+    "phone": "(469) 513-2456",
+    "rating": 4.9,
+    "reviewCount": 181,
+    "reviews": [
+      {
+        "author": "Mmartin07 Martin",
+        "rating": 5,
+        "text": "Needed a quick cut and decided to come here. Was a great experience with a great barber. Even as a walk in they were good dudes. Would recommend."
+      },
+      {
+        "author": "Easton Lierle",
+        "rating": 5,
+        "text": "Came from Oklahoma to visit and my son desperately needed a cut. We booked with El Durado Fadez which was very last minute but quick and easy. He was great with my son. Patient and listened to everything we wanted. 10/10"
+      },
+      {
+        "author": "Ali Masood",
+        "rating": 5,
+        "text": "One of the best barber shops in town, great vibe, great atmosphere. Chris is my guy there, been seeing him for 2+ years now and I swear he’s got me on point every time, one of the best, I appreciate you 🙏🏽"
+      }
+    ],
+    "slug": "first-class-cuts",
+    "state": "TX",
+    "street": "708 West Wheatland Road",
+    "zip": "75116"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Irving",
+    "hours": null,
+    "industry": "barber",
+    "name": "M Fadez",
+    "phone": "(972) 900-1092",
+    "rating": 4.9,
+    "reviewCount": 587,
+    "reviews": [
+      {
+        "author": "Khaled AlKofahi",
+        "rating": 5,
+        "text": "I had a great experience at MFadez Barbershop. From the moment I walked in, the staff and the owner were very welcoming and professional. The atmosphere was friendly and comfortable, and they really take their time to ma"
+      },
+      {
+        "author": "Tejaswi Kandagatla",
+        "rating": 5,
+        "text": "It’s our third time here for a kids’ haircut, and we love coming back. They always listen to our requirements and make sure we’re satisfied with the result. Most importantly, they are very patient with kids and ensure ev"
+      },
+      {
+        "author": "Shoaib Syed",
+        "rating": 5,
+        "text": "Absolutely stunning interior. All of the barbers who work here have done amazing work for me. I don’t trust anyone else in the DFW area with my hair. I even went here for my wedding haircut and they did NOT disappoint. B"
+      }
+    ],
+    "slug": "m-fadez",
+    "state": "TX",
+    "street": "9965 North MacArthur Boulevard Suite 105",
+    "zip": "75063"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Carrollton",
+    "hours": null,
+    "industry": "barber",
+    "name": "Enis 5 Star Barbershop",
+    "phone": "(972) 416-7828",
+    "rating": 4.8,
+    "reviewCount": 62,
+    "reviews": [
+      {
+        "author": "Erin Cruz Yoga",
+        "rating": 5,
+        "text": "Really great service, my son wanted a specific fade cut and José did a fantastic job & spent a lot of time with him.  Very impressed, we will be back!"
+      },
+      {
+        "author": "Alexander Shyshla",
+        "rating": 5,
+        "text": "One of the best barbershop in the area! People are nice and friendly.  My barber did great job.  Very nice haircut and beard trim.  Recommend!"
+      },
+      {
+        "author": "Bruce Wahl",
+        "rating": 5,
+        "text": "Great barber, takes time and is detailed. Fair prices as well. They stay open later than most shops, so I highly recommend."
+      }
+    ],
+    "slug": "enis-5-star-barbershop",
+    "state": "TX",
+    "street": "1103 South Josey Lane 116",
+    "zip": "75006"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Valley View Barbers",
+    "phone": "(214) 484-6435",
+    "rating": 4.6,
+    "reviewCount": 162,
+    "reviews": [
+      {
+        "author": "Bryan Marchan",
+        "rating": 5,
+        "text": "Best fade I’ve had in Dallas. Been here for 3 years and no one comes close to Edgar’s fades. I have got cut by someone else when Edgar wasn’t in the shop and cut was still top tier, already recommended about 10 of my fri"
+      },
+      {
+        "author": "Joseph Brambila",
+        "rating": 5,
+        "text": "I would recommend Edgar 10/10, he does a amazing job I struggled to look for good barbers and so far Edgar been my favorite. Make sure to Book an appointment 👍"
+      },
+      {
+        "author": "Victor Quirarte",
+        "rating": 5,
+        "text": "Roy always does and amazing job he does what I ask he never misses 🔥 I suggest booking your appointment with him asap ‼️"
+      }
+    ],
+    "slug": "valley-view-barbers",
+    "state": "TX",
+    "street": "2932 Valley View Lane",
+    "zip": "75234"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Farmers Branch",
+    "hours": null,
+    "industry": "barber",
+    "name": "Thrteen13 Hair Studio",
+    "phone": "(469) 993-7752",
+    "rating": 5,
+    "reviewCount": 59,
+    "reviews": [
+      {
+        "author": "Leon Jr",
+        "rating": 5,
+        "text": "I highly recommend her to anyone looking for a talented and professional braider. She did an outstanding job on my braids—they’re clean, neat, and exactly what I wanted. She pays attention to every detail, makes sure you"
+      },
+      {
+        "author": "Only Bitcoin",
+        "rating": 5,
+        "text": "I have seen her multiple times to braid my son's hair and my own.\n\nShe can do pretty much any design(s) you can imagine. I trusted her judgement & just said \"go for it\" with my hair. I was never disappointed.\n\nShe also d"
+      },
+      {
+        "author": "K Staxx",
+        "rating": 5,
+        "text": "No lie, this is the only barber I trust. Bro always gets me right every time. The fades are clean, the lineups are sharp, and he actually takes his time instead of rushing. Real cool dude with great vibes. If you need a "
+      }
+    ],
+    "slug": "thrteen13-hair-studio",
+    "state": "TX",
+    "street": "4050 McEwen Road",
+    "zip": "75244"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Aces Chop Shop",
+    "phone": "(214) 447-5305",
+    "rating": 4.3,
+    "reviewCount": 52,
+    "reviews": [
+      {
+        "author": "Diego Cortes",
+        "rating": 5,
+        "text": "Hands down one of the best barbershop experiences I’ve had. The cut was sharp, the vibe was relaxed, and the attention to detail was on point. You can tell they take pride in their craft. Whether you’re going in for a qu"
+      },
+      {
+        "author": "Quiquesito",
+        "rating": 5,
+        "text": "Very friendly and welcoming. I came here to get a haircut some months ago and was very satisfied with everything. The barber was super nice and will definitely come back sometime in the future."
+      },
+      {
+        "author": "Savannah Hernandez",
+        "rating": 5,
+        "text": "My experience here has always been amazing.The customer service here is always above and beyond and so are the hair cuts. If you’re in need for a good cut this is your place to go."
+      }
+    ],
+    "slug": "aces-chop-shop",
+    "state": "TX",
+    "street": "2504 Berne Street",
+    "zip": "75224"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Beckley Barbers",
+    "phone": "(469) 620-2887",
+    "rating": 4.7,
+    "reviewCount": 9,
+    "reviews": [
+      {
+        "author": "Erik Gomez",
+        "rating": 5,
+        "text": "Started coming here a couple of months ago after needing to find a new barber. Edgar is a master with the clippers. Cant reccomend him and the other barbers enough. Clean shop, very welcoming and comfortable."
+      },
+      {
+        "author": "Guillermo Jasso",
+        "rating": 5,
+        "text": "Great barbers they will get you right"
+      },
+      {
+        "author": "J Rodriguez",
+        "rating": 5,
+        "text": "Very professional barbers, Rick is top notch. Shop is immaculate and set up perfect for the best men’s haircut experience."
+      }
+    ],
+    "slug": "beckley-barbers",
+    "state": "TX",
+    "street": "3618 South Tyler Street",
+    "zip": "75224"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "L J Hair Designers",
+    "phone": "(214) 337-8334",
+    "rating": 4.7,
+    "reviewCount": 57,
+    "reviews": [
+      {
+        "author": "Shaheed Rahmaan Sr.",
+        "rating": 5,
+        "text": "Wish I had kept the pictures of my son when LJ hooked him up awesome job. He's 22 years old now, trying to get him to come back to the beginning. Well I have a 14 year old now needs an old skool Natural hair cut. And soo"
+      },
+      {
+        "author": "Lee Joe",
+        "rating": 5,
+        "text": "LJ Hair Designers is the best Barbershop around They do not have people's hanging around the shop  I feel safe there."
+      },
+      {
+        "author": "Rayson Cooks",
+        "rating": 5,
+        "text": "No matter how many times I go I love the experience of the old school barber shops. This is the types of history I want to show my generation too keep doing"
+      }
+    ],
+    "slug": "l-j-hair-designers",
+    "state": "TX",
+    "street": "5530 South Hampton Road",
+    "zip": "75232"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Jaque Mate Mobile Barbershop",
+    "phone": "(956) 335-6516",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "jaque-mate-mobile-barbershop",
+    "state": "TX",
+    "street": "8394 Willoughby Boulevard",
+    "zip": "75232"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "TG's Barbershop",
+    "phone": "(214) 620-7029",
+    "rating": 4.2,
+    "reviewCount": 21,
+    "reviews": [
+      {
+        "author": "Charles Vaden",
+        "rating": 5,
+        "text": "My Lady Friend had a great cut. You look very professional great conversation now she want to come back thanks brother for hooking my friend lady Miss Molly"
+      },
+      {
+        "author": "Shykella Williams",
+        "rating": 5,
+        "text": "Did a great job on my son hair. This is our new place! Thanks"
+      },
+      {
+        "author": "Jay Jay",
+        "rating": 5,
+        "text": "This the only barber i go to.. The environment chill too."
+      }
+    ],
+    "slug": "tg-s-barbershop",
+    "state": "TX",
+    "street": "2420 West Ledbetter Drive",
+    "zip": "75233"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Lancaster",
+    "hours": null,
+    "industry": "barber",
+    "name": "Tha Spot Barbershop",
+    "phone": "(469) 674-1553",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Krisha Robertson",
+        "rating": 5,
+        "text": "My Son goes to TuTu and he is AWESOME!!!  MY FRIEND CAN CUT ...❤️❤️ and he's a GOOD PERSON...KEEP YOU LAUGHING 🥰🥰"
+      }
+    ],
+    "slug": "tha-spot-barbershop",
+    "state": "TX",
+    "street": "3225 Pleasant Run Road",
+    "zip": "75134"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Boss House Hairsalon/barbershop and spa",
+    "phone": "(469) 332-8921",
+    "rating": 4.8,
+    "reviewCount": 17,
+    "reviews": [
+      {
+        "author": "Victoria Dodson",
+        "rating": 5,
+        "text": "Alfredo is an awesome individual. He will tell you exactly what you need. He knows best. I have been blonde for so many years and my hair is soo healthy."
+      },
+      {
+        "author": "Rubi E.",
+        "rating": 5,
+        "text": "I have curly hair, so I don't let just anyone mess with it. Alfredo is the only one I trust to highlight and do whatever needs to be done to my hair. My curls stay curly. ❤️ Very nice and professional. I highly recommend"
+      },
+      {
+        "author": "Nita B. (Nini)",
+        "rating": 5,
+        "text": "Alfredo is a gem 💎.  He will give you honest answers regardless if its what you want done to your hair. Him and Monica knock out the day, they work so effortlessly around eachother. Its obvious Monica is a fast learner."
+      }
+    ],
+    "slug": "boss-house-hairsalon-barbershop-and-spa",
+    "state": "TX",
+    "street": "3223 South Hampton Road",
+    "zip": "75224"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "DeSoto",
+    "hours": null,
+    "industry": "barber",
+    "name": "Perfect Vision Barber Lounge",
+    "phone": "(972) 261-3515",
+    "rating": 5,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Toni Bogard",
+        "rating": 5,
+        "text": "Perfect Vision BarberShop is a one stop shop for all of the Fellas, young and seasoned! Perfect Atmosphere, Perfect Shop Hours and Great Barbers! Not to mention great music!!"
+      },
+      {
+        "author": "Taylor Culver",
+        "rating": 5,
+        "text": "Lawrence is amazing!!!"
+      }
+    ],
+    "slug": "perfect-vision-barber-lounge",
+    "state": "TX",
+    "street": "1031 East Pleasant Run Road Suite 115",
+    "zip": "75115"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Estilos Salon & Barber",
+    "phone": "(214) 532-2528",
+    "rating": 4.1,
+    "reviewCount": 26,
+    "reviews": [
+      {
+        "author": "Alexa",
+        "rating": 5,
+        "text": "I've been getting my hair done there for over two years now, and the service is excellent! 👌 10/10\nBrenda is the stylist.\nAlways has a great attitude! 😊😉 I've loved my new looks!\n100% recommended! 👌"
+      },
+      {
+        "author": "Jonathan Barrientos",
+        "rating": 5,
+        "text": "Estilos Salon is one of my favorite places... the girls there are very friendly and make you feel right at home. 100% recommended."
+      },
+      {
+        "author": "Jazmin Mendez",
+        "rating": 5,
+        "text": "Absolutely excellent! I'm thrilled with the changes I've had—color correction and extensions. I 100% recommend it! 🥰🙌🏻"
+      }
+    ],
+    "slug": "estilos-salon-and-barber",
+    "state": "TX",
+    "street": "1034 West Camp Wisdom Road",
+    "zip": "75232"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Brown's Barber Shop",
+    "phone": "(214) 377-8888",
+    "rating": 4.3,
+    "reviewCount": 32,
+    "reviews": [
+      {
+        "author": "robert benitez",
+        "rating": 4,
+        "text": "Mr. Brown and staff are friendly and treat you right. I know he is a packer fan."
+      }
+    ],
+    "slug": "brown-s-barber-shop",
+    "state": "TX",
+    "street": "2550 West Red Bird Lane",
+    "zip": "75237"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "DeSoto",
+    "hours": null,
+    "industry": "barber",
+    "name": "Beauty & Beast Hair Lounge",
+    "phone": "(228) 265-1115",
+    "rating": 5,
+    "reviewCount": 12,
+    "reviews": [
+      {
+        "author": "Brandi Boyd",
+        "rating": 5,
+        "text": "Derrick was extremely helpful and nice when he cut my son's hair . We felt super comfortable and he did A wonderful job . We came all the way from Carrollton to just get our hair cut and we left more than satisfied😊"
+      },
+      {
+        "author": "Melanie Montique",
+        "rating": 5,
+        "text": "All my kids get their hair braided and cut here. I also get my hair done too. Very skilled and professional. Prices are worth the quality produced."
+      },
+      {
+        "author": "Charles Hall",
+        "rating": 5,
+        "text": "Profesional, attention to detail cutting my hair was A one definitely will be going back. She knows what she’s doing and does it well!!!!"
+      }
+    ],
+    "slug": "beauty-and-beast-hair-lounge",
+    "state": "TX",
+    "street": "1666 North Hampton Road 101A",
+    "zip": "75115"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "J.R. The Barber",
+    "phone": "(832) 265-7908",
+    "rating": 4.1,
+    "reviewCount": 7,
+    "reviews": [
+      {
+        "author": "Enrika Smith",
+        "rating": 5,
+        "text": "Fun place to be. I felt like I was on a reality show or sitcom. Everyone was so kind, respectful, and hilarious. We did a walk-in and the Barber \"Six foot\" was kind to cut both of my grandson's hair. She did outstanding "
+      },
+      {
+        "author": "SaJEye 528hz",
+        "rating": 5,
+        "text": "Best barber in town Hands down!"
+      },
+      {
+        "author": "claude larkin",
+        "rating": 5,
+        "text": "Great barber"
+      }
+    ],
+    "slug": "j-r-the-barber",
+    "state": "TX",
+    "street": "3333 West Camp Wisdom Road",
+    "zip": "75237"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "DeSoto",
+    "hours": null,
+    "industry": "barber",
+    "name": "Supreme Blendz Barbershop",
+    "phone": "(682) 431-6905",
+    "rating": 4.7,
+    "reviewCount": 45,
+    "reviews": [
+      {
+        "author": "Eric Avalos",
+        "rating": 5,
+        "text": "I've been a client with James, the co owner of this shop for damn near 10 years! He was the best then and even better than the best now! No way to describe how really good of a barber he is but he's Definitely the best n"
+      },
+      {
+        "author": "alondra diaz",
+        "rating": 5,
+        "text": "Told James to make my nephews shit straight and he did not disappoint. The owners are very nice and had excellent customer service. Making an appointment was easy, I definitely will be returning."
+      },
+      {
+        "author": "Angelica Isaguirre",
+        "rating": 5,
+        "text": "Excellent place Greeted as soon as you walk in very clean barbers do a great job and are also quick on their haircuts reasonable pricing. It’s An amazing place my Boys love it."
+      }
+    ],
+    "slug": "supreme-blendz-barbershop",
+    "state": "TX",
+    "street": "1615 North Hampton Road Suite 110",
+    "zip": "75115"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Classic Barber Shop",
+    "phone": "(972) 224-3410",
+    "rating": 4.7,
+    "reviewCount": 86,
+    "reviews": [
+      {
+        "author": "Shawn Hill",
+        "rating": 5,
+        "text": "Koolest Shop Ever!!!\nO\" and a full nail shop in da back.\nGotta visit my girl\nNail Savvy!\nUr girlfriend favorite nail tech.... Black Nail Tech on deck!!!\nGet ur boys cut while you get dolled up!\nFull Pedi\nWax\nGel\nDips\nGiv"
+      },
+      {
+        "author": "Aunya Long",
+        "rating": 5,
+        "text": "Love my new Barber \"Shout out to Chubbie\" he's a Beast on them clippers.."
+      },
+      {
+        "author": "Victoria Best",
+        "rating": 5,
+        "text": "The barbers were very welcoming and made sure I was seated in the chair of the absolute Best barber I've ever had Chubzy listened to how I wanted my hair cut and did an amazing job"
+      }
+    ],
+    "slug": "classic-barber-shop",
+    "state": "TX",
+    "street": "8128 South Polk Street",
+    "zip": "75232"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "ocfades",
+    "phone": "(469) 535-1515",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "ocfades",
+    "state": "TX",
+    "street": "6770 Abrams Road",
+    "zip": "75231"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "AJ FADEZ BARBERSHOP",
+    "phone": "(972) 705-7111",
+    "rating": 4.7,
+    "reviewCount": 143,
+    "reviews": [
+      {
+        "author": "datriona johnson",
+        "rating": 5,
+        "text": "They always get my son looking so nice and they are so respectful, the atmosphere is nice as well. Love going to them !!"
+      },
+      {
+        "author": "J",
+        "rating": 5,
+        "text": "I drive 2 hours just for a haircut from A.J. One of the realest guys in jersey area. Service is top notch and his shop is welcoming as soon as you walk through door… Would recommend to anyone looking for any style, he’ll"
+      },
+      {
+        "author": "Shi Go",
+        "rating": 5,
+        "text": "I like the cutting skills of Jorge. He is good barber."
+      }
+    ],
+    "slug": "aj-fadez-barbershop",
+    "state": "TX",
+    "street": "9790 Forest Lane",
+    "zip": "75243"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Executive",
+    "phone": "(972) 716-4003",
+    "rating": 4.9,
+    "reviewCount": 29,
+    "reviews": [
+      {
+        "author": "Roy Jenkins",
+        "rating": 5,
+        "text": "If you want professional, consistent, and friendly attention, look no further!  Monica has been my barber for the last decade or so, and the experience is always a pleasure.  Her shop is located in a comfortable, private"
+      },
+      {
+        "author": "Mike F",
+        "rating": 5,
+        "text": "Monica has cut my hair for 25 years. That alone should attest to my level of satisfaction. Not only is she skilled in her profession, she is also personable and engaging. Plus in  this current \" age of covid\", it is reas"
+      },
+      {
+        "author": "Michael Mauthe",
+        "rating": 5,
+        "text": "Monica has been cutting my hair practically my whole life. She is the best! Not only great at cutting hair, but always a good conversation as well. I won’t go anywhere else! Do yourself a favor and check her out."
+      }
+    ],
+    "slug": "executive",
+    "state": "TX",
+    "street": "13710 Dallas Parkway",
+    "zip": "75240"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Timeless Barber Lounge",
+    "phone": "(214) 325-2012",
+    "rating": 4.9,
+    "reviewCount": 32,
+    "reviews": [
+      {
+        "author": "PATRICK GARCIA",
+        "rating": 5,
+        "text": "Fernando is an outstanding barber and overall an amazing human being.\n\nMy son and I, both get our hair cut by him and he’s beyond patient with my toddler.\n\nHe makes sure you’re comfortable and taken care of every visit. "
+      },
+      {
+        "author": "dimple Patel",
+        "rating": 5,
+        "text": "Ricky gives great cuts. Me and my son go to him. Very professional and great with kids. Finding the right Barber is hard."
+      },
+      {
+        "author": "Keila O.",
+        "rating": 5,
+        "text": "Fernando is literally amazing. Super talented barber, awesome suite, always a great experience. Be on time, you won’t regret it."
+      }
+    ],
+    "slug": "timeless-barber-lounge",
+    "state": "TX",
+    "street": "5301 Alpha Road 34, suite 61",
+    "zip": "75240"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Jerome's Style-n- Cuts",
+    "phone": "(469) 531-4548",
+    "rating": 4.2,
+    "reviewCount": 57,
+    "reviews": [
+      {
+        "author": "Mikyela Gonzalez",
+        "rating": 5,
+        "text": "Loved my son's hair cut! He 3 and doesn't normally do well with getting his hair cut. They worked with him, kept him calm for the most part and he was able to look amazing for thanksgiving! Really loved the service and c"
+      },
+      {
+        "author": "Joseph Rodriguez",
+        "rating": 5,
+        "text": "Great shop, hit up Marcus for a great cut 💯"
+      },
+      {
+        "author": "Huggie White",
+        "rating": 5,
+        "text": "Go see my Bro Tipp the Hair Doctor for all your cut appointments. Great family environment, and will love the atmosphere for adults. Tipp is an award winning Dallas native barber."
+      }
+    ],
+    "slug": "jerome-s-style-n-cuts",
+    "state": "TX",
+    "street": "6102 Samuell Boulevard Classroom",
+    "zip": "75228"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Barber and styles",
+    "phone": "(214) 579-0788",
+    "rating": 5,
+    "reviewCount": 25,
+    "reviews": [
+      {
+        "author": "Gabriel Gomez",
+        "rating": 5,
+        "text": "Edgar’s been cutting my hair for some time now and I wouldn’t want anyone else doing it. The guy definitely knows what he’s doing and I’d recommend him every single time. If this is your first time going to this barber s"
+      },
+      {
+        "author": "J Garcia",
+        "rating": 5,
+        "text": "Had a great experience getting my first haircut from Jose. From the moment I walked in, he was welcoming, respectful, and easy to talk to. He took his time, paid attention to detail, and made sure I left happy with the c"
+      },
+      {
+        "author": "Josue Camargo",
+        "rating": 5,
+        "text": "Got my hair cut from Edgar and couldn’t be more than satisfied with his work. I was a little nervous trying him out for the first time it was a great experience.\nHaircut- mid drop fade, line up, and a 4 on top"
+      }
+    ],
+    "slug": "barber-and-styles",
+    "state": "TX",
+    "street": "3474 Highland Road suit 120",
+    "zip": "75228"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "MD's",
+    "phone": "(214) 641-9675",
+    "rating": 4.6,
+    "reviewCount": 94,
+    "reviews": [
+      {
+        "author": "Juan Ximenez",
+        "rating": 5,
+        "text": "Being new to Dallas, it was hard finding a new barber who can cut to my style. I went in and immediately was asked if I had been helped, I was helped right away which was cool. The price wasn't bad. The usual for a walk "
+      },
+      {
+        "author": "juan sosa",
+        "rating": 5,
+        "text": "David and his team of barbers are great. Best place to get your hair cut in Dallas . Daivd is alwAys on point"
+      },
+      {
+        "author": "Cristina",
+        "rating": 5,
+        "text": "All barbers here at this location good!  They do take walk ins.. kevin is great with kiddos!"
+      }
+    ],
+    "slug": "md-s",
+    "state": "TX",
+    "street": "1512 Centerville Road",
+    "zip": "75228"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Nogood's Barbershop Lounge",
+    "phone": "(214) 258-3543",
+    "rating": 4.3,
+    "reviewCount": 7,
+    "reviews": [
+      {
+        "author": "Bolden Bolden",
+        "rating": 4,
+        "text": "Love the style my boy's walk out with"
+      }
+    ],
+    "slug": "nogood-s-barbershop-lounge",
+    "state": "TX",
+    "street": "3727 Dilido Road",
+    "zip": "75228"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Mesquite",
+    "hours": null,
+    "industry": "barber",
+    "name": "Manny's Barbershop",
+    "phone": "(214) 930-5019",
+    "rating": 4.8,
+    "reviewCount": 53,
+    "reviews": [
+      {
+        "author": "Oscar Torres",
+        "rating": 5,
+        "text": "Rene is the best barber I've had...though the cost is usually 40...its worth it for sure"
+      },
+      {
+        "author": "Alydia",
+        "rating": 5,
+        "text": "Mr. Spain always cuts my son Sunny hair and it's always done exactly like he likes it every time !"
+      },
+      {
+        "author": "David Weempe III",
+        "rating": 5,
+        "text": "100% recommend this barber shop! I’ve gotten haircuts here for more than 3 years and they are top notch. Rene and Manny always took care of me and my son when needed and always did excellent haircuts. Highly recommend Ru"
+      }
+    ],
+    "slug": "manny-s-barbershop",
+    "state": "TX",
+    "street": "3301 North Town East Boulevard Suite 138",
+    "zip": "75150"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Next Level II Beauty & Barber",
+    "phone": "(972) 279-6740",
+    "rating": 4.8,
+    "reviewCount": 36,
+    "reviews": [
+      {
+        "author": "michaela Robinson",
+        "rating": 5,
+        "text": "We had a great experience today! Amazing service . My son had his first hair cut and he looks so handsome! Thanks again Duty !! Highly recommend!"
+      },
+      {
+        "author": "shaw1267",
+        "rating": 5,
+        "text": "Been getting my haircut here for years! Price is reasonable and barber Jethro makes sure you're satisfied before you leave the chair. Other Barbers always cordial and Hairstylist always smiling with someone in her chair."
+      },
+      {
+        "author": "Ramiro Rodriguez",
+        "rating": 5,
+        "text": "This place is top notch! Duty will take care of you. Honestly I don't even see the mirror after he's done."
+      }
+    ],
+    "slug": "next-level-ii-beauty-and-barber",
+    "state": "TX",
+    "street": "11555 Ferguson Road 200",
+    "zip": "75228"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Blessedbypicazo",
+    "phone": "(214) 809-5487",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Rodrigo Almaraz",
+        "rating": 5,
+        "text": "He blessed me good"
+      }
+    ],
+    "slug": "blessedbypicazo",
+    "state": "TX",
+    "street": "6002 Overlook Drive",
+    "zip": "75227"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Mesquite",
+    "hours": null,
+    "industry": "barber",
+    "name": "Master Cuts Barbershop",
+    "phone": "(214) 434-1271",
+    "rating": 4.6,
+    "reviewCount": 134,
+    "reviews": [
+      {
+        "author": "Alejandra Gomez",
+        "rating": 5,
+        "text": "10 out of 10 recommend. The atmosphere is chill and inviting. Good barbers, good music and even better cuts. Mario is such a gem and very skilled with the clippers. Keep up the great work!"
+      },
+      {
+        "author": "Angela Cook",
+        "rating": 5,
+        "text": "Great location. The guys working there are great barbers. Chill vibe and the atmosphere is great.I would recommend this place to any one.\nI've been bringing my boys to Mack for years. He's great. His work is awesome and "
+      },
+      {
+        "author": "Mell M",
+        "rating": 4,
+        "text": "My daughter needed a haircut asap. I called, David said he was available and in the 2nd seat. We arrived 7 minutes later and my daughter was immediately seated. Great cut in less than 30 min. Very chill environment and r"
+      }
+    ],
+    "slug": "master-cuts-barbershop",
+    "state": "TX",
+    "street": "2033 Military Parkway 103a",
+    "zip": "75149"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Joel's barber shop - A tu estilo",
+    "phone": "(346) 541-4390",
+    "rating": 4,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "ski skii",
+        "rating": 5,
+        "text": "Shi I always go idk why yall have a damn problem with him if yall got a problem with him come through me first pussc 😂💯💯🗣️YOUR A GOOD BARBER EVERYONE THERE IS"
+      },
+      {
+        "author": "ulises andrade",
+        "rating": 5,
+        "text": "I personally like it here, the barbers here are nice guys and really skilled, the place is chill, I’m definitely going back"
+      },
+      {
+        "author": "Otoman Fernandez",
+        "rating": 5,
+        "text": "Good service good employees and good haircuts"
+      }
+    ],
+    "slug": "joel-s-barber-shop-a-tu-estilo",
+    "state": "TX",
+    "street": "2120 North Saint Augustine Road Suite 140",
+    "zip": "75227"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Mesquite",
+    "hours": null,
+    "industry": "barber",
+    "name": "Legendary J Barbershop",
+    "phone": "(214) 213-9663",
+    "rating": 4.7,
+    "reviewCount": 85,
+    "reviews": [
+      {
+        "author": "Rivera _17",
+        "rating": 5,
+        "text": "This is our 2nd time coming here! Amazing atmosphere, felt welcoming, good music and its fresh in there also smells good!. This time we had Alex and he did amazing! Did my man right! He needed a haircut and im glad I sho"
+      },
+      {
+        "author": "Eliana",
+        "rating": 5,
+        "text": "I have had an excellent experience at legendary j barber shop in Mesquite location..!! Jessica the barber girl gave my husband and two son a haircut .Jessica did a really nice and fresh cut on my family members hair . Sh"
+      },
+      {
+        "author": "Raymond Becerra",
+        "rating": 5,
+        "text": "Little Frankie is young but he cares about his craft and work as a young barber. I was in need of a knew barber and looking for one because my barber of five years went full time to be an electrician, and that’s when I f"
+      }
+    ],
+    "slug": "legendary-j-barbershop-2-2",
+    "state": "TX",
+    "street": "2515 Gus Thomasson Road B",
+    "zip": "75150"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Preston Tower Barbershop",
+    "phone": "(214) 549-6233",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "preston-tower-barbershop",
+    "state": "TX",
+    "street": "6211 West Northwest Highway Suite C153",
+    "zip": "75225"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Nice Look Barber Shop",
+    "phone": "(214) 337-9841",
+    "rating": 4.4,
+    "reviewCount": 10,
+    "reviews": [
+      {
+        "author": "Will DeShield II",
+        "rating": 5,
+        "text": "A1 hair cut every time!!"
+      },
+      {
+        "author": "Andre' Hylton",
+        "rating": 5,
+        "text": "Great Cut and Conversations"
+      },
+      {
+        "author": "Vatallio Abrams",
+        "rating": 5,
+        "text": "Good place"
+      }
+    ],
+    "slug": "nice-look-barber-shop",
+    "state": "TX",
+    "street": "3302 West Kiest Boulevard",
+    "zip": "75233"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Dee Experience",
+    "phone": "(214) 971-1883",
+    "rating": 4.9,
+    "reviewCount": 14,
+    "reviews": [
+      {
+        "author": "Mr.T Sells",
+        "rating": 5,
+        "text": "When you want Master barber to make you look awesome search no farther.  They do all  cut all race hair & in a comfortable atmosphere.  Schedule or do a walking.\n\nP.S.\n\nMake sure that you get the women & male factual... "
+      },
+      {
+        "author": "Stephanie Carter",
+        "rating": 5,
+        "text": "These guys are home grown they do soecialty cuts and there is someone for everyone, they are in the hood and they do great work , borh of my grandsons travel many miles to go there and get that special cut and the work s"
+      },
+      {
+        "author": "Johnathen Banks",
+        "rating": 5,
+        "text": "Always a great time when I go to get my haircut. The staff is always friendly and easy to talk to."
+      }
+    ],
+    "slug": "dee-experience",
+    "state": "TX",
+    "street": "716 Wynnewood Drive",
+    "zip": "75224"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Razor Elite",
+    "phone": "(469) 571-0043",
+    "rating": 4.9,
+    "reviewCount": 60,
+    "reviews": [
+      {
+        "author": "Adrian Bocanegra",
+        "rating": 5,
+        "text": "Welcoming barbershop. Friendly. Excellent service. If you want a good haircut I suggest asking for Perla. In my opinion she cuts better than most barbers I been to. She is also excellent with kids including my 1 yr old. "
+      },
+      {
+        "author": "Martin Gandarilla",
+        "rating": 5,
+        "text": "My son and I have been getting our haircuts with Perla for over a year now. She does an excellent job and is always friendly and professional. She’s consistently on time with her appointments, which we really appreciate."
+      },
+      {
+        "author": "Adrian Abonza",
+        "rating": 5,
+        "text": "Perla is the best barber I've ever had, been goin to her for about 5 years alr and it's always worth every penny"
+      }
+    ],
+    "slug": "razor-elite",
+    "state": "TX",
+    "street": "619 South Hampton Road",
+    "zip": "75208"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Frank's Barber Shop",
+    "phone": "(214) 258-8272",
+    "rating": 4.5,
+    "reviewCount": 20,
+    "reviews": [
+      {
+        "author": "Jack Dieckhoner",
+        "rating": 5,
+        "text": "Looked for a new barber closer to home and decided to try Frank's. Abel cut my hair and did a great job. Will definitely make this my regular barber."
+      },
+      {
+        "author": "Juan Rodriguez",
+        "rating": 5,
+        "text": "Great place to come to!\nI've been coming to since 2016. Even after I moved about an hour away from here.\nMake sure you book an appointment before going or you will be waiting a good while to be attended. Worth the wait t"
+      },
+      {
+        "author": "MR. G",
+        "rating": 5,
+        "text": "Frank cut my hair for years one of the best barbers I know always fresh every time"
+      }
+    ],
+    "slug": "frank-s-barber-shop",
+    "state": "TX",
+    "street": "1424 Ferndale Avenue",
+    "zip": "75224"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Pee Cee's Barbershop",
+    "phone": "(214) 371-8881",
+    "rating": 4.6,
+    "reviewCount": 55,
+    "reviews": [
+      {
+        "author": "Chris Davis",
+        "rating": 5,
+        "text": "I've been going to this barber shop for a decade the owner knows how to cut hair!"
+      },
+      {
+        "author": "Gontalk1",
+        "rating": 5,
+        "text": "My friend Recommended this barber shop and it is the best barbershop I ever have\n\nBtw guy is very professional in cutting hair"
+      },
+      {
+        "author": "Sheka Roddy",
+        "rating": 5,
+        "text": "PEEZO is an amazing  barber. Professional and always takes good care of my lil fellow"
+      }
+    ],
+    "slug": "pee-cee-s-barbershop",
+    "state": "TX",
+    "street": "2434 West Kiest Boulevard",
+    "zip": "75233"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Barber Cutzamala",
+    "phone": "(214) 541-2646",
+    "rating": 4.3,
+    "reviewCount": 61,
+    "reviews": [
+      {
+        "author": "Wyatt Noble",
+        "rating": 5,
+        "text": "Jeffery is always on point great barber have been coming here for years!"
+      },
+      {
+        "author": "RobertDew Dew",
+        "rating": 5,
+        "text": "I went in for a basic clean up but came out with the works. I can’t remember the name of the young girl that attended to me but all I can say is thank you so much. Respect from an international visitor that had no idea w"
+      },
+      {
+        "author": "Ronaldo Antonio Flores",
+        "rating": 5,
+        "text": "I have been a customer for long time. Excellent Service."
+      }
+    ],
+    "slug": "barber-cutzamala",
+    "state": "TX",
+    "street": "9524 Webb Chapel Road",
+    "zip": "75220"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "ADAM’S BARBER SHOP",
+    "phone": "(214) 562-4510",
+    "rating": 5,
+    "reviewCount": 11,
+    "reviews": [
+      {
+        "author": "Sean Jones",
+        "rating": 5,
+        "text": "Adam hooked me up with a fresh fade and a tight beard trim. Come holla' at Adams, off Sylvan in West Dallas."
+      },
+      {
+        "author": "Francisco Silva",
+        "rating": 5,
+        "text": "Shout out to my boy Adam. Best cut in town going on 10 years!"
+      },
+      {
+        "author": "Sam Williams",
+        "rating": 5,
+        "text": "While visiting I got an awesome fade here. I’d love to reschedule for another but the number never goes through. Do you have a better number ?"
+      }
+    ],
+    "slug": "adam-s-barber-shop",
+    "state": "TX",
+    "street": "3311 Sylvan Avenue Suite B",
+    "zip": "75212"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Golden Touch Barbershop",
+    "phone": "(214) 272-9252",
+    "rating": 4.7,
+    "reviewCount": 12,
+    "reviews": [
+      {
+        "author": "Dru Munch",
+        "rating": 5,
+        "text": "Best hair cuts\nReal happy with the service"
+      },
+      {
+        "author": "Yadary Mendez",
+        "rating": 5,
+        "text": "I'm very happy with the barbers' work; my son looks beautiful, and from what I noticed, they're all very good at cutting hair. 100% recommended."
+      },
+      {
+        "author": "Salvador De La O",
+        "rating": 5,
+        "text": "Great barbershop, I really like the atmosphere, I highly recommend it. Since I came here I haven't gone anywhere else. 100% recommended, especially the barber, my buddy Danger 🫡"
+      }
+    ],
+    "slug": "golden-touch-barbershop",
+    "state": "TX",
+    "street": "2051 West Northwest Highway 57",
+    "zip": "75220"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Rush Hour Kutz",
+    "phone": "(972) 685-5403",
+    "rating": 4.2,
+    "reviewCount": 55,
+    "reviews": [
+      {
+        "author": "Salvador Lazo",
+        "rating": 5,
+        "text": "Mark has been my go to guy since 2012. He’s been more than just a barber to me. He’s family. I’ve sat in others barbers chairs before but never actually let them cut my hair. If I trust anyone with a set of clippers it’s"
+      },
+      {
+        "author": "Ricky M",
+        "rating": 5,
+        "text": "I worked down the street and called and walked in and got me a cut and trim on my goatee and  came out looking fresh with a nice fade and trim much props to Bryan, and thanks for making me look fresh!!!"
+      },
+      {
+        "author": "Elsa Cervantes",
+        "rating": 5,
+        "text": "Martin has been cutting my 2 boys hair for a few years already and he never disappoints. All the barbers are cold as hell with the clippers. I highly recommend this shop to everyone!!"
+      }
+    ],
+    "slug": "rush-hour-kutz",
+    "state": "TX",
+    "street": "11441 North Stemmons Freeway 221B",
+    "zip": "75229"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Urban Cutz",
+    "phone": "(214) 713-3983",
+    "rating": 4.5,
+    "reviewCount": 79,
+    "reviews": [
+      {
+        "author": "Bryan Lazo",
+        "rating": 5,
+        "text": "Great atmosphere, solid barbers especially Gisela!"
+      },
+      {
+        "author": "Ricardo Morales",
+        "rating": 5,
+        "text": "I have been coming here for years. Chris cuts my hair the majority of the time and he is Great. He always knows what to do is polite and attentive. Would highly recommend Urban Cutz"
+      },
+      {
+        "author": "Jeremy Jenkins",
+        "rating": 5,
+        "text": "Came here right off plane. Let a guy name frank cut my hair. It is one of the best I ever had. He don’t speak much English but my girl speaks Spanish so I was good. This dude was amazing and fast."
+      }
+    ],
+    "slug": "urban-cutz",
+    "state": "TX",
+    "street": "10217 Harry Hines Boulevard 104",
+    "zip": "75220"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Magic Barbershop",
+    "phone": "(214) 802-7806",
+    "rating": 5,
+    "reviewCount": 7,
+    "reviews": [
+      {
+        "author": "Cindy Alvarez",
+        "rating": 5,
+        "text": "Thank you Blanca🥰 the best in all of Dallas TX, I highly recommend Barbershop La Principal."
+      },
+      {
+        "author": "Alejandro Pineda",
+        "rating": 5,
+        "text": "If you need a haircut, this is the best place to look your best 🫡"
+      },
+      {
+        "author": "El Muchacho Ham",
+        "rating": 5,
+        "text": "Excellent service 👍🏽"
+      }
+    ],
+    "slug": "magic-barbershop",
+    "state": "TX",
+    "street": "2911 Lombardy Lane",
+    "zip": "75220"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Perfect Cutz",
+    "phone": "(469) 508-0870",
+    "rating": 4.4,
+    "reviewCount": 26,
+    "reviews": [
+      {
+        "author": "Trey Fargo",
+        "rating": 5,
+        "text": "I always get my hair braided and a haircut afterward! 📌 I’ve never had any problems, and the atmosphere is so fun. Plus, the staff is really cool. 😎 Sometimes, they even offer me food when they’re cooking up there. The"
+      },
+      {
+        "author": "Majid Lodhi",
+        "rating": 5,
+        "text": "(P) is my barber he always does an excellent job and even dyed my hair today. I'm new to the area and needed a new barber to get me right. And (P) was patient and provided great service."
+      },
+      {
+        "author": "Josh Schenck",
+        "rating": 5,
+        "text": "First time getting both hair 2 stranded and blessed with the line up. Great environment feel like home"
+      }
+    ],
+    "slug": "perfect-cutz",
+    "state": "TX",
+    "street": "2201 West Northwest Highway Suite 110",
+    "zip": "75220"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Barbershop La Principal",
+    "phone": "(214) 753-6332",
+    "rating": 4.5,
+    "reviewCount": 26,
+    "reviews": [
+      {
+        "author": "Banessa Ruiz",
+        "rating": 5,
+        "text": "I love coming here !! We been coming here for a while and every time leave happy campers they are clean and do there job well ! Thank you guys !!! My son always loves his hair cuts and different styles you give him !!!"
+      },
+      {
+        "author": "Carlos Digital dental lab",
+        "rating": 5,
+        "text": "Excellent service. The barbers are attentive and professional, the place is clean and has a great atmosphere. I left with the haircut I wanted. Highly recommended!"
+      }
+    ],
+    "slug": "barbershop-la-principal",
+    "state": "TX",
+    "street": "3021 Lombardy Lane Suite 103",
+    "zip": "75220"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Bebos Barbershop",
+    "phone": "(214) 484-9355",
+    "rating": 4.8,
+    "reviewCount": 52,
+    "reviews": [
+      {
+        "author": "allisson hurtado",
+        "rating": 5,
+        "text": "I took my son to the nearest barbershop by our house, and he was taken care of by a young man that goes by the name Gianni. He left my son looking “clean” as teens would say LOL! Honestly, he was the sweetest person ever"
+      },
+      {
+        "author": "David",
+        "rating": 5,
+        "text": "Chris was the absolute best. I will definitely be going back to him"
+      },
+      {
+        "author": "Fernando Carranza",
+        "rating": 5,
+        "text": "This barbershop is a hidden gem! From the moment you walk in, you’re treated like family, not just a customer. I had the pleasure of getting my haircut by three different barbers, all of whom did an excellent job. The on"
+      }
+    ],
+    "slug": "bebos-barbershop",
+    "state": "TX",
+    "street": "9494 Webb Chapel Road",
+    "zip": "75220"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "North Fade Barber Shop Dallas",
+    "phone": "(469) 730-3921",
+    "rating": 4.6,
+    "reviewCount": 99,
+    "reviews": [
+      {
+        "author": "OPTIMUS ROBOT LED",
+        "rating": 5,
+        "text": "Moises is excellent barber he did what I was looking for thanks for your service and I will be back for sure"
+      },
+      {
+        "author": "Calleigh Page",
+        "rating": 5,
+        "text": "They have great customer service and did amazing on my hair cut as well as the design 5\nstar"
+      },
+      {
+        "author": "Kyle Lemieux",
+        "rating": 5,
+        "text": "North Fade Barber Shop is a fantastic neighborhood barber shop.  Not a chain. That alone makes it a gem. Additionally, service is always great, staff is welcoming and patient.\nI'm nearly bald so I only get buzzed but the"
+      }
+    ],
+    "slug": "north-fade-barber-shop-dallas",
+    "state": "TX",
+    "street": "2900 Walnut Hill Lane 103",
+    "zip": "75229"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Sport Barber Shop",
+    "phone": "(972) 803-8818",
+    "rating": 4.6,
+    "reviewCount": 59,
+    "reviews": [
+      {
+        "author": "Chance Guzman",
+        "rating": 5,
+        "text": "Always get a good hair cut & there's always good vibes. The barber's name that cuts my hair is Mateo. Tell him Martha recommended him."
+      },
+      {
+        "author": "Leslie",
+        "rating": 5,
+        "text": "Great deatailed hair cuts done and fast and clean cuts. My son and brother love their hair cuts.  They are really busy during the weekends that's why I usually go during the week between 9 to 5 to be out fast."
+      },
+      {
+        "author": "Heather Gulley",
+        "rating": 5,
+        "text": "Love this place! The only place that can really do my husbands hair correct..and outstanding barbers"
+      }
+    ],
+    "slug": "sport-barber-shop",
+    "state": "TX",
+    "street": "9734 Webb Chapel Road",
+    "zip": "75220"
+  },
+  {
+    "categoryLabel": "barber",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "barber",
+    "name": "Los Viejones Barbershop TX",
+    "phone": "(214) 753-9249",
+    "rating": 5,
+    "reviewCount": 14,
+    "reviews": [
+      {
+        "author": "Yoseli sanchez",
+        "rating": 5,
+        "text": "Very good service👌 staff is friendly, makes you feel really confortable. Execelent with kids 10/10 defenetly recomend"
+      },
+      {
+        "author": "Supreme YT",
+        "rating": 5,
+        "text": "Staff is very friendly and chill and the cuts are amazing definitely recommend them"
+      },
+      {
+        "author": "Jose J",
+        "rating": 5,
+        "text": "Those guys did a great job"
+      }
+    ],
+    "slug": "los-viejones-barbershop-tx",
+    "state": "TX",
+    "street": "2647 West Northwest Highway B",
+    "zip": "75220"
   }
 ]
