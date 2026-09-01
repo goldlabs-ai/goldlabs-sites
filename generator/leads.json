@@ -18183,5 +18183,20 @@
     "state": "TX",
     "street": "9500 Escarpment Boulevard",
     "zip": "78749"
+  },
+  {
+    "categoryLabel": "generic",
+    "city": "Austin",
+    "hours": null,
+    "industry": "generic",
+    "name": "GoldLabs Test",
+    "phone": "3109076643",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "goldlabs-test",
+    "state": "TX",
+    "street": "7716 Stephany Taylor Drive",
+    "zip": "78745"
   }
 ]
