@@ -18198,5 +18198,2311 @@
     "state": "TX",
     "street": "7716 Stephany Taylor Drive",
     "zip": "78745"
+  },
+  {
+    "categoryLabel": "cleaning",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "cleaning",
+    "name": "Noelsy's houses cleaning services",
+    "phone": "(214) 457-7905",
+    "rating": 4.5,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "C Allen",
+        "rating": 5,
+        "text": "Vilma and her family cleaning my home all the time! She’s very professional & reliable. Never any hassle on booking…always on time and it doesn’t take her all day to clean my 3 bedroom, 2 bathroom, kitchen & living room."
+      },
+      {
+        "author": "Sol Flores",
+        "rating": 5,
+        "text": "Amazing cleaning service I’ve used them once and till this day I continue to use them Noelsy and her crew go above and beyond to satisfy your needs in getting your home to look amazing she’s so great I even hired her to "
+      },
+      {
+        "author": "MikeLuk",
+        "rating": 5,
+        "text": "Very good, professional, experienced. Checks vents, air filters, ceiling fans, under beds, etc.. definitely recommended to do a thorough cleaning. Good fair pricing too."
+      }
+    ],
+    "slug": "noelsy-s-houses-cleaning-services",
+    "state": "TX",
+    "street": "112 South Saint Mary Avenue",
+    "zip": "75214"
+  },
+  {
+    "categoryLabel": "cleaning",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "cleaning",
+    "name": "Elegance cleaning Services",
+    "phone": "(214) 253-3240",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "elegance-cleaning-services",
+    "state": "TX",
+    "street": "4599 West Davis Street",
+    "zip": "75211"
+  },
+  {
+    "categoryLabel": "cleaning",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "cleaning",
+    "name": "Just Ducky Cleaning Service",
+    "phone": "(503) 839-0499",
+    "rating": 5,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Taylor",
+        "rating": 5,
+        "text": "Just Ducky is amazing.  Small company with no mess ever too big to tackle.   I use them all the time in Portland Oregon, great rates top notch service.  They are so good I referred them to my employer and they now clean "
+      },
+      {
+        "author": "KEVIN BARRETT",
+        "rating": 5,
+        "text": "Louie does a great job for me. He comes every two weeks and always does a great job. I’ve been using him since December 2014. OH! He is about the most honest person I know."
+      },
+      {
+        "author": "Tiffany Stoneking",
+        "rating": 5,
+        "text": "Best cleaning service in town!!!"
+      }
+    ],
+    "slug": "just-ducky-cleaning-service",
+    "state": "TX",
+    "street": "4845 Cedar Springs Road",
+    "zip": "75219"
+  },
+  {
+    "categoryLabel": "cleaning",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "cleaning",
+    "name": "Reyes Maids, by Monarca Home Services",
+    "phone": "(682) 485-8592",
+    "rating": 4.2,
+    "reviewCount": 227,
+    "reviews": [
+      {
+        "author": "Em",
+        "rating": 5,
+        "text": "The BEST maid service in all of the Dallas area! Very organized with letting you know when they’ll arrive, they even give a tracker so you can see where they are and their ETA! They clean my apartment and do small miscel"
+      },
+      {
+        "author": "Lisa Benson",
+        "rating": 5,
+        "text": "Awesome, reliable, professional. I scheduled a large 3,000 sq. ft. residential sparkle clean for a pending lease listing. Marta and Brenda were the team, and they knocked it out. I am scheduling another project first of "
+      }
+    ],
+    "slug": "reyes-maids-by-monarca-home-services",
+    "state": "TX",
+    "street": "1910 Pacific Avenue",
+    "zip": "75201"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "massage Z",
+    "phone": "(972) 930-9800",
+    "rating": 4.3,
+    "reviewCount": 18,
+    "reviews": [
+      {
+        "author": "Randel Glass",
+        "rating": 5,
+        "text": "I came in because my muscle and tissue massage therapist retired. I called and asked for a Deep muscle massage, they had an opening in 20 minutes. Coco had a clean room and ready to start. Don't let her small stature dec"
+      },
+      {
+        "author": "John Mann",
+        "rating": 5,
+        "text": "Very professional masseur. I chose this place and the service was great, the masseuse's hands put me to sleep. I will definitely continue to come here next time the place is clean and quiet I strongly recommend everyone "
+      },
+      {
+        "author": "Dedi",
+        "rating": 5,
+        "text": "Excellent place with super professional and strong massage therapists. The place is also clean, the price is reasonable, and I highly recommend any of the therapists because they are all excellent..!"
+      }
+    ],
+    "slug": "massage-z",
+    "state": "TX",
+    "street": "18110 Midway Road Apartment 160",
+    "zip": "75287"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Carrollton",
+    "hours": null,
+    "industry": "massage",
+    "name": "Pure Bliss Massage Therapy",
+    "phone": "(475) 212-2843",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "pure-bliss-massage-therapy",
+    "state": "TX",
+    "street": "2522 East Trinity Mills Road",
+    "zip": "75006"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Frankford Massage",
+    "phone": "(469) 298-3131",
+    "rating": 4,
+    "reviewCount": 52,
+    "reviews": [
+      {
+        "author": "John Watson",
+        "rating": 5,
+        "text": "I really like this place! I give it 5 stars because it is very professional, clean, and has excellent talent! My last massage was with Ella who is very beautiful , young (in her 30s), strong, and professional. She loves "
+      },
+      {
+        "author": "Jesse Galvan",
+        "rating": 5,
+        "text": "Great place. Annie, Ella, Selina and especially Cindy take the upmost care of you with quality and exceptional service. Highly recommend all of them with their professional experience.  Had extreme tension in my shoulder"
+      },
+      {
+        "author": "AXM Man",
+        "rating": 5,
+        "text": "This is probably the cleanest massage place and most professional place you could find.  The owner is very sweet woman and they all give fantastic massages.  I have been using them for a long time and anytime I get sore "
+      }
+    ],
+    "slug": "frankford-massage",
+    "state": "TX",
+    "street": "6911 Frankford Road 300",
+    "zip": "75252"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Lily Massage",
+    "phone": "(214) 731-6252",
+    "rating": 4.5,
+    "reviewCount": 85,
+    "reviews": [
+      {
+        "author": "Andrea Cuevas",
+        "rating": 5,
+        "text": "My husband and I love this place. Definitely call ahead but they’re always able to take us within an hour or two for a couples massage. Great techniques for both Swedish and deep tissue massages and very reasonable price"
+      },
+      {
+        "author": "Leticia Garcia",
+        "rating": 5,
+        "text": "Just walked out of a GREAT massage. First time here and I believe her name is Lily, she got every knot out of my shoulders and back that have been killing me for weeks. They gained a new customer."
+      },
+      {
+        "author": "Travis Scott",
+        "rating": 5,
+        "text": "Ann has very soft hands, and the way they glide over my body feels smooth and relaxing. It was an excellent happy ending experience."
+      }
+    ],
+    "slug": "lily-massage",
+    "state": "TX",
+    "street": "18181 Midway Road Suite 200",
+    "zip": "75287"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Elorise Massage and Spa",
+    "phone": "(954) 425-3985",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "elorise-massage-and-spa",
+    "state": "TX",
+    "street": "1601 Elm Street",
+    "zip": "75201"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Rhoda Body Massage",
+    "phone": "(720) 686-9490",
+    "rating": 5,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Tina Henry",
+        "rating": 5,
+        "text": "Absolutely amazing massage experience! I left feeling completely relaxed, refreshed, and rejuvenated. The therapist was professional, welcoming, and really took the time to understand what I needed. The massage was excel"
+      },
+      {
+        "author": "Robheart Burnaway",
+        "rating": 5,
+        "text": "Absolutely amazing experience! ⭐⭐⭐⭐⭐ The service was outstanding from start to finish. Everyone was so professional, friendly, and attentive, and the quality of the work truly exceeded my expectations. I’m extremely happ"
+      },
+      {
+        "author": "Benson Richard",
+        "rating": 5,
+        "text": "I had a great experience with this business. The service was excellent, professional, and friendly. Everything was handled with care and attention to detail, and I was very satisfied with the results. I would definitely "
+      }
+    ],
+    "slug": "rhoda-body-massage",
+    "state": "TX",
+    "street": "1903 North Griffin Street",
+    "zip": "75202"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Irving",
+    "hours": null,
+    "industry": "massage",
+    "name": "Jane Massage & SPA",
+    "phone": "(423) 845-8151",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "jane-massage-and-spa",
+    "state": "TX",
+    "street": "3800 Portland Street",
+    "zip": "75038"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Irving",
+    "hours": null,
+    "industry": "massage",
+    "name": "Blessing full body massage & spa",
+    "phone": "(470) 281-3836",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "blessing-full-body-massage-and-spa",
+    "state": "TX",
+    "street": "5447 North MacArthur Boulevard",
+    "zip": "75038"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Grapevine",
+    "hours": null,
+    "industry": "massage",
+    "name": "Somar Wellness Spa | Spa Party & Retreat, Body Massage, Body Scrub, Body Sculpting, Body Contouring, Facial",
+    "phone": "(817) 372-6185",
+    "rating": 4.8,
+    "reviewCount": 339,
+    "reviews": [
+      {
+        "author": "Kayla Puri",
+        "rating": 5,
+        "text": "I had such an amazing experience with Bebe! I booked a massage along with energy work, and I truly left feeling like a completely different person. From the moment I walked in, she created such a calming and welcoming en"
+      },
+      {
+        "author": "Courtney",
+        "rating": 5,
+        "text": "From the moment I arrived, soothing music set the tone as I enjoyed my tea and began my facial steaming experience. It felt incredibly calming—like every ounce of stress and toxins was melting away.\n\nShe gently asked me "
+      },
+      {
+        "author": "Amit Gandhi",
+        "rating": 5,
+        "text": "AMAZING experience from start to finish.\n\nI was searching for a place to celebrate my wife’s birthday, and Bebe responded almost immediately and got both of us scheduled for the very next day.\n\nWe went with one of the pa"
+      }
+    ],
+    "slug": "somar-wellness-spa-spa-party-and-retreat-body-massage-body-s",
+    "state": "TX",
+    "street": "520 East Northwest Highway Suite 103",
+    "zip": "76051"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Kirah massage",
+    "phone": "(667) 518-0957",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "kirah-massage",
+    "state": "TX",
+    "street": "7760 McCallum Boulevard",
+    "zip": "75252"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Doris’s P massage and spa",
+    "phone": "(512) 894-6218",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "doris-s-p-massage-and-spa",
+    "state": "TX",
+    "street": "18170 Dallas Parkway Suite 301",
+    "zip": "75287"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Allure Massage",
+    "phone": "(469) 927-0395",
+    "rating": 4,
+    "reviewCount": 16,
+    "reviews": [
+      {
+        "author": "Typo Kaz",
+        "rating": 5,
+        "text": "Absolutely fantastic massages! My back had been hurting for weeks. After getting a massage here, they helped loosen a lot of knots in my back and shoulders. I feel refreshed! They've definitely earned a returning custome"
+      },
+      {
+        "author": "MussoLive",
+        "rating": 5,
+        "text": "Super professional place with a really good massage. Pleasant atmosphere and comfy tables."
+      },
+      {
+        "author": "Steven Baker",
+        "rating": 5,
+        "text": "Amazing massage!! Very clean and Calm environment!! Highly recommend for a complete experience!!"
+      }
+    ],
+    "slug": "allure-massage",
+    "state": "TX",
+    "street": "17290 Preston Road ste110",
+    "zip": "75252"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Cedar Hill",
+    "hours": null,
+    "industry": "massage",
+    "name": "Beautiful You Face, Body and Skincare LLC",
+    "phone": "(945) 296-0279",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Asia",
+        "rating": 5,
+        "text": "Mia was the best after my surgery, assisting tremendously in my recovery. During each massage she educated me on the process and gave clear easy to follow instructions at home.   She is extremely sweet soul,  her office "
+      },
+      {
+        "author": "Kimberly King",
+        "rating": 5,
+        "text": "Mia is a wonderful! She is very pleasant, professional and knowledgeable. Her office is definitely a hidden jem. I had great results on my treatments."
+      },
+      {
+        "author": "Ashley Christina",
+        "rating": 5,
+        "text": "Loved my treatment. So kind and knowledgeable. Will be coming back soon."
+      }
+    ],
+    "slug": "beautiful-you-face-body-and-skincare-llc",
+    "state": "TX",
+    "street": "200 Bryan Place",
+    "zip": "75104"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "massage",
+    "name": "Nova Spa & Duncanville",
+    "phone": "(817) 883-1833",
+    "rating": 4.3,
+    "reviewCount": 12,
+    "reviews": [
+      {
+        "author": "Stephen Hubel",
+        "rating": 5,
+        "text": "I've received numerous massages at different establishments around the area, and this one is definitely the best. I've paid extra for hot stones at other places and left disappointed, but here, they include hot stones by"
+      },
+      {
+        "author": "brad sass",
+        "rating": 5,
+        "text": "Very good masseuse. I had experienced extreme neck muscle tightness and tension headaches. The masseuse did an excellent job getting rid of this. Awesome job"
+      },
+      {
+        "author": "Kanchan Yadav",
+        "rating": 5,
+        "text": "The massage was very good. The experience was fantastic; the hot stones were incredibly soothing. I hope everyone will try it!"
+      }
+    ],
+    "slug": "nova-spa-and-duncanville",
+    "state": "TX",
+    "street": "745 West Wheatland Road",
+    "zip": "75116"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Massage & Spa by Sabrina",
+    "phone": "(440) 912-9191",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "massage-and-spa-by-sabrina",
+    "state": "TX",
+    "street": "2335 Vagas Street",
+    "zip": "75219"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Casandra Pinson, LMT",
+    "phone": "(214) 815-9192",
+    "rating": 4,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Rodney Powell",
+        "rating": 4,
+        "text": "Good service with pleasant attitude.  Very professional...."
+      }
+    ],
+    "slug": "casandra-pinson-lmt",
+    "state": "TX",
+    "street": "7542 South Lancaster Road a",
+    "zip": "75241"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "zamk caybaras massage therapy",
+    "phone": "(234) 200-9540",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Anthony Smith",
+        "rating": 5,
+        "text": "very good massage service 👌👌absolutely worth it"
+      }
+    ],
+    "slug": "zamk-caybaras-massage-therapy",
+    "state": "TX",
+    "street": "13970 Noel Road",
+    "zip": "75240"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Dallas Massage",
+    "phone": "(972) 413-8742",
+    "rating": 5,
+    "reviewCount": 15,
+    "reviews": [
+      {
+        "author": "Jeff Mathis",
+        "rating": 5,
+        "text": "Beautiful and professional setting very intuitive and amazing personality. Always asked if I was ok and def made me feel welcomed"
+      },
+      {
+        "author": "Nick M",
+        "rating": 5,
+        "text": "Tha BESTTTT! I needed a massage after a long work week. And Alma exceeded all expectations! She’s literally my permanent masseuse forever. Thank you Almaaaaa!"
+      },
+      {
+        "author": "Joe Mendoza",
+        "rating": 5,
+        "text": "A complete rejuvenation of mind and body with a combination of skill and attentiveness. Will definitely be a return client!"
+      }
+    ],
+    "slug": "dallas-massage",
+    "state": "TX",
+    "street": "14114 Dallas Parkway",
+    "zip": "75254"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Zoe Massage and Spa",
+    "phone": "(216) 576-2987",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "zoe-massage-and-spa",
+    "state": "TX",
+    "street": "9855 Shadow Way",
+    "zip": "75243"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "cassandra massage and spa",
+    "phone": "(716) 398-1016",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "cassandra-massage-and-spa",
+    "state": "TX",
+    "street": "10151 Shoreview Road",
+    "zip": "75238"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Massage Oasis at Work",
+    "phone": "(214) 930-2767",
+    "rating": 4.8,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Allen Norwood",
+        "rating": 5,
+        "text": "Ask about happy ending. Love how I didn't have to ask to be choked at the end."
+      },
+      {
+        "author": "Norbellys Urribarri",
+        "rating": 5,
+        "text": "It is very important"
+      }
+    ],
+    "slug": "massage-oasis-at-work",
+    "state": "TX",
+    "street": "12610 Jupiter Road Apartment 1025",
+    "zip": "75238"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Healing Hands Therapeutic Massage",
+    "phone": "(971) 871-7313",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "healing-hands-therapeutic-massage",
+    "state": "TX",
+    "street": "10454 East Northwest Highway",
+    "zip": "75238"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Knead2RelaxMassage",
+    "phone": "(469) 324-9445",
+    "rating": 5,
+    "reviewCount": 14,
+    "reviews": [
+      {
+        "author": "Roxanne Alexander",
+        "rating": 5,
+        "text": "Jocelyn understands the muscular system and knows how working with one area of the body (that may not even be seeming to need attention) can relieve tension and discomfort in the area of concern. I am very encouraged tha"
+      },
+      {
+        "author": "Patricia Hawman",
+        "rating": 5,
+        "text": "Best massage therapist ever.  I highly recommend Jocelyn."
+      },
+      {
+        "author": "Seth Braun",
+        "rating": 5,
+        "text": "Jocelyn is at the top of the professional massage therapist game.\nShe is committed to being great, providing a supportive office environment and operates as a pro.\nHer knowledge of physiology and understanding of biomech"
+      }
+    ],
+    "slug": "knead2relaxmassage",
+    "state": "TX",
+    "street": "9862 Plano Road Suite 300/302/304",
+    "zip": "75238"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Duncanville",
+    "hours": null,
+    "industry": "massage",
+    "name": "Yang Foot Spa",
+    "phone": "(682) 220-2555",
+    "rating": 4.7,
+    "reviewCount": 24,
+    "reviews": [
+      {
+        "author": "Aaron Cole",
+        "rating": 5,
+        "text": "I followed Lisa from another massage parlor she was at in Grand Prairie. Lisa is always on good, had a down one of the best massages I’ve had. Her shoulder work is everything! Always my go to for a massage."
+      },
+      {
+        "author": "Julissia H",
+        "rating": 5,
+        "text": "My experience was amazing! Great price for an even better service. Honestly, the best foot massage I’ve ever had! Will schedule regularly I feel great 🥰"
+      },
+      {
+        "author": "Cenia Ulate",
+        "rating": 5,
+        "text": "First time here and I was lucky enough to get Lisa! I’m not a newcomer to foot massage therapy so I am pretty particular. Lisa did a fantastic job! I feel amazing and I feel rejuvenated! For those who don’t know about fo"
+      }
+    ],
+    "slug": "yang-foot-spa",
+    "state": "TX",
+    "street": "261 West Camp Wisdom Road Unit b",
+    "zip": "75116"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Grand Prairie",
+    "hours": null,
+    "industry": "massage",
+    "name": "Aura Luxe Spa",
+    "phone": "(501) 291-2278",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "aura-luxe-spa",
+    "state": "TX",
+    "street": "3930 Westcliff Road",
+    "zip": "75052"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Sydney massage and spa",
+    "phone": "(312) 296-8105",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "sydney-massage-and-spa",
+    "state": "TX",
+    "street": "5720 Forest Park Road",
+    "zip": "75235"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Massage Therapy by Jeannie",
+    "phone": "(214) 783-0431",
+    "rating": 3.4,
+    "reviewCount": 27,
+    "reviews": [
+      {
+        "author": "CJ Carl",
+        "rating": 5,
+        "text": "Jeannie is a fabulous massage therapist! I've been going to see her monthly for about a year now. She is kind and considerate , professional and nurturing. Her techniques are the best. She adapts to the client. I like de"
+      },
+      {
+        "author": "Jordan Drizen",
+        "rating": 5,
+        "text": "Jeannie was extremely attentive to my pain points. I highly recommend paying her a visit if you are an athlete or generally have any chronic muscle pains. Had no issues scheduling an appointment and already scheduled my "
+      },
+      {
+        "author": "Norman Mang",
+        "rating": 5,
+        "text": "I had such an amazing time with Jeannie, she is a talented massage therapist with decades of experience. Her massage techniques and hand strength are excellent and she is extremely knowledgeable when it comes to giving a"
+      }
+    ],
+    "slug": "massage-therapy-by-jeannie",
+    "state": "TX",
+    "street": "1400 Hi Line Drive Suite 100 Room 49",
+    "zip": "75207"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Farmers Branch",
+    "hours": null,
+    "industry": "massage",
+    "name": "Alexis massage $ Spa",
+    "phone": "(716) 402-0089",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "alexis-massage-spa",
+    "state": "TX",
+    "street": "12099 Luna Road",
+    "zip": "75234"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Emily massage and spa",
+    "phone": "(513) 331-3785",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "emily-massage-and-spa",
+    "state": "TX",
+    "street": "8110 Park Lane",
+    "zip": "75231"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Helen Massage and Spa",
+    "phone": "(628) 286-9725",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "helen-massage-and-spa",
+    "state": "TX",
+    "street": "9900 Adleta Boulevard",
+    "zip": "75243"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "MAECHI Co. Massage In Home",
+    "phone": "(214) 635-6614",
+    "rating": 5,
+    "reviewCount": 13,
+    "reviews": [
+      {
+        "author": "Fishelle Tonge",
+        "rating": 5,
+        "text": "Maechi was fantastic. She worked through all the tension and kinks in my upper body with steady, focused pressure and really smooth technique. Her approach felt intentional and attentive — she knew exactly how to knead i"
+      },
+      {
+        "author": "Lisa Williams",
+        "rating": 5,
+        "text": "Woww…I just gotten an amazing massage from this wonderful lady. She was so sweet and understanding of the need I needed attention to. I highly recommend her. I have found my massage therapist and I will definitely be get"
+      },
+      {
+        "author": "Levar Sanford",
+        "rating": 5,
+        "text": "Mae is absolutely amazing. I’ve had this knot in my back for weeks. Her fee tissue massage took care of it and I feel brand new. Highly recommend"
+      }
+    ],
+    "slug": "maechi-co-massage-in-home",
+    "state": "TX",
+    "street": "7995 Lyndon B Johnson Freeway Unit 103",
+    "zip": "75251"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Massage & Co.",
+    "phone": "(269) 210-1263",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Tosin Yomi",
+        "rating": 5,
+        "text": "Best massage spa ever…I’ll highly recommend"
+      }
+    ],
+    "slug": "massage-and-co",
+    "state": "TX",
+    "street": "6501 Churchill Way",
+    "zip": "75230"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Massge.Acupressure Clinic",
+    "phone": "(972) 998-8500",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": null,
+    "slug": "massge-acupressure-clinic",
+    "state": "TX",
+    "street": "11029 Shady Trail 127",
+    "zip": "75229"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Self Truth Massage",
+    "phone": "(972) 256-8479",
+    "rating": 4.9,
+    "reviewCount": 41,
+    "reviews": [
+      {
+        "author": "Jono J",
+        "rating": 5,
+        "text": "I recently had the most incredible massage experience with my Victoria! From the moment I walked into the serene environment, I knew I was in for something special. Victoria's skilled hands worked magic on my body, effor"
+      },
+      {
+        "author": "Esmeralda Mejia",
+        "rating": 5,
+        "text": "Booking an appointment was very easy. I called and got a same day at a good time. There is plenty of parking. Victoria provides simple instructions for finding her suite which is kept very clean. She provides an extremel"
+      },
+      {
+        "author": "Kris Klein",
+        "rating": 5,
+        "text": "Once again Victoria manages to change my entire body and energy in 2 hours. Just incredible. Truly a healer.\nI walked in without “pain” and noticed it’s just my entire body has been so wound up I didn’t have an area of p"
+      }
+    ],
+    "slug": "self-truth-massage",
+    "state": "TX",
+    "street": "13601 Preston Road",
+    "zip": "75240"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Farmers Branch",
+    "hours": null,
+    "industry": "massage",
+    "name": "Biscuitz Thai Massage",
+    "phone": "(951) 636-4519",
+    "rating": 5,
+    "reviewCount": 32,
+    "reviews": [
+      {
+        "author": "Kika Kakov",
+        "rating": 5,
+        "text": "Bar far the best Thai massage in the metroplex. Beautiful secure location. Joan has a great energy and amazing strong hands. I could only do a 60 minute session, but will definitely be back for 90 or longer."
+      },
+      {
+        "author": "kenza kendall",
+        "rating": 5,
+        "text": "I got 90 mins full body massage with Joan, and she was amazing, she does an excellent job and friendly. Every part of my body was tended from head to toe. After the session, the tightness of my neck was gone and my legs "
+      },
+      {
+        "author": "Jonathan Mensch",
+        "rating": 5,
+        "text": "One of the best Thai combination massages in the area!  Very professional studio, Joanne is amazing at kneeding and stretching muscle and joints to relieve you of pain.  I sit in front of a computer for hours every day a"
+      }
+    ],
+    "slug": "biscuitz-thai-massage",
+    "state": "TX",
+    "street": "13001 Bee Street Suite B-100 Suite 208",
+    "zip": "75234"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Chaba feet",
+    "phone": "(469) 336-7587",
+    "rating": 3.8,
+    "reviewCount": 19,
+    "reviews": [
+      {
+        "author": "Iker Sullivan",
+        "rating": 5,
+        "text": "By far, this is the best massage establishment I've ever been to. The service remains consistently excellent, and they truly know how to help clients relax."
+      },
+      {
+        "author": "John Sequeira",
+        "rating": 5,
+        "text": "Chaba feet is an excellent place to get a thai foot massage. I was driving by and walked in and got one of the best foot massages I ever received. Chaba knows the right techniques and it was so relaxing I fell asleep. Hi"
+      },
+      {
+        "author": "Bryan Alsobrook",
+        "rating": 5,
+        "text": "Chaba is a fantastic place to get the best Thai foot massage in Dallas. Chaba knows what she is doing. Her many years of experience shows. I surely recommend that you at least book an hour with her. You will be amazed by"
+      }
+    ],
+    "slug": "chaba-feet",
+    "state": "TX",
+    "street": "10851 Ferguson Road",
+    "zip": "75228"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Rose massage and spa",
+    "phone": "(214) 673-5921",
+    "rating": 1,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "rose-massage-and-spa",
+    "state": "TX",
+    "street": "2217 Clark Street",
+    "zip": "75204"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Brinx Massage and Spa",
+    "phone": "(801) 979-2654",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "brinx-massage-and-spa",
+    "state": "TX",
+    "street": "3523 Fawn Valley Drive",
+    "zip": "75224"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Gentle Waves Wellness Spa",
+    "phone": "(407) 256-1473",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Luke Bryan",
+        "rating": 5,
+        "text": "The massage itself was exceptional—perfect pressure, very relaxing, and exactly what I needed to relieve stress and tension. You can really tell they care about their clients’ well-being and take pride in their work."
+      }
+    ],
+    "slug": "gentle-waves-wellness-spa",
+    "state": "TX",
+    "street": "5419 Ross Avenue",
+    "zip": "75206"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Christa massage and spa",
+    "phone": "(321) 805-1286",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "christa-massage-and-spa",
+    "state": "TX",
+    "street": "5313 Reiger Avenue",
+    "zip": "75214"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Morgan Massage & Spa",
+    "phone": "(409) 347-3301",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "morgan-massage-and-spa",
+    "state": "TX",
+    "street": "5313 Reiger Avenue",
+    "zip": "75214"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Laura Healing Massage",
+    "phone": "(786) 232-4901",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "laura-healing-massage",
+    "state": "TX",
+    "street": "402 North Augusta Street",
+    "zip": "75214"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Garland",
+    "hours": null,
+    "industry": "massage",
+    "name": "The Best Massage",
+    "phone": "(945) 286-8816",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "the-best-massage",
+    "state": "TX",
+    "street": "2214 South Jupiter Road",
+    "zip": "75041"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Healing Hands Male Massage & Male Grooming /Manscaping Clipping/Shaving",
+    "phone": "(214) 621-4502",
+    "rating": 4.9,
+    "reviewCount": 15,
+    "reviews": [
+      {
+        "author": "Joseph Vetter",
+        "rating": 5,
+        "text": "I have seen Brett for massage for the past 20 years. His massage studio is always spotless and the table is super comfortable. Brett always devotes the appropriate amount of attention to all aching areas that need work. "
+      },
+      {
+        "author": "Charles For now",
+        "rating": 5,
+        "text": "Brett provides an excellent massage, did not have a grooming. The massage space is clean with an adjustable heated table. The hot stones and towels felt great. I will be scheduling another appointment soon!"
+      },
+      {
+        "author": "Ted Session",
+        "rating": 5,
+        "text": "Outstanding Massage. Brett took quality time. I was not rushed and massage is tailored to your needs and expectations. Brett offers a wide variety of styles including Hot stones; deep tissue and Brett is Trusting and car"
+      }
+    ],
+    "slug": "healing-hands-male-massage-and-male-grooming-manscaping-clip",
+    "state": "TX",
+    "street": "2815 Lineville Drive",
+    "zip": "75234"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "SOBADOR Vida Larga y Saludable",
+    "phone": "(214) 726-5186",
+    "rating": 4.9,
+    "reviewCount": 205,
+    "reviews": [
+      {
+        "author": "Aim Games",
+        "rating": 5,
+        "text": "Came in with back and knee pain after going skydiving. After one session I went home feeling much better then when I came in, I kept coming back and after sessions my back and knee where completely ready to go skydiving "
+      },
+      {
+        "author": "Alicia Reyes",
+        "rating": 5,
+        "text": "I came in with knee pain and felt immediate relief after my session. Great service! Very clean and professional! Highly recommend!"
+      },
+      {
+        "author": "Cecy Quiroz",
+        "rating": 5,
+        "text": "For many years I had a back problems! Just with 2 adjustments I'm feeling like a new person. I highly recommend this place!"
+      }
+    ],
+    "slug": "sobador-vida-larga-y-saludable",
+    "state": "TX",
+    "street": "11200 Harry Hines Boulevard Suite G2-A",
+    "zip": "75229"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "SPA & MASSAGE BY JESSICA",
+    "phone": "(309) 666-0453",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "spa-and-massage-by-jessica",
+    "state": "TX",
+    "street": "3490 Timberview Road",
+    "zip": "75229"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Karen Sinnott Massage Therapy",
+    "phone": "(762) 238-9104",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "karen-sinnott-massage-therapy",
+    "state": "TX",
+    "street": "3611 Congress Avenue",
+    "zip": "75219"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "JsMassage",
+    "phone": "(214) 282-7055",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Mark Mahan",
+        "rating": 5,
+        "text": "Jay Knearem has been my personal trainer and massage therapist for several years now, and I've been very satisfied with his services. His private studio is perfect for uninterrupted workouts and massage. He customizes hi"
+      },
+      {
+        "author": "Stephanie Sain",
+        "rating": 5,
+        "text": "Jay has been my personal trainer for over 10 years.  Add to that, he’s also my masseuse.  I highly recommend Jay for both!  If you’ve got a knot, he’ll find it!"
+      }
+    ],
+    "slug": "jsmassage",
+    "state": "TX",
+    "street": "3526 Cedar Springs Road",
+    "zip": "75219"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Foot Health Massage",
+    "phone": "(626) 418-6349",
+    "rating": 4.9,
+    "reviewCount": 217,
+    "reviews": [
+      {
+        "author": "MOTHER TRESSA",
+        "rating": 5,
+        "text": "My husband & I found a couples massage deal on Groupon over the Valentine’s Day weekend & decided to check this place out. This may have been one of the better massages I’ve had in the DFW. From the moment you walk throu"
+      },
+      {
+        "author": "Pinar Özkan Owens",
+        "rating": 5,
+        "text": "I really enjoyed my deep tissue massage. From head to toe. Feeling refreshed and relaxed. They had cozy blankets to always feel warm and the ambiance with the lights and music was very relaxing. Thank you. Will come back"
+      },
+      {
+        "author": "Jiwon Chun",
+        "rating": 5,
+        "text": "This was the best massage I’ve ever gotten. I’ve been to many other places in dallas and nothing compares. Amazing full body deep tissue massage"
+      }
+    ],
+    "slug": "foot-health-massage",
+    "state": "TX",
+    "street": "6780 Abrams Road 109",
+    "zip": "75231"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Mesquite",
+    "hours": null,
+    "industry": "massage",
+    "name": "RR Massage",
+    "phone": "(945) 994-4832",
+    "rating": 4.8,
+    "reviewCount": 49,
+    "reviews": [
+      {
+        "author": "OSAN MEDICAL",
+        "rating": 5,
+        "text": "Amazing! Angela is my favorite! Very feminine. She helped me fully release all stress and tension. She is pretty and fun sized too, which is a plus!"
+      },
+      {
+        "author": "Jackie Torres",
+        "rating": 5,
+        "text": "Mía was amazing!!! I had a 60 minute massage and it was worth every second of it! I will definitely be back soon. Great prices and amazing service!"
+      },
+      {
+        "author": "Scott Bidwell",
+        "rating": 5,
+        "text": "Walked in and was Able to get service right away.  They have a variety of offerings at reasonable prices.  The massage was relaxing and Angela was very accommodating."
+      }
+    ],
+    "slug": "rr-massage",
+    "state": "TX",
+    "street": "3605 Interstate 30 Frontage Road a",
+    "zip": "75150"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Elina massage",
+    "phone": "(205) 205-4457",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "elina-massage",
+    "state": "TX",
+    "street": "3303 Southern Oaks Boulevard",
+    "zip": "75216"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Eilish massage therapy",
+    "phone": "(414) 360-4849",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "eilish-massage-therapy",
+    "state": "TX",
+    "street": "2845 Toluca Avenue",
+    "zip": "75224"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Clarita Massage and Spa",
+    "phone": "(332) 280-7205",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "clarita-massage-and-spa",
+    "state": "TX",
+    "street": "5821 Bonnie View Road",
+    "zip": "75241"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Peaceful palms wellness massage and spa",
+    "phone": "(361) 203-9904",
+    "rating": 4,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Maria Torres",
+        "rating": 5,
+        "text": "Absolutely amazing experience! The massage was relaxing, professional, and exactly what I needed. The atmosphere was peaceful and comfortable, and every detail made me feel completely at ease. I left feeling refreshed, r"
+      },
+      {
+        "author": "James Warrington",
+        "rating": 5,
+        "text": "Fantastic experience! The atmosphere was peaceful, the service was top-notch, and the massage relieved weeks of built-up stress and muscle tension. The therapist was professional and attentive to every detail. Worth ever"
+      },
+      {
+        "author": "Antoria Marika",
+        "rating": 5,
+        "text": "My friend and I went together for a deep tissue massage and it exceeded expectations. The pressure was perfect, and the therapist focused exactly where we needed it most. Great local spa for stress relief and muscle tens"
+      }
+    ],
+    "slug": "peaceful-palms-wellness-massage-and-spa",
+    "state": "TX",
+    "street": "2910 Prichard Lane",
+    "zip": "75227"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Jeanie Massage & Spa",
+    "phone": "(303) 481-6185",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "jeanie-massage-and-spa",
+    "state": "TX",
+    "street": "2633 Peabody Avenue",
+    "zip": "75215"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Golden Touch & Spa",
+    "phone": "(302) 713-4812",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "golden-touch-and-spa",
+    "state": "TX",
+    "street": "3900 Commerce Street",
+    "zip": "75226"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "The soft reset massage & spa",
+    "phone": "(224) 345-6826",
+    "rating": 5,
+    "reviewCount": 6,
+    "reviews": [
+      {
+        "author": "Divine Emele",
+        "rating": 5,
+        "text": "Really enjoyed my time here. The massage was great, the place was nice and peaceful, and the staff were welcoming. Definitely worth trying!"
+      },
+      {
+        "author": "Anyim Stanley",
+        "rating": 5,
+        "text": "I was glad I came to soft reset massage and spa,\nIndeed I got my whole body on reset.\nThanks."
+      }
+    ],
+    "slug": "the-soft-reset-massage-and-spa",
+    "state": "TX",
+    "street": "7545 East Northwest Highway",
+    "zip": "75238"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Kimberly k massage therapy",
+    "phone": "(945) 427-7857",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Mitchelle Duran",
+        "rating": 5,
+        "text": "Had a great session with you Kimberly ❤️"
+      },
+      {
+        "author": "Mike Green",
+        "rating": 5,
+        "text": "Love how comfortable you made me feel ❤️"
+      },
+      {
+        "author": "Curtis Jr",
+        "rating": 5,
+        "text": "A wonderful experience"
+      }
+    ],
+    "slug": "kimberly-k-massage-therapy",
+    "state": "TX",
+    "street": "1121 Beachview Street",
+    "zip": "75218"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Serenity Massage & wellness",
+    "phone": "(469) 771-4236",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "serenity-massage-and-wellness",
+    "state": "TX",
+    "street": "2515 Inwood Road 201 (Suite 805",
+    "zip": "75235"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "100% NATURAL",
+    "phone": "(214) 948-9394",
+    "rating": 4.8,
+    "reviewCount": 34,
+    "reviews": [
+      {
+        "author": "Claudia Cook",
+        "rating": 5,
+        "text": "I've been coming here for years and love it. If your back hurts, you feel stressed, need a break? This is the place to come. You get a about 40 min infra red bed massage that hurts at 1st because your back is out but aft"
+      },
+      {
+        "author": "Kathleen Hansrote",
+        "rating": 5,
+        "text": "Love this place!.. A friend brought me here. ,Maybe …eight years ago. ., And  it’s been part of my routine  ever since ..\nThe Rolling machines .. have relieved so much back pain.. It’s been a better solution than pain me"
+      },
+      {
+        "author": "Renee Suarez",
+        "rating": 5,
+        "text": "Way cheaper then a massage. My back feels so much better.  Left feeling super relaxed"
+      }
+    ],
+    "slug": "100-natural",
+    "state": "TX",
+    "street": "910 South Hampton Road B",
+    "zip": "75208"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Velvet springs massage and spa",
+    "phone": "(979) 575-6038",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "velvet-springs-massage-and-spa",
+    "state": "TX",
+    "street": "3288 South Polk Street",
+    "zip": "75224"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Sophia Massage & Spa",
+    "phone": "(313) 454-9674",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "sophia-massage-and-spa-2",
+    "state": "TX",
+    "street": "3132 Harmon Street",
+    "zip": "75215"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "North Dallas Massage",
+    "phone": "(972) 591-3445",
+    "rating": 5,
+    "reviewCount": 20,
+    "reviews": [
+      {
+        "author": "Julio Roig",
+        "rating": 5,
+        "text": "The best professionals around. The service is outstanding, and the new manager brings a refreshing perspective, concentrating on achieving positive results for clients. We highly recommend two top technicians - Dyllessia"
+      },
+      {
+        "author": "Deanna Peden",
+        "rating": 5,
+        "text": "Yolanda is very knowledgable after surgery aftercare.  Also Virginia is so sweet and you can tell she really loves her job and helping people.  She has good techniques."
+      },
+      {
+        "author": "Josh Geisler",
+        "rating": 5,
+        "text": "I recently underwent a unique surgery 4 weeks ago. This wasn't your typical \"go home\" same day procedure. I had a lefort or double jaw orthognathic surgery and had a remarkable recovery. The professional experience that "
+      }
+    ],
+    "slug": "north-dallas-massage",
+    "state": "TX",
+    "street": "12800 Preston Road 101",
+    "zip": "75240"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Linda",
+    "phone": "(347) 414-4845",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "linda",
+    "state": "TX",
+    "street": "707 Seale Street Apartment 202",
+    "zip": "75208"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Mindful Moments Massage Studio",
+    "phone": "(214) 597-5914",
+    "rating": 4.2,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Ivan",
+        "rating": 5,
+        "text": "I recently had a massage with David and it was a a great experience. His studio is very cozy and welcoming. The massage was great and he knew exactly where the troubled spots were and worked it with great care. He took h"
+      },
+      {
+        "author": "Brian Faubion",
+        "rating": 5,
+        "text": "What an Experience I received from David. I walked into his studio all tense and stressed but by the time i left i was completely RELAXED. David took the time to learn about you, and what areas of concern you have. David"
+      },
+      {
+        "author": "Trey Lee",
+        "rating": 5,
+        "text": "Incredible! David is a very nice guy and very professional. He really gets in to your muscles and gets it done. You can have a silent massage, with music or have a nice chat with him. My boyfriend and I go once a week. H"
+      }
+    ],
+    "slug": "mindful-moments-massage-studio",
+    "state": "TX",
+    "street": "509 North Winnetka Avenue Upstairs 201 B",
+    "zip": "75208"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Essence Massage Center",
+    "phone": "(706) 943-4076",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Debra Perry",
+        "rating": 5,
+        "text": "Highly recommend this spa !!!"
+      }
+    ],
+    "slug": "essence-massage-center",
+    "state": "TX",
+    "street": "4730 Fairmount Street",
+    "zip": "75219"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "pure relief massage & spa therapist",
+    "phone": "(504) 516-4626",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Baller Fargo",
+        "rating": 5,
+        "text": "Very professional and welcoming. The massage helped me relax and feel comfortable throughout the entire session."
+      },
+      {
+        "author": "TTec Service",
+        "rating": 5,
+        "text": "I really enjoyed my session. The pressure was just right, and I could tell a lot of care went into the experience."
+      }
+    ],
+    "slug": "pure-relief-massage-and-spa-therapist",
+    "state": "TX",
+    "street": "4646 Amesbury Drive",
+    "zip": "75206"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Excelbodymassage",
+    "phone": "(607) 564-8226",
+    "rating": 5,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Lindsey Love",
+        "rating": 5,
+        "text": "Wow i love their service"
+      },
+      {
+        "author": "Kate McDonald's",
+        "rating": 5,
+        "text": "Nice service"
+      }
+    ],
+    "slug": "excelbodymassage",
+    "state": "TX",
+    "street": "4447 North Central Expressway",
+    "zip": "75205"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Downtown Relaxation Massage",
+    "phone": "(636) 565-4874",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Molly jesse",
+        "rating": 5,
+        "text": "A peaceful escape from a busy schedule. Everything was well-organized, clean, and professional. I can't wait to return."
+      }
+    ],
+    "slug": "downtown-relaxation-massage",
+    "state": "TX",
+    "street": "4131 North Central Expressway",
+    "zip": "75204"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Vicky bella",
+    "phone": "(518) 855-6080",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "vicky-bella",
+    "state": "TX",
+    "street": "331 North Marsalis Avenue",
+    "zip": "75203"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Sophia massage and Spa",
+    "phone": "(310) 384-2529",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "sophia-massage-and-spa",
+    "state": "TX",
+    "street": "405 North Ewing Avenue",
+    "zip": "75203"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Bliss Touch Massage",
+    "phone": "(715) 303-0226",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "bliss-touch-massage",
+    "state": "TX",
+    "street": "405 North Ewing Avenue",
+    "zip": "75203"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Kimmy spa center",
+    "phone": "(470) 917-7669",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "kimmy-spa-center",
+    "state": "TX",
+    "street": "1710 North Beckley Avenue",
+    "zip": "75203"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Humble Springs massage & spa",
+    "phone": "(734) 858-9325",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "humble-springs-massage-and-spa",
+    "state": "TX",
+    "street": "400 Crescent Court",
+    "zip": "75201"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "* Luxe Body Retreat",
+    "phone": "(515) 339-6376",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "luxe-body-retreat",
+    "state": "TX",
+    "street": "350 North Ervay Street",
+    "zip": "75201"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Zara massage &spa",
+    "phone": "(501) 510-0674",
+    "rating": 1,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "zara-massage-and-spa",
+    "state": "TX",
+    "street": "1407 Main Street",
+    "zip": "75202"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Nancy massage & spa",
+    "phone": "(224) 350-5340",
+    "rating": 2.5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "stefan walter",
+        "rating": 4,
+        "text": "Loretta is an incredible therapist! I have a physically demanding job and suffered from costochondritis (chest and rib pain) for a long time. Loretta’s deep expertise helped her identify issues I wasn't even aware of. Sh"
+      }
+    ],
+    "slug": "nancy-massage-and-spa",
+    "state": "TX",
+    "street": "4018 Cedar Springs Road",
+    "zip": "75219"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Pure Harmony Massage & Spa",
+    "phone": "(551) 405-7722",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "pure-harmony-massage-and-spa",
+    "state": "TX",
+    "street": "1200 Main Street Apartment 902",
+    "zip": "75202"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Deep Harmony Massage & Spa",
+    "phone": "(213) 348-0016",
+    "rating": 4,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Company Money to help people",
+        "rating": 4,
+        "text": "Absolutely amazing experience. The massage was relaxing, professional, and exactly what I needed. She was attentive, friendly, and made me feel comfortable throughout the entire session. I left feeling refreshed and rela"
+      }
+    ],
+    "slug": "deep-harmony-massage-and-spa",
+    "state": "TX",
+    "street": "2920 Carlisle Street",
+    "zip": "75204"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Soothe & Restore Massage",
+    "phone": "(626) 216-8991",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "soothe-and-restore-massage",
+    "state": "TX",
+    "street": "405 North Ervay Street",
+    "zip": "75201"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Sage Stone Massage $ Spa",
+    "phone": "(270) 599-7807",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "sage-stone-massage-spa",
+    "state": "TX",
+    "street": "1818 Park Avenue",
+    "zip": "75215"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Relaxation Therapist",
+    "phone": "(877) 711-1676",
+    "rating": 5,
+    "reviewCount": 2,
+    "reviews": [
+      {
+        "author": "Allen Evans",
+        "rating": 5,
+        "text": "Awesome!"
+      },
+      {
+        "author": "Samuel Guzman",
+        "rating": 5,
+        "text": "I loved the service, the friendliness of the people, the delicious cuts of meat, and the very good salad bar."
+      }
+    ],
+    "slug": "relaxation-therapist",
+    "state": "TX",
+    "street": "701 Commerce Street",
+    "zip": "75202"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "JESSICA SPA AND MASSAGE",
+    "phone": "(302) 750-4584",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "jessica-spa-and-massage",
+    "state": "TX",
+    "street": "1901 South Harwood Street",
+    "zip": "75215"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Peaceful calm massage spa",
+    "phone": "(385) 307-5756",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "peaceful-calm-massage-spa",
+    "state": "TX",
+    "street": "315 South Cesar Chavez Boulevard Suite 200",
+    "zip": "75201"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Massage by Sophie",
+    "phone": "(281) 975-3633",
+    "rating": 4,
+    "reviewCount": 1,
+    "reviews": null,
+    "slug": "massage-by-sophie",
+    "state": "TX",
+    "street": "1800 North Field Street",
+    "zip": "75202"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Lake Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Essential Healing Health and Wellness Center",
+    "phone": "(940) 498-2132",
+    "rating": 5,
+    "reviewCount": 8,
+    "reviews": [
+      {
+        "author": "Trista Sanders",
+        "rating": 5,
+        "text": "What a great experience! I saw Jenna today and really enjoyed my massage. I’m on my feet all day and I’ve never had someone spend so much time on my legs and feet. I didn’t want to leave. She sure knows her stuff. She is"
+      },
+      {
+        "author": "Holli Kitchen",
+        "rating": 5,
+        "text": "Love this place! One stop shop for wellness. I have been to the massage therapist Jenna and Esthetician Bria. Both services were more than expected. They both gave me things to do at home. I will for sure be there for th"
+      },
+      {
+        "author": "Kye Markgraf",
+        "rating": 5,
+        "text": "I had a facial with Bria and it was amazing. She gives excellent skincare advice that is easy to follow. I went to a makeup event yesterday and all the staff were so friendly and helpful. The place is beautiful and I can"
+      }
+    ],
+    "slug": "essential-healing-health-and-wellness-center",
+    "state": "TX",
+    "street": "211 Main Street Suite 150",
+    "zip": "75065"
+  },
+  {
+    "categoryLabel": "massage",
+    "city": "Lake Dallas",
+    "hours": null,
+    "industry": "massage",
+    "name": "Good Foot",
+    "phone": "(469) 277-7288",
+    "rating": 4.3,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Sion",
+        "rating": 5,
+        "text": "Best local massage by far! The team has great service attitude, warm and welcoming. Their skills are top-notch, helping me release stress completely. Prices are cheap and fair. I have bookmarked this store and will visit"
+      },
+      {
+        "author": "wayne ayers",
+        "rating": 5,
+        "text": "Had a great massage by Anna, who obviously was well trained and quite skilled. Really a cut above the standard AMP."
+      }
+    ],
+    "slug": "good-foot",
+    "state": "TX",
+    "street": "303 Swisher Road 220",
+    "zip": "75065"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Manchaca",
+    "hours": null,
+    "industry": "auto",
+    "name": "Austin Automotive Center",
+    "phone": "(512) 762-7044",
+    "rating": 4.3,
+    "reviewCount": 12,
+    "reviews": [
+      {
+        "author": "Austin Shipp",
+        "rating": 5,
+        "text": "Joe and his team are awesome! Honest, transparent on pricing and they actually do good work instead of half fixing things to make you come back. Not sure why other reviewers are complaining about pricing, they tell you t"
+      },
+      {
+        "author": "Victor Harris",
+        "rating": 5,
+        "text": "Joe and his team were great and the cost was very reasonable. I’d recommend them to anyone who has an issue with their car."
+      },
+      {
+        "author": "Support Bigstar",
+        "rating": 5,
+        "text": "great honest people\nyou should not hesitate to take your car to get it fixed"
+      }
+    ],
+    "slug": "austin-automotive-center",
+    "state": "TX",
+    "street": "12306 Wirth Drive",
+    "zip": "78652"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Todd's Automotive",
+    "phone": "(512) 514-0755",
+    "rating": 4.7,
+    "reviewCount": 82,
+    "reviews": [
+      {
+        "author": "Laura Tran-Perry",
+        "rating": 5,
+        "text": "This is the most honest, fair and trustworthy place you will find. As a female who knows nothing about cars and what really needs fixing, Todd’s is a God send. This shop was recommended to me by another mom friend who ha"
+      },
+      {
+        "author": "Ashley Wolf",
+        "rating": 5,
+        "text": "Todd and his team are great! I visited them because my USB part was broken. Todd gave me several options which enabled me to make the best/most cost-effective option for my family (which ... surprisingly meant I didn't w"
+      },
+      {
+        "author": "Jennifer Rousseau",
+        "rating": 5,
+        "text": "Todd and his team are amazing! I was recommended to them by my daughters friends family and I could not say enough good things about my experience with Todd. His price and quality of work is top shelf. They are fair and "
+      }
+    ],
+    "slug": "todd-s-automotive",
+    "state": "TX",
+    "street": "16330 Ranch to Market Road 1826",
+    "zip": "78737"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Value Mart Tires",
+    "phone": "(512) 709-7777",
+    "rating": 4.2,
+    "reviewCount": 120,
+    "reviews": [
+      {
+        "author": "Gary Wende",
+        "rating": 5,
+        "text": "Jesus hooked me up with 4 premium tires at a very affordable price. Best to avoid cash at this place cards are the preferred choice. I came in around 10:00 am and he ordered my tires, texted me @3:45pm that they had arri"
+      },
+      {
+        "author": "Kyla Bain",
+        "rating": 5,
+        "text": "Friendly fast service. We saved $200 buying our tires here. Enrique is the nicest person to talk with and has good work, customer service and quality ethics. You are welcome to go shop around but you will come back to th"
+      },
+      {
+        "author": "Taylor Montgomery",
+        "rating": 5,
+        "text": "Very quick service, plugged a flat tire with a nail for $25 and I was back on the road when Discount Tire wouldn't touch it. Thanks guys!"
+      }
+    ],
+    "slug": "value-mart-tires",
+    "state": "TX",
+    "street": "6218 Oakclaire Drive",
+    "zip": "78735"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Southwest autobody",
+    "phone": "(512) 645-9502",
+    "rating": 4.7,
+    "reviewCount": 43,
+    "reviews": [
+      {
+        "author": "kenzie angus",
+        "rating": 5,
+        "text": "I had a similar experience to that of the review from Boris. I was involved in an accident and from the jump Anthony at Southwest was very kind, communicative and accommodating. They did a great job keeping me posted dur"
+      },
+      {
+        "author": "Boris Fishman",
+        "rating": 5,
+        "text": "This will be a slightly different kind of review because in the end, I didn't take my car into Southwest Autobody. But I hope that will make my comments only more valuable. After being involved in a car accident, I calle"
+      },
+      {
+        "author": "Cassie Gallegos",
+        "rating": 5,
+        "text": "Southwest Autobody did a great job restoring my 2008 Honda Element back to being a beauty, which I wasn’t sure was possible after insurance considered it a total loss. They were very transparent with me regarding pricing"
+      }
+    ],
+    "slug": "southwest-autobody",
+    "state": "TX",
+    "street": "5608 U.S. 290",
+    "zip": "78735"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Coleman Express Lube",
+    "phone": "(512) 892-7426",
+    "rating": 4.5,
+    "reviewCount": 203,
+    "reviews": [
+      {
+        "author": "Prarthana R",
+        "rating": 5,
+        "text": "Excellent experience here at Coleman Express Lube. We just moved from FL and we had to do TX state inspection. We went here to get the inspection reports for both of our cars. Staff was very courteous and polite. They in"
+      },
+      {
+        "author": "Christopher Corley",
+        "rating": 5,
+        "text": "I have been going to this colemans 5 years for any routine maintenence and inspection. In service industries they talk about the 3 point diagram.\nCheap, quick, good. Almost always you can only choose 2. With this shop I "
+      },
+      {
+        "author": "gaurav kakade",
+        "rating": 5,
+        "text": "Friendly and quick service. My EV inspection was completed within 20minutes. No appointments required although wait time depends on number of vehicles in queue."
+      }
+    ],
+    "slug": "coleman-express-lube",
+    "state": "TX",
+    "street": "6410 U.S. 290",
+    "zip": "78735"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Leyva Automobile",
+    "phone": "(512) 892-8887",
+    "rating": 4.1,
+    "reviewCount": 20,
+    "reviews": [
+      {
+        "author": "Laurin Pimentel",
+        "rating": 5,
+        "text": "Got the work done in the time he said he would!! 2hrs: I was amazed and grateful. I've been bringing all my vehicles here for any job, big and small because he is fair and honest, does quality work and is fast. Can't rec"
+      },
+      {
+        "author": "Frank Flores",
+        "rating": 5,
+        "text": "Javier is great mechanic. He can tackle most any job, big or small. Limited on the alignment side as he doesn't have the equipment. He's been fixing my cars for years. He's done engine work, suspension, gas tank, electri"
+      },
+      {
+        "author": "Alejandro Galvan",
+        "rating": 5,
+        "text": "Affordable, reliable, and very friendly. I've been taking my vehicles here for almost 4 years. I trust their advice, and if any issues arise,  they are quick to tackle them. 2 thumbs up 👍 👍"
+      }
+    ],
+    "slug": "leyva-automobile",
+    "state": "TX",
+    "street": "5180 West US Highway 290 Service Road",
+    "zip": "78735"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "the austin mobile mechanic",
+    "phone": "(512) 701-0873",
+    "rating": 5,
+    "reviewCount": 4,
+    "reviews": [
+      {
+        "author": "Ashley Forby",
+        "rating": 5,
+        "text": "FANTASTIC!  Recommendation to anyone!"
+      }
+    ],
+    "slug": "the-austin-mobile-mechanic",
+    "state": "TX",
+    "street": "611 West Powell Lane 16",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Automotive Specialists",
+    "phone": "(512) 288-1111",
+    "rating": 4.6,
+    "reviewCount": 68,
+    "reviews": [
+      {
+        "author": "Joe Kramlinger",
+        "rating": 5,
+        "text": "Leslie’s one of the best people in our part of town to know.  Not only does he do great work on my trucks, he’s started helping 5+ of my friends too.  He’s good people, love him."
+      },
+      {
+        "author": "Erlinda VanDelinder",
+        "rating": 5,
+        "text": "Solid working crew.  Owner is friendly, professional and fair on pricing.   My kids went to school around the corner and my battery died.  I called this auto shop asking for help and Leslie (owner came over and helped). "
+      }
+    ],
+    "slug": "automotive-specialists",
+    "state": "TX",
+    "street": "8645 U.S. 290",
+    "zip": "78736"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Best Automotive",
+    "phone": "(512) 447-0447",
+    "rating": 4.8,
+    "reviewCount": 70,
+    "reviews": [
+      {
+        "author": "S Arrington",
+        "rating": 5,
+        "text": "Carlos and his amazing crew resurrected my only car!!  I am beyond grateful I was able to connect with Best Automotive.  Thank you so much for your quality work, patience and attention to detail.  You are a man of your w"
+      },
+      {
+        "author": "Reagan House",
+        "rating": 5,
+        "text": "Best Automotive has done excellent work for me. They replaced my transmission and, months later, handled the transmission thermostat as well. Both times the service was affordable, reliable, and done right the first time"
+      },
+      {
+        "author": "Ash kar",
+        "rating": 5,
+        "text": "Always get great service and fair prices I am happy I found a right mechanic in my area."
+      }
+    ],
+    "slug": "best-automotive",
+    "state": "TX",
+    "street": "7928-A State Highway 71",
+    "zip": "78735"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Alan's Vehicle Inspections",
+    "phone": "(512) 266-2944",
+    "rating": 4.4,
+    "reviewCount": 211,
+    "reviews": [
+      {
+        "author": "Anna Lea Hughes",
+        "rating": 5,
+        "text": "Had a great experience here. I followed the signs for parking, someone came right out and help me get everything ready for the testing. In and out in under 10 minutes, staff was helpful and quick. Would recommend."
+      },
+      {
+        "author": "Carlor K",
+        "rating": 5,
+        "text": "Always fast and friendly service. They have a waiting room with AC. Room is a vibe - can always count on Alan’s. Been getting our inspections done here since 2012."
+      },
+      {
+        "author": "Katrina Carleton",
+        "rating": 5,
+        "text": "This place knows what it's here to do and gets it done and asap. Came in to a long line and was hesitant to wait, but they went thru it so QUICK. Fast and kind service. Also, get the breakfast tacos at the stand here. So"
+      }
+    ],
+    "slug": "alan-s-vehicle-inspections",
+    "state": "TX",
+    "street": "3717 Ranch Road 620 North",
+    "zip": "78734"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Guarantee Automotive",
+    "phone": "(512) 266-8777",
+    "rating": 4,
+    "reviewCount": 33,
+    "reviews": [
+      {
+        "author": "aj loudermilk",
+        "rating": 5,
+        "text": "Debbie and Gerald are great people and very nice.  They do great work and are who I take my classics to for alignments and things outside of my wheelhouse."
+      },
+      {
+        "author": "David Hilderbrand",
+        "rating": 5,
+        "text": "It is becoming exceedingly rare to find a business with the breadth of knowledge that you find at Guarantee Automotive. I have a 71 Vette, a 2016 Audi, and a 201 Chrysler and all have been take care of here. With my 71 V"
+      },
+      {
+        "author": "Jimmy Sanders",
+        "rating": 5,
+        "text": "So I didn't exactly get my car fixed here because they only repair classic vehicles however my Chevy Malibu stalled right outside of their repair shop and their mechanics, without hesitation, pushed my car into their lot"
+      }
+    ],
+    "slug": "guarantee-automotive",
+    "state": "TX",
+    "street": "1203 Ranch Road 620 North",
+    "zip": "78734"
+  },
+  {
+    "categoryLabel": "auto",
+    "city": "Austin",
+    "hours": null,
+    "industry": "auto",
+    "name": "Crestview Auto Repair",
+    "phone": "(512) 467-0765",
+    "rating": 4.6,
+    "reviewCount": 43,
+    "reviews": [
+      {
+        "author": "Megz",
+        "rating": 5,
+        "text": "After talking to multiple mechanics around town, no one could figure out why my car wouldn't start. I was fed up after three months of my car not starting so I decided to tow my classic wagon to Crestview Auto Repair, wh"
+      },
+      {
+        "author": "Evan Rowley",
+        "rating": 5,
+        "text": "Jerry and Giselle run a great, local, small business. They're incredibly transparent and trustworthy and not trying to pull the wool over your eyes. I've taken my car here twice in the last 6 months. Both times they were"
+      },
+      {
+        "author": "Philip Cerney",
+        "rating": 5,
+        "text": "Jerry and his wife are the best! They were very accommodating in being able to see my Volvo on short notice. Jerry is a Volvo expert and was able to inspect and identify the issue. He was very honest when explaining the "
+      }
+    ],
+    "slug": "crestview-auto-repair",
+    "state": "TX",
+    "street": "7200 Woodrow Avenue",
+    "zip": "78757"
   }
 ]
