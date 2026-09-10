@@ -27984,5 +27984,36 @@
     "state": "TX",
     "street": "4744 Larue Street",
     "zip": "75211"
+  },
+  {
+    "categoryLabel": "dry-cleaning",
+    "city": "Austin",
+    "hours": null,
+    "industry": "dry-cleaning",
+    "name": "Rush Laundromat",
+    "phone": "(512) 968-6676",
+    "rating": 4.3,
+    "reviewCount": 125,
+    "reviews": [
+      {
+        "author": "Clark Price",
+        "rating": 5,
+        "text": "Rush Laundromat has become my go-to spot in Austin because it checks all the boxes that actually matter on laundry day: it’s consistently clean, the machines are well-maintained, and I never have to wait long for a washe"
+      },
+      {
+        "author": "Roderick Villareal",
+        "rating": 5,
+        "text": "This is by far the best laundromat I’ve been to in town. Super clean,  staff was very helpful and friendly  and  most important the machines were readily available and worked great! I’ve been here several times and I’m a"
+      },
+      {
+        "author": "Michael Slater",
+        "rating": 5,
+        "text": "This laundromat is always clean and easy to use, and I never have trouble finding an open machine. It makes doing laundry a lot less of a hassle. I’d definitely recommend it to anyone looking for a reliable spot."
+      }
+    ],
+    "slug": "rush-laundromat",
+    "state": "TX",
+    "street": "12601 Tech Ridge Boulevard",
+    "zip": "78753"
   }
 ]
