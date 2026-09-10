@@ -27953,5 +27953,36 @@
     "state": "TX",
     "street": "5510 South Interstate 35 Frontage Road Suite 130",
     "zip": "78745"
+  },
+  {
+    "categoryLabel": "cleaning",
+    "city": "Dallas",
+    "hours": null,
+    "industry": "cleaning",
+    "name": "Maria House Cleaning",
+    "phone": "(469) 806-9949",
+    "rating": 5,
+    "reviewCount": 7,
+    "reviews": [
+      {
+        "author": "Elaine shawty",
+        "rating": 5,
+        "text": "Best service good work highly recommended family friendly"
+      },
+      {
+        "author": "Mercedes Rivas",
+        "rating": 5,
+        "text": "It offers a 100% guaranteed quality of service"
+      },
+      {
+        "author": "Noelia De Rivas",
+        "rating": 5,
+        "text": "I am 100% satisfied with the cleaning service. From the very first moment, they were very professional, punctual, and friendly. My house was spotless, with attention to every detail and an incredible fresh scent. Their c"
+      }
+    ],
+    "slug": "maria-house-cleaning",
+    "state": "TX",
+    "street": "4744 Larue Street",
+    "zip": "75211"
   }
 ]
