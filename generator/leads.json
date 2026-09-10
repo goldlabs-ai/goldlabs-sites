@@ -28015,5 +28015,36 @@
     "state": "TX",
     "street": "12601 Tech Ridge Boulevard",
     "zip": "78753"
+  },
+  {
+    "categoryLabel": "dry-cleaning",
+    "city": "Austin",
+    "hours": null,
+    "industry": "dry-cleaning",
+    "name": "Wash Tub #9",
+    "phone": "(512) 804-0015",
+    "rating": 3.4,
+    "reviewCount": 34,
+    "reviews": [
+      {
+        "author": "Clarissa Zuniga",
+        "rating": 5,
+        "text": "Great service! Cheapest laundromat I’ve been too! The employees are so friendly and always assist me with getting my clothes off my vehicle! They go above and beyond with their customers not just myself I’ve witnessed it"
+      },
+      {
+        "author": "Beth Anctil",
+        "rating": 4,
+        "text": "I would have given 5 stars based on quality of wash and dry and the low price for the big machines that were offered. The floor was pretty wet and dirty though. Machines could use a good wiping down too. I ended up havin"
+      },
+      {
+        "author": "Gracie De Luna",
+        "rating": 4,
+        "text": "Employees are super friendly...the machines look like they've been tortured but work great. Some dryers have an app payment option but most are coins only. All washers are coins only."
+      }
+    ],
+    "slug": "wash-tub-9",
+    "state": "TX",
+    "street": "5200 East William Cannon Drive",
+    "zip": "78744"
   }
 ]
