@@ -24588,5 +24588,2012 @@
     "state": "TX",
     "street": "1420 Wells Branch Parkway 270",
     "zip": "78660"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Blush Beauty Bar",
+    "phone": "(512) 770-0213",
+    "rating": null,
+    "reviewCount": null,
+    "reviews": null,
+    "slug": "blush-beauty-bar",
+    "state": "TX",
+    "street": "1801 Wells Branch Parkway",
+    "zip": "78728"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Bratton Nails",
+    "phone": "(512) 670-2779",
+    "rating": 4.2,
+    "reviewCount": 54,
+    "reviews": [
+      {
+        "author": "Christina Barretta",
+        "rating": 5,
+        "text": "Very kind people! Got a regular mani pedi done and they were very thorough and took their time. Nails look wonderful!! :)"
+      },
+      {
+        "author": "Jenny",
+        "rating": 5,
+        "text": "Yes! I have been coming for ages and love supporting this family business! These lovely sisters have been in this neighborhood for years and years. They take their time and do a good job, are always open (rarely taking t"
+      }
+    ],
+    "slug": "bratton-nails",
+    "state": "TX",
+    "street": "14735 Bratton Lane 110",
+    "zip": "78728"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Round Rock",
+    "hours": null,
+    "industry": "nails",
+    "name": "Dragon Nails",
+    "phone": "(512) 218-8818",
+    "rating": 5,
+    "reviewCount": 79,
+    "reviews": [
+      {
+        "author": "Kimberly Mojica",
+        "rating": 5,
+        "text": "I had such a wonderful pedicure experience at Dragon Nails! This sweet little mom-and-pop salon has such a welcoming and relaxing atmosphere, and you can truly feel the care and attention that goes into every service.\nMy"
+      },
+      {
+        "author": "Alexis Leyva",
+        "rating": 5,
+        "text": "Been going to Tina for a year now. Love her work. Prices are reasonable and it never takes too long."
+      },
+      {
+        "author": "Phuong “Sabrina” Chau",
+        "rating": 5,
+        "text": "Don’t let the small size fool you—this nail salon truly delivers! With only two employees, the space feels cozy and personal, but what really sets them apart is how much care they put into customizing your nails to your "
+      }
+    ],
+    "slug": "dragon-nails",
+    "state": "TX",
+    "street": "412 Chisholm Valley Drive",
+    "zip": "78681"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Tip & Toe Spa",
+    "phone": "(512) 989-0565",
+    "rating": 3.6,
+    "reviewCount": 181,
+    "reviews": [
+      {
+        "author": "jennjenn michelle",
+        "rating": 5,
+        "text": "Ms Kelly have been doing my nails for a few years now and she never disappoints! Her and her staff are always so kind and welcoming and provide the best services! Please consider visiting Tip&Toe for all your nail needs!"
+      },
+      {
+        "author": "Payton Brewster",
+        "rating": 5,
+        "text": "I’ve had nothing but amazing experiences with this company. Their nail designs are always beautiful, creative, and high quality. Every order is done on time, professionally, and with so much attention to detail. You can "
+      },
+      {
+        "author": "Adrina P",
+        "rating": 5,
+        "text": "I've been seeing Kelly for years and she is awesome! I completely trust her with my eyebrows and nails, and she never disappoints. The pedicures from the rest of the team are also wonderful. If you haven't found this spo"
+      }
+    ],
+    "slug": "tip-and-toe-spa",
+    "state": "TX",
+    "street": "12901 North Interstate Highway 35",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "City Hair & Nails Salon",
+    "phone": "(512) 388-2965",
+    "rating": 4.5,
+    "reviewCount": 55,
+    "reviews": [
+      {
+        "author": "Sonya Lowrance",
+        "rating": 5,
+        "text": "Relaxed and comfortable space and wonderful nail techs! Nina and Ricky are so fun and very gentle. They also did a great job helping me find the right colors. I will be coming back here nectar their services are so much "
+      },
+      {
+        "author": "Alejandro Lunar",
+        "rating": 5,
+        "text": "Hands-down one of the best nail salons in Austin! I have been trying to find a good go-to salon for years and recently came across this nail salon. My experience has been amazing thanks to Nina and Ricky, they are wonder"
+      },
+      {
+        "author": "Priscilla Mendoza",
+        "rating": 5,
+        "text": "I’ve been coming here for over 16 years now and nena is the best in nails and Jennifer is the most talented in men’s bald fades. You won’t be disappointed she has been cutting my boyfriend’s hair even after being separat"
+      }
+    ],
+    "slug": "city-hair-and-nails-salon",
+    "state": "TX",
+    "street": "3407 Wells Branch Parkway Suite 650",
+    "zip": "78728"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "T Nails & Spa",
+    "phone": "(512) 491-7337",
+    "rating": 4.3,
+    "reviewCount": 271,
+    "reviews": [
+      {
+        "author": "Millie Paravina",
+        "rating": 5,
+        "text": "Absolutely magical! I love this salon with my whole heart and it's the only one I go to! I pick at my nails and have OCD but these guys and girls always take such good care of me! Wine, fair prices, and they play great m"
+      },
+      {
+        "author": "Jennifer Ramos",
+        "rating": 5,
+        "text": "I’ve been getting my nails done with Jennifer for over a year. She is amazingly talented and genuinely cares about her work. I cannot recommend her enough! Though, everyone here is just as kind and welcoming."
+      },
+      {
+        "author": "Robert Miller",
+        "rating": 5,
+        "text": "A nail salon and spa experience that truly pampers!\nT Nails & Spa in the Domain area is a wonderful spot for anyone looking for high-quality nail care in a relaxing, comfortable environment. The technicians are skilled, "
+      }
+    ],
+    "slug": "t-nails-and-spa",
+    "state": "TX",
+    "street": "12001 North Mopac Expressway H",
+    "zip": "78758"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Sky Nails and Spa",
+    "phone": "(512) 833-9080",
+    "rating": 4,
+    "reviewCount": 140,
+    "reviews": [
+      {
+        "author": "angie gomez",
+        "rating": 5,
+        "text": "I have been waiting a couple weeks to write this review. I got my nails and pedicure done for a wedding last month. Suni and Tin did my new full set, and they were so beautiful. A true test on quality in my opinion is ho"
+      },
+      {
+        "author": "fiona ramli",
+        "rating": 5,
+        "text": "I am OBSESSED with this salon.  Tin is so sweet and is incredible. This place is very welcoming and my nails turned out amazing. The price is very reasonable especially for the quality and service. I will definitely be c"
+      },
+      {
+        "author": "Holly D Monnich",
+        "rating": 5,
+        "text": "I’ve been a customer at Sky Nails for over a decade. They are friendly, professional, and clean. The owners invest heavily in the most modern equipment and business practices. The staff is meticulous in how they do every"
+      }
+    ],
+    "slug": "sky-nails-and-spa",
+    "state": "TX",
+    "street": "13000 North Interstate Highway 35 Bldg.11 Ste.114",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Nails At Last",
+    "phone": "(512) 442-0034",
+    "rating": 3.7,
+    "reviewCount": 415,
+    "reviews": [
+      {
+        "author": "Bri",
+        "rating": 4,
+        "text": "I had to switch nail techs halfway through because my first nail tech couldn't complete my design. This means it was a long wait, but I do understand. I appreciate her knowing her limits and knowing when to step down and"
+      }
+    ],
+    "slug": "nails-at-last",
+    "state": "TX",
+    "street": "2410 East Riverside Drive Ste G-1",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "N'Joy Nails / Tracy Pedicure",
+    "phone": "(512) 448-3105",
+    "rating": 3.8,
+    "reviewCount": 297,
+    "reviews": [
+      {
+        "author": "Neisha Jone’t",
+        "rating": 5,
+        "text": "Phillip is my Go-To, he’s absolutely amazing!! (HIGHLY RECOMMEND) But all nail techs here are wonderful and kind. I’ve been a regular since 2019. I get Much better service here than any other “high-end” salons I’ve been "
+      },
+      {
+        "author": "Vicki Quintero Agrawal",
+        "rating": 5,
+        "text": "Jenny was AWESOME!!! She was extremely meticulous and did such a great job with my half moon manicure. On top of being a great manicurist, she was super friendly. :)\n\nI come here monthly for business and this is definite"
+      }
+    ],
+    "slug": "n-joy-nails-tracy-pedicure",
+    "state": "TX",
+    "street": "2015 East Riverside Drive Suite 2A",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "VS Nails & Spa",
+    "phone": "(512) 873-9242",
+    "rating": 4.4,
+    "reviewCount": 355,
+    "reviews": [
+      {
+        "author": "Monica Henry",
+        "rating": 5,
+        "text": "Today I returned to VS Nail & Spa. I was a loyal customer for years but I moved outside of the North Austin area so unfortunately I hadn't been in a while.\nI walked in & Mindy, looking as beautiful as always, greeted me "
+      },
+      {
+        "author": "Nikki Jackson",
+        "rating": 5,
+        "text": "Mindi “nailed” it! 🤣 She used buildable gel with natural color and painted the most elegant flowers on each ring finger.\n\nSnow is the absolute best at pedicures! Amazing leg rubs, very friendly service and never over wo"
+      },
+      {
+        "author": "Brittany Reed",
+        "rating": 5,
+        "text": "VS Nails & Spa is hands down the best! The customer service is amazing, and every appointment feels more like catching up with my friends Mindy and Jimmy than just getting my nails done. I absolutely refuse to let anyone"
+      }
+    ],
+    "slug": "vs-nails-and-spa",
+    "state": "TX",
+    "street": "2501 West Parmer Lane Suite 300A",
+    "zip": "78727"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "La La Nails Spa",
+    "phone": "(512) 385-4200",
+    "rating": 3.2,
+    "reviewCount": 145,
+    "reviews": [
+      {
+        "author": "Cass The Frass",
+        "rating": 5,
+        "text": "Very good price and they look amazimg"
+      }
+    ],
+    "slug": "la-la-nails-spa",
+    "state": "TX",
+    "street": "12800 Pearce Lane D",
+    "zip": "78617"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Pretty Nails",
+    "phone": "(512) 927-2790",
+    "rating": 3.2,
+    "reviewCount": 113,
+    "reviews": [
+      {
+        "author": "Rosemary McKnight",
+        "rating": 5,
+        "text": "Love Pretty Nails! They always do a great job and  I feel relaxed and pampered. I had the pedicure with a design."
+      }
+    ],
+    "slug": "pretty-nails",
+    "state": "TX",
+    "street": "9411 Dessau Road 101 B",
+    "zip": "78754"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Manor",
+    "hours": null,
+    "industry": "nails",
+    "name": "Envy Nails And Spa",
+    "phone": "(512) 596-2715",
+    "rating": 3.9,
+    "reviewCount": 242,
+    "reviews": [
+      {
+        "author": "Grace Jimenez",
+        "rating": 5,
+        "text": "Wendy and another sweet woman, couldn’t quite catch her name, Jenny/Hemmy? Were amazing. I called around 9 o’clock to make sure that I could bring my dog and that we could do some French tips as a pedicure and manicure. "
+      },
+      {
+        "author": "S H",
+        "rating": 5,
+        "text": "I went to envy nails & spa to get a manicure, pedicure, eyebrow & lip wax and was blown away. I haven’t gotten tip nails in a few years so I was hesitant to give it a try, but Wendy did an amazing job! I am in love with "
+      },
+      {
+        "author": "Brooke Dennis",
+        "rating": 5,
+        "text": "We have been going here for pedicures for five years.  They are professional and very customer service.  So polite and kind. Took my husband and convinced him to get a Pedi.  Now everytime I come for a Pedi  he wants one"
+      }
+    ],
+    "slug": "envy-nails-and-spa",
+    "state": "TX",
+    "street": "11300 U.S. 290 110",
+    "zip": "78653"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "R' Looks Hair and Nail Salon Lily",
+    "phone": "(512) 520-5555",
+    "rating": 5,
+    "reviewCount": 3,
+    "reviews": [
+      {
+        "author": "Maggie Salazar",
+        "rating": 5,
+        "text": "I been doing my hair for the past 10years with Lily and I love it every time!!! Dora is amazing at doing nails & pedicures. U won’t regret it!!!"
+      },
+      {
+        "author": "Kalynn McKenzie",
+        "rating": 5,
+        "text": "Great customer service and I LOVE my nails"
+      }
+    ],
+    "slug": "r-looks-hair-and-nail-salon-lily",
+    "state": "TX",
+    "street": "7517 Cameron Road 105",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Excel Nails",
+    "phone": "(512) 452-1848",
+    "rating": 3.9,
+    "reviewCount": 83,
+    "reviews": [
+      {
+        "author": "Kashia J",
+        "rating": 5,
+        "text": "These are my ladies. Rose always hooks me up with Excellent nails. And they didn't change their rates like most places have. Thank you ladies for staying true blue."
+      }
+    ],
+    "slug": "excel-nails",
+    "state": "TX",
+    "street": "6900 Cameron Road",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Cal’s nail and hair",
+    "phone": "(512) 669-1290",
+    "rating": 3.8,
+    "reviewCount": 169,
+    "reviews": null,
+    "slug": "cal-s-nail-and-hair",
+    "state": "TX",
+    "street": "7112 Ed Bluestein Boulevard 135",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Ck Nails",
+    "phone": "(512) 452-7922",
+    "rating": 3.6,
+    "reviewCount": 39,
+    "reviews": [
+      {
+        "author": "Tami Williams",
+        "rating": 5,
+        "text": "Today was my 1st time visiting and I got my eyelashes done. When I walked in I was greeted very nice hospitality. My wait wasn't long at all which I love . My eyelashes didn't take long at all . I like the job she did, I"
+      },
+      {
+        "author": "Janel Vaughn",
+        "rating": 5,
+        "text": "I went for lashes around 11am today,  Tuesday feb 25 and I swear I was in and out in 10 min. Yay! There was several people in there but I only waited 2 min. The lady was putting on the lashes sooooo fast! You could tell "
+      }
+    ],
+    "slug": "ck-nails",
+    "state": "TX",
+    "street": "1215 Corona Drive",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Salón de belleza Tierra Caliente",
+    "phone": "(512) 835-8080",
+    "rating": 3.9,
+    "reviewCount": 23,
+    "reviews": [
+      {
+        "author": "kams 5",
+        "rating": 5,
+        "text": "💘 Brenda"
+      },
+      {
+        "author": "Zulema Gonzalez",
+        "rating": 5,
+        "text": "My hair had a really bad job done, and Brenda worked magic on it, restoring its beautiful color and vitality.\n\nThank you, Brenda, and the service was excellent."
+      }
+    ],
+    "slug": "sal-n-de-belleza-tierra-caliente",
+    "state": "TX",
+    "street": "1122 Airport Boulevard Suite c",
+    "zip": "78702"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Kings Beauty Supply Mart",
+    "phone": "(512) 474-9078",
+    "rating": 4.1,
+    "reviewCount": 368,
+    "reviews": [
+      {
+        "author": "Tony Garrett II",
+        "rating": 5,
+        "text": "Great Customer service and Good Prices...\nThe area is very convenient as well."
+      },
+      {
+        "author": "Patricia Cantu",
+        "rating": 5,
+        "text": "Great prices good variety of items I go every chance I get"
+      }
+    ],
+    "slug": "kings-beauty-supply-mart",
+    "state": "TX",
+    "street": "3230 East Martin Luther King Junior Boulevard B",
+    "zip": "78721"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Claudia's Nails",
+    "phone": "(512) 524-2580",
+    "rating": 4.4,
+    "reviewCount": 92,
+    "reviews": [
+      {
+        "author": "Lizi Walker",
+        "rating": 5,
+        "text": "I had such a great experience here! Claudia did my pedicure and was so professional and effortlessly thorough. You could tell that she was so experienced and detailed. I would highly recommend this place!"
+      },
+      {
+        "author": "Mattie Cecil",
+        "rating": 5,
+        "text": "Love love love my set, so grateful to have found this place. My nail tech was kind enough to accommodate me for a last minute appointment and did an amazing job and is a joy to talk to. Highly recommend"
+      },
+      {
+        "author": "Kristy Sanchez",
+        "rating": 5,
+        "text": "Made an apointment for a refill and gel polish during my lunch hour.  Was greeted as soon as i walked in, Claudia was very attentive.  All the ladies were very nice. The quality was great and im very happy with the final"
+      }
+    ],
+    "slug": "claudia-s-nails",
+    "state": "TX",
+    "street": "3710 Airport Boulevard",
+    "zip": "78722"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Hot Nails",
+    "phone": "(512) 469-7468",
+    "rating": 4.2,
+    "reviewCount": 124,
+    "reviews": [
+      {
+        "author": "Miriam Weber",
+        "rating": 5,
+        "text": "I tried this place out the other day and had a great experience. The staff was very friendly and accommodating. I just love my gel manicure. I keep looking at my hands thinking this may be the best manicure I’ve had (eve"
+      },
+      {
+        "author": "Haley Beeson",
+        "rating": 5,
+        "text": "Went here for the first time yesterday and loved it! It is family owned and the owner is extremely nice, and did a great job on my SNS and pedi. The prices were great too. Will definitely return :)"
+      },
+      {
+        "author": "Albert Lopez Jr",
+        "rating": 5,
+        "text": "Today I had the pleasure of having Thao and Tony as my nail stylist. She was very accommodating and constantly made sure I was getting exactly what I wanted. Overall, she did an amazing job. I would highly recommend her "
+      }
+    ],
+    "slug": "hot-nails",
+    "state": "TX",
+    "street": "2001 Airport Boulevard",
+    "zip": "78722"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Sweets Nail Cafe @ Phenix Salon Suites",
+    "phone": "(512) 677-7914",
+    "rating": 3.6,
+    "reviewCount": 10,
+    "reviews": [
+      {
+        "author": "Elena Yang",
+        "rating": 5,
+        "text": "Love Samantha!\nI will come here forever👏 Simple but elegant nails I got this time❤️"
+      },
+      {
+        "author": "Darady A Bitter",
+        "rating": 5,
+        "text": "I discovered Samantha via Groupon and have visited her 5xs since. Samantha is so friendly, professional and super clean. She’s extremely detail oriented with my nails and does an incredible job. I have referred some frie"
+      },
+      {
+        "author": "Jesse Vaughan",
+        "rating": 5,
+        "text": "Great prices! Wonderful job! Clean! Fantastic company! Would recommend!"
+      }
+    ],
+    "slug": "sweets-nail-cafe-phenix-salon-suites",
+    "state": "TX",
+    "street": "14005 Research Boulevard Suite 1200",
+    "zip": "78717"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Anderson Nails and Spa",
+    "phone": "(512) 250-9560",
+    "rating": 4.4,
+    "reviewCount": 171,
+    "reviews": [
+      {
+        "author": "Bunni Ioki",
+        "rating": 5,
+        "text": "I don't get my nails done often.   My friend took me to get a mani/pedi today, and I was so comfortable i actually fell asleep.  I usually can't relax and am on edge the whole time.   The worker was quiet and kind.  The "
+      },
+      {
+        "author": "Jamie Johnson",
+        "rating": 5,
+        "text": "My daughter and I went here last night on short notice. They were so sweet and accommodating. They did a wonderful job and were so very nice. I don’t treat myself very often but when I do, I will definitely go here in th"
+      },
+      {
+        "author": "Katie Evans",
+        "rating": 5,
+        "text": "This is the only place I go for my nails, and I have been going here for about 4 years I think.  I just love the owners, Jimmy and Cindy!!  I am picky and they are so accommodating. Always clean and so friendly!\n\nUpdated"
+      }
+    ],
+    "slug": "anderson-nails-and-spa",
+    "state": "TX",
+    "street": "8516 Anderson Mill Road",
+    "zip": "78729"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "YS Nails & Spa",
+    "phone": "(512) 291-6989",
+    "rating": 4.3,
+    "reviewCount": 136,
+    "reviews": [
+      {
+        "author": "Tiffany Black",
+        "rating": 5,
+        "text": "I’ve been having my nails done by Tha for several years and recently pedicures by his wife.  He is a professional artist and always provides an impressive final product.  The salon is in a convenient location and the ser"
+      },
+      {
+        "author": "Jess Peña",
+        "rating": 5,
+        "text": "Tha has been my nail guy for almost 5 years and I absolutely adore him and his new salon!! He is always so accommodating and he can literally do any design you bring in to him. I don’t like acrylics so Tha also helps me "
+      },
+      {
+        "author": "Terah Rippy",
+        "rating": 5,
+        "text": "This nail salon is incredible. Lily and Tha are amazing and always so accommodating when I come in. When I show them a picture of what I want they execute my dream nails flawlessly EVERY TIME! Not a lot of places here in"
+      }
+    ],
+    "slug": "ys-nails-and-spa",
+    "state": "TX",
+    "street": "13776 U.S. 183 144",
+    "zip": "78750"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Lakeline Nails - Austin",
+    "phone": "(512) 258-2323",
+    "rating": 4,
+    "reviewCount": 119,
+    "reviews": [
+      {
+        "author": "Sarah Michelle",
+        "rating": 5,
+        "text": "I had an excellent experience, enjoyed every moment of my pedicure and Tina did a lovely job on my nails!"
+      },
+      {
+        "author": "Anna Pham",
+        "rating": 5,
+        "text": "I’m a frequent customer and I got SNS with nail extensions, glitter french tips. I loved the way they came out! I also love to get pedicures because they come out great and are relaxing. Staff was nice and helpful."
+      },
+      {
+        "author": "Charzi Reviews",
+        "rating": 4,
+        "text": "My first visit to Lakeline Nails . Went on a weekday so was not much crowded. There are seats available to start my pedicure without a wait time. They welcomed with a welcoming drink. The staffs were friendly and the amb"
+      }
+    ],
+    "slug": "lakeline-nails-austin",
+    "state": "TX",
+    "street": "10900 Lakeline Mall Drive 350",
+    "zip": "78717"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Jenny’s Nails and Spa",
+    "phone": "(512) 238-8813",
+    "rating": 4.2,
+    "reviewCount": 5,
+    "reviews": [
+      {
+        "author": "Jenn Griffith",
+        "rating": 5,
+        "text": "Alwaysgreat service, and fun designs for holidays!"
+      },
+      {
+        "author": "Kenny Myers",
+        "rating": 5,
+        "text": "Great place to get your nails done."
+      },
+      {
+        "author": "Simone Noble",
+        "rating": 5,
+        "text": "Fast courteous service and sanitary."
+      }
+    ],
+    "slug": "jenny-s-nails-and-spa",
+    "state": "TX",
+    "street": "15912 Ranch Road 620 North Suite 104",
+    "zip": "78717"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Fairy Nails & Spa",
+    "phone": "(512) 244-0398",
+    "rating": 4,
+    "reviewCount": 89,
+    "reviews": [
+      {
+        "author": "Stardust Barrett",
+        "rating": 5,
+        "text": "The best massage before and after polishing my nails. I got a gel French manicure and the lady who did the service was so meticulous. She truly took her time perfecting the tips and again on the massage alone… Worth ever"
+      },
+      {
+        "author": "BRAVISM0",
+        "rating": 5,
+        "text": "Best pedicure massage I've ever had! Usually salons always have trouble doing bubble bath and funny bunny because they're sheer, but the person who did my pedicure and person who did my manicure were effortless at both c"
+      },
+      {
+        "author": "pamela c",
+        "rating": 4,
+        "text": "It was a busy place, but I was able to get seated right away. The lower leg and foot massage was the longest I've ever had with a  pedi.  Things were clean, but the worn furniture and messy areas make you think otherwise"
+      }
+    ],
+    "slug": "fairy-nails-and-spa",
+    "state": "TX",
+    "street": "16238 Ranch Road 620 North",
+    "zip": "78717"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Valentina's nails ATX",
+    "phone": "(512) 715-4108",
+    "rating": 5,
+    "reviewCount": 1,
+    "reviews": [
+      {
+        "author": "Anna Schmidt",
+        "rating": 5,
+        "text": "Valentina's Nails ATX is an absolutely wonderful nail salon and my favorite place to go for a truly pampering experience. The nail technicians are incredibly skilled, detail oriented and take their time to make sure ever"
+      }
+    ],
+    "slug": "valentina-s-nails-atx",
+    "state": "TX",
+    "street": "2323 San Antonio Street",
+    "zip": "78705"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Sweet Nails & Spa",
+    "phone": "(512) 916-0940",
+    "rating": 4.1,
+    "reviewCount": 314,
+    "reviews": [
+      {
+        "author": "Ashley Joyner",
+        "rating": 5,
+        "text": "just left from a fill earlier today from Lee.  just recently started coming here since i moved to the area and haven’t been disappointed! super friendly and helpful. got me in and out quick but they pay so much attention"
+      },
+      {
+        "author": "Allyson O'Rourke",
+        "rating": 5,
+        "text": "XuXu has been doing my nails for almost 6 years. Her work is the absolute best!! She can re-create any set you see on the gram. Xuxu truly is an artist!"
+      },
+      {
+        "author": "Tricia Valadez",
+        "rating": 5,
+        "text": "Came in as a walk in and they were able to see me right away on a Saturday afternoon. It's a pretty large salon so they can take quite a few customers.\nThe staff was very sweet,  they were able to do my design,  and did "
+      }
+    ],
+    "slug": "sweet-nails-and-spa",
+    "state": "TX",
+    "street": "4211 South Lamar Boulevard a4",
+    "zip": "78704"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Nails & Lashes Jennifer Fino",
+    "phone": "(512) 789-5969",
+    "rating": 4.9,
+    "reviewCount": 53,
+    "reviews": [
+      {
+        "author": "Jennifer Caplis",
+        "rating": 5,
+        "text": "Had an excellent experience getting my nails done by Jennifer. She is attentive to every detail and very kind. I will definitely be going back to see her again!"
+      },
+      {
+        "author": "Kayla Ernest",
+        "rating": 5,
+        "text": "I’ve been going to Jennifer for about 4 months now and she does such an amazing job!!!"
+      },
+      {
+        "author": "CurShell Ross",
+        "rating": 5,
+        "text": "She’s does the best nails and she’s so sweet.Book with her she won’t disappoint."
+      }
+    ],
+    "slug": "nails-and-lashes-jennifer-fino",
+    "state": "TX",
+    "street": "1181 Airport Boulevard",
+    "zip": "78702"
+  },
+  {
+    "categoryLabel": "nails",
+    "city": "Austin",
+    "hours": null,
+    "industry": "nails",
+    "name": "Salon Innese",
+    "phone": "(512) 663-7873",
+    "rating": 5,
+    "reviewCount": 6,
+    "reviews": [
+      {
+        "author": "KARLA CASTRIOTTA",
+        "rating": 5,
+        "text": "I had a wonderful experience. I got the  best  haircut .I have not been so content in years\nI highly recommend  salon innese."
+      },
+      {
+        "author": "Alessandro Piovaccari",
+        "rating": 5,
+        "text": "Ashleigh is the best!"
+      },
+      {
+        "author": "Al Caneer",
+        "rating": 5,
+        "text": "Ray is the best!"
+      }
+    ],
+    "slug": "salon-innese",
+    "state": "TX",
+    "street": "830 West 3rd Street 1152",
+    "zip": "78701"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Hair by Meghann",
+    "phone": "(575) 430-8855",
+    "rating": 5,
+    "reviewCount": 14,
+    "reviews": [
+      {
+        "author": "Paige Hill",
+        "rating": 5,
+        "text": "I have been going to Meghann since I moved to Texas almost 6 years ago, and I won’t go anywhere else. Meghann does a wonderful job with my hair, and has given me exactly what I want every single time. She also does a gre"
+      },
+      {
+        "author": "Byron Massey",
+        "rating": 5,
+        "text": "Meghann has cut my hair exclusively for 12 years. She does a great job every time, paying close attention to detail and I always look squared away when she's done, not a hair missed or out of place. She's friendly and fu"
+      },
+      {
+        "author": "Cherokee",
+        "rating": 5,
+        "text": "I’ve been going to Meghann for years. She’s seen my curly hair from middle back to short boy cuts. She always knows how to handle the different textures in my hair and gives amazing advice on potential cuts. I’ve trusted"
+      }
+    ],
+    "slug": "hair-by-meghann",
+    "state": "TX",
+    "street": "2525 West Anderson Lane 610 B5",
+    "zip": "78757"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Studio Cuts",
+    "phone": "(512) 420-8410",
+    "rating": 4.5,
+    "reviewCount": 59,
+    "reviews": [
+      {
+        "author": "A HZ",
+        "rating": 5,
+        "text": "Ms. Petra amazing stylist that has been making a miracle with my hear for years and years now! This review is a long overdue, but at least one more way of expressing my thankfulness and gratitude!"
+      },
+      {
+        "author": "Fiona C",
+        "rating": 5,
+        "text": "I love Tony!  He's not only a great stylist but also overall a great person with great personality!  I feel like I could chat with him longer every time I'm there!  Also I've no clue where else you could get such a reaso"
+      },
+      {
+        "author": "Aron Yu",
+        "rating": 5,
+        "text": "If you're an Asian male who needs a regular stylist, Tony is your guy. He has been in the business for over 20 years and he really knows how to handle Asian guy hairs. American places like Sports Clips and Great Clips si"
+      }
+    ],
+    "slug": "studio-cuts",
+    "state": "TX",
+    "street": "911 West Anderson Lane 118",
+    "zip": "78757"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Salon 300",
+    "phone": "(512) 973-3535",
+    "rating": 4,
+    "reviewCount": 87,
+    "reviews": [
+      {
+        "author": "Daisy Saldua",
+        "rating": 5,
+        "text": "We found our new barber! Shout-out to Mookie for his patience and clean skills. My son slayed picture day with his new cut."
+      },
+      {
+        "author": "SDuskshine",
+        "rating": 5,
+        "text": "I'm Desiree, a customer of Salon 300.\n\nMy mother had her hair appointment with the Hair Stylist Joey.  Being highly satisfied with the results, she recommended Joey to me for box braid extensions.  I visited him May 23, "
+      },
+      {
+        "author": "Lawyer Lott",
+        "rating": 5,
+        "text": "Yes I like to let the world know that Sherman the celebrity Barber is magnificent in the hair industry and you can count on coming out looking refreshed on whatever you let him do you will come out looking your best!"
+      }
+    ],
+    "slug": "salon-300",
+    "state": "TX",
+    "street": "1425 East Rundberg Lane 300",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Bella Cuba Beauty salon",
+    "phone": "(512) 291-2125",
+    "rating": 4.8,
+    "reviewCount": 120,
+    "reviews": [
+      {
+        "author": "Yoany Ramos",
+        "rating": 5,
+        "text": "Excellent personal service qualified in all areas, I recommend them."
+      },
+      {
+        "author": "Denise Valadez",
+        "rating": 5,
+        "text": "Amazing job!"
+      },
+      {
+        "author": "araceli carbajal",
+        "rating": 5,
+        "text": "; Best!!!"
+      }
+    ],
+    "slug": "bella-cuba-beauty-salon",
+    "state": "TX",
+    "street": "1015 East Braker Lane 4",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "CISNEROS'SALON SALA DE BELLEZA",
+    "phone": "(512) 743-4152",
+    "rating": 4.3,
+    "reviewCount": 50,
+    "reviews": [
+      {
+        "author": "Jonas Fischer",
+        "rating": 5,
+        "text": "Cisneros Salon Sala de Belleza is an outstanding salon that I would recommend to absolutely anyone looking for top quality hair care. The stylists are exceptionally talented, creative and take the time to really listen t"
+      },
+      {
+        "author": "JASMINE BOWLS",
+        "rating": 5,
+        "text": "My girl Yaya is the best nail tech that I have ever had. I have been going to her for almost 2 years. She is very detailed, patient, and she always delivers. My nails last for a month or more. She is very sweet and humbl"
+      },
+      {
+        "author": "A G",
+        "rating": 5,
+        "text": "This is the best hair color/cut salon in Austin. They are affordable and Omar always does a fantastic job! He can change my hair from black to blonde in 1 session and it’s always so easy to book an appointment. Everyone "
+      }
+    ],
+    "slug": "cisneros-salon-sala-de-belleza",
+    "state": "TX",
+    "street": "313 East Rundberg Lane Unit 105",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Special Cuts",
+    "phone": "(512) 453-0867",
+    "rating": 4.9,
+    "reviewCount": 61,
+    "reviews": [
+      {
+        "author": "Bob P",
+        "rating": 5,
+        "text": "Ping has been cutting my hair at Special Cuts since 2014. She is an excellent hairdresser and has a dedicated clientele. Initially I was lured in by the $7 Wednesday haircut special. But it got so busy on Wednesdays that"
+      },
+      {
+        "author": "Melissa Ferringer",
+        "rating": 5,
+        "text": "Betty does a great job!! She's been cutting my hair and my sons for the last 20+ years. I highly recommend and obviously I wouldn't go anyplace else 😁"
+      },
+      {
+        "author": "Tiffany Watson",
+        "rating": 5,
+        "text": "Betty is amazing, I was struggling with a rough haircut and she fixed me up quickly and I feel much better. Very kind woman, felt like I was talking to family - thank you, Betty!\n\nAlso, was able to score locally made bra"
+      }
+    ],
+    "slug": "special-cuts",
+    "state": "TX",
+    "street": "11100 North Interstate Highway 35 Suite B",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Golden Scissors",
+    "phone": "(512) 832-5555",
+    "rating": 4.4,
+    "reviewCount": 73,
+    "reviews": [
+      {
+        "author": "Michael Dreyer",
+        "rating": 5,
+        "text": "I’m just a regular guy looking for a regular haircut and she did a PERFECT job!!!"
+      },
+      {
+        "author": "william Thompson",
+        "rating": 5,
+        "text": "Thank you Carmen you always do a great job 😁⭐⭐⭐⭐⭐"
+      },
+      {
+        "author": "komal dedhia",
+        "rating": 5,
+        "text": "Very Nice haircut for my husband by lady Lous"
+      }
+    ],
+    "slug": "golden-scissors",
+    "state": "TX",
+    "street": "10205 North Lamar Boulevard Suite 109",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Ely's salón",
+    "phone": "(512) 552-6055",
+    "rating": 4.6,
+    "reviewCount": 73,
+    "reviews": [
+      {
+        "author": "Miguel",
+        "rating": 5,
+        "text": "Moved here from NJ and was hoping to find a good replacement barber here in Austin. I found Ely's Salon and Ely herself cut my hair. She did above an excellent job, she's very friendly and fair price for a simple men's h"
+      },
+      {
+        "author": "Michael Iseminger",
+        "rating": 5,
+        "text": "I usually have an appointment but it's not necessary,  great cut, friendly environment, good music.10/10 will go again."
+      },
+      {
+        "author": "Daniel Sanchez",
+        "rating": 5,
+        "text": "Love the staff😀 Great place to get a cut. You can be a baby that's 1yrs old to someone that's up in age. You still leave this place feeling so fresh and so clean..."
+      }
+    ],
+    "slug": "ely-s-sal-n",
+    "state": "TX",
+    "street": "9411 Parkfield Drive suite 330",
+    "zip": "78758"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Maxline",
+    "phone": "(512) 490-0909",
+    "rating": 4.4,
+    "reviewCount": 98,
+    "reviews": [
+      {
+        "author": "j n",
+        "rating": 5,
+        "text": "LOVED my new hair color! Didn’t know what to expect honestly but Wing seems to know what I want.  Out of my expectation! First time customer and returning customer for sure!"
+      },
+      {
+        "author": "Kim Nguyen",
+        "rating": 5,
+        "text": "I love Abby! I have been using her for years, but then moved to VA where I had a hard time finding a good hairdresser that understood my Asian hair. I just moved back to Austin, and a visit to see Abby was one of the fir"
+      }
+    ],
+    "slug": "maxline",
+    "state": "TX",
+    "street": "10901 North Lamar Boulevard # D403",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Art Hair Salon",
+    "phone": "(737) 202-4174",
+    "rating": 4.1,
+    "reviewCount": 94,
+    "reviews": [
+      {
+        "author": "Veronica",
+        "rating": 5,
+        "text": "I'm from the Dallas area and I came all the way to Austin for a wolf cut. Definitely worth it. I've been trying to get this haircut for a while and not many hairstylists could do the way I like it. Shenron did an amazing"
+      },
+      {
+        "author": "Christina Griffin",
+        "rating": 5,
+        "text": "I was in and out within 30 minutes and got exactly what I requested! $45 for a women’s haircut. What a great price for quality work!"
+      },
+      {
+        "author": "Minyi",
+        "rating": 5,
+        "text": "My friend recommended Shenron to me for hair appointments. Shenron did not disappoint!! I love how it turned out!!! I showed a photo as inspo, and Shenron worked with me to choose what would look best for me. He and his "
+      }
+    ],
+    "slug": "art-hair-salon",
+    "state": "TX",
+    "street": "10901 North Lamar Boulevard",
+    "zip": "78753"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Hair By Jose Salon",
+    "phone": "(512) 454-1708",
+    "rating": 5,
+    "reviewCount": 73,
+    "reviews": [
+      {
+        "author": "Mary Shannon",
+        "rating": 5,
+        "text": "Stopped in to avoid the fuss of big name hair salon’s and saw the great reviews on Google. I was not disappointed! Was able to see what I wanted in my hair from a photo and got it done no problem! Also makes you feel ver"
+      },
+      {
+        "author": "Genevieve Singer",
+        "rating": 5,
+        "text": "Jose was referred to me by my sister and I am so glad that I took her advice. Jose is a skilled and patient stylist. He is genuine and kind and I loved being in his chair. He definitely knows what he is doing and I loved"
+      },
+      {
+        "author": "David A",
+        "rating": 5,
+        "text": "Jose is such an amazing kind person and I got a beautiful haircut from him, and he was very honest & a good conversationalist. Bless you Jose and I’ll be back every time I can."
+      }
+    ],
+    "slug": "hair-by-jose-salon",
+    "state": "TX",
+    "street": "8312 Burnet Road Suite 111",
+    "zip": "78757"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Expo Salon",
+    "phone": "(512) 451-0127",
+    "rating": 4.8,
+    "reviewCount": 47,
+    "reviews": [
+      {
+        "author": "Chou lat TV",
+        "rating": 5,
+        "text": "I have always go to this salon for my haircut, doesn’t matter if it’s hair dye, or treatment they have it all. Vivian always has such an amazing energy and welcoming spirit when you walk in, sit down and talk to her. Alw"
+      },
+      {
+        "author": "Taylor Stever",
+        "rating": 5,
+        "text": "What a sweet experience this was! I received a lovely haircut by Vivian, followed by a quality manicure by her mother Lily. This is a family-run salon (mother, father and adult daughter), and they have beautiful energy. "
+      },
+      {
+        "author": "Curtis Osterloh",
+        "rating": 5,
+        "text": "I have been using Mickey forever.  He does an amazing job and is just an all around wonderful happy person who makes great conversation.  I always come away feeling like family.  He really cares about how his customers l"
+      }
+    ],
+    "slug": "expo-salon",
+    "state": "TX",
+    "street": "5555 North Lamar Boulevard # C119",
+    "zip": "78751"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Control & Definition Hair Salon & Spa",
+    "phone": "(512) 300-0773",
+    "rating": 4.5,
+    "reviewCount": 61,
+    "reviews": [
+      {
+        "author": "Yovana Garcia",
+        "rating": 5,
+        "text": "Flor, my favorite hairstylist, absolutely nailed my latest cut. She always makes me feel heard and leaves me with a sleek, definitive style that I love. The attention to detail and great vibe make every appointment a tre"
+      },
+      {
+        "author": "Gisselle Jaimes",
+        "rating": 5,
+        "text": "They’re always sweet, i’ve went there twice to get haircuts already thinking about going again to get my hair lighter.  Definitely  recommend. Loved the way my hair turned out!"
+      },
+      {
+        "author": "Brian Lee",
+        "rating": 5,
+        "text": "I love coming here Anita always makes me look and feel great. I have a habit of waiting too long to come back but each time I do they never disappoint. They are worth the visit and love what they do 10x ⭐️ for me."
+      }
+    ],
+    "slug": "control-and-definition-hair-salon-and-spa",
+    "state": "TX",
+    "street": "2004 East William Cannon Drive Suite 103",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "veyda family hair slon",
+    "phone": "(512) 383-8812",
+    "rating": 4.6,
+    "reviewCount": 28,
+    "reviews": [
+      {
+        "author": "Te Quila",
+        "rating": 5,
+        "text": "First time getting my hair cut at this location. As far as I know it's only by appointment. Will update if I'm wrong. Very friendly lady and did a great job. Will return every time I need a cut. Five stars because it's v"
+      },
+      {
+        "author": "Lisa Amaya",
+        "rating": 5,
+        "text": "Patricia always cuts my hair perfectly. She also does it quickly.  As if that wasn't enough, the prices are amazing. I've been to high priced salons & they are not anywhere close to being as talented as her or the other "
+      },
+      {
+        "author": "olivia torres",
+        "rating": 5,
+        "text": "Good place to do you hair color excelent salon  l recomend"
+      }
+    ],
+    "slug": "veyda-family-hair-slon",
+    "state": "TX",
+    "street": "4500 East William Cannon Drive",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Elen's Hair Salon & Barber Shop",
+    "phone": "(512) 945-3843",
+    "rating": 4.8,
+    "reviewCount": 23,
+    "reviews": [
+      {
+        "author": "Darya Weller",
+        "rating": 5,
+        "text": "I brought in my own custom color formulation and Claudia executed the application flawlessly. She took the time to understand what I was going for and applied the color with real precision. The haircut and style were equ"
+      },
+      {
+        "author": "Johana Martinez",
+        "rating": 5,
+        "text": "I got a layered hair cut, she did a good job I showed her reference pictures and I liked the result 😊\n\nShe also cuts my babies hair, she’s good at keeping him still and the hair cut always looks cute\n\nI do recommend her"
+      },
+      {
+        "author": "Erik Manson",
+        "rating": 5,
+        "text": "I had a great experience here. I got my hair cut by Chris, he’s a great barber. Definitely recommend getting your hair cut by him. He will help you out and give you any recommendations if you need any."
+      }
+    ],
+    "slug": "elen-s-hair-salon-and-barber-shop",
+    "state": "TX",
+    "street": "729 East Slaughter Lane",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Vicky's Hair Salon",
+    "phone": "(737) 999-3005",
+    "rating": 4.8,
+    "reviewCount": 147,
+    "reviews": [
+      {
+        "author": "James hamrin",
+        "rating": 5,
+        "text": "Vicki is an expert hair cutter. I have very curly hair that makes it hard for me to explain what I want. Well, I said, can you cut every hair a 1/2 to 3/4 inch shorter? Like a Professional, she went to work on me and wow"
+      },
+      {
+        "author": "Annaliese",
+        "rating": 5,
+        "text": "Nicky gave me exactly what I was looking for and was well within my budget. She explains the process of what she's doing to your hair super well and makes sure your on board with her plan every step of the way. I loved m"
+      },
+      {
+        "author": "Allie Jones (Allie Jones)",
+        "rating": 5,
+        "text": "I have been searching for an affordable, fast, and thorough hair stylist for over a year. I was visiting from out of town this week and saw the reviews of Vicky’s hair salon and decided to give it a try. My only regret? "
+      }
+    ],
+    "slug": "vicky-s-hair-salon",
+    "state": "TX",
+    "street": "11200 Menchaca Road Building 4 unit 3",
+    "zip": "78748"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Jesus's",
+    "phone": "(512) 367-3346",
+    "rating": 4.5,
+    "reviewCount": 66,
+    "reviews": [
+      {
+        "author": "Richard Hernandez",
+        "rating": 5,
+        "text": "This is my new barber shop my 2nd time there and the people treat you like family. Jesse is the best I really appreciate the haircut and the warm welcoming conversation. Thanks again y'all, take care and keep up the grea"
+      },
+      {
+        "author": "Nicci Winn",
+        "rating": 5,
+        "text": "Super friendly! Great haircut! They prefer cash, but you can use credit cards."
+      },
+      {
+        "author": "Numismatic",
+        "rating": 5,
+        "text": "I get the best hair cut style ever! I recommend that place if you wanna get a real good hair cut... God bless her so much..."
+      }
+    ],
+    "slug": "jesus-s",
+    "state": "TX",
+    "street": "2101 Wickersham Lane",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Alma’s Hair Salon",
+    "phone": "(737) 600-9085",
+    "rating": 4.4,
+    "reviewCount": 18,
+    "reviews": [
+      {
+        "author": "alondrina avila",
+        "rating": 5,
+        "text": "I’m so happy I’m love my hair"
+      },
+      {
+        "author": "Mateo Osvaldo",
+        "rating": 5,
+        "text": "Excellent service, very friendly people. Credits to my barber Andy."
+      }
+    ],
+    "slug": "alma-s-hair-salon",
+    "state": "TX",
+    "street": "2030 East Oltorf Street 102 B",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Fast Freddy's",
+    "phone": "(512) 462-3939",
+    "rating": 4.3,
+    "reviewCount": 138,
+    "reviews": [
+      {
+        "author": "Ian Ives (ives1337)",
+        "rating": 5,
+        "text": "MAPS IS CORRECT!\n*Door is on the left of the corner, the salon wraps around inside to the right, and shares the foyer with a local insurance company*\n\nGot inside, signed on the roster, and was taken back by Alva.\nShe got"
+      },
+      {
+        "author": "13mommyrocks",
+        "rating": 5,
+        "text": "What a great haircut. We were very pleased. Pranee was wonderful. Thank you so much!\nAnother awesome cut! This is our place!"
+      },
+      {
+        "author": "Yolanda Lopez",
+        "rating": 4,
+        "text": "Took my daughter to get a hair cut, she loved it, the lady did a wonderful job. My daughter left happy with her cut🥰"
+      }
+    ],
+    "slug": "fast-freddy-s",
+    "state": "TX",
+    "street": "2100 East Riverside Drive",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Imagen",
+    "phone": "(512) 326-9990",
+    "rating": 4,
+    "reviewCount": 125,
+    "reviews": [
+      {
+        "author": "Mayra Banda",
+        "rating": 5,
+        "text": "I love this place. All of the girls are so friendly. My hair stylist is Carmen and she always delivers exactly what I want. My son also only wants her to cut his hair and he won't want me to take him anywhere else. Price"
+      },
+      {
+        "author": "Deepak Neupane (Dee)",
+        "rating": 5,
+        "text": "I am visiting here since long time since 2013 been 5 years can't stay out without giving 5 starts and 5 star review. Such a good place, clean, happy and smelling people, always happy to help and price is not just firm it"
+      },
+      {
+        "author": "Raul Garcia",
+        "rating": 5,
+        "text": "My stylist is Susy she does fantastic work i have a full beard and she takes her time trimming it, also trims my mustache very well. She does excellent work and hair design"
+      }
+    ],
+    "slug": "imagen",
+    "state": "TX",
+    "street": "1900 East Oltorf Street 117A",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Aly's Hair Salon",
+    "phone": "(512) 916-9045",
+    "rating": 4.6,
+    "reviewCount": 110,
+    "reviews": [
+      {
+        "author": "Priscilla",
+        "rating": 5,
+        "text": "I absolutely LOVE coming to Aly for my hair needs! She really listens to what a client wants - She also gives amazing advice on how to properly care for hair and how to style it! Shes also just the sweetest, kindest, mos"
+      },
+      {
+        "author": "Hà Nguyễn Bagửin",
+        "rating": 5,
+        "text": "Aly is absolutely incredible – best salon in Austin!\nI LOVE coming to Aly's Hair Salon. Aly truly listens to what you want, gives amazing advice on hair care and styling, and delivers results that are absolutely beautifu"
+      },
+      {
+        "author": "Johanan Guzman",
+        "rating": 5,
+        "text": "Nayra and Alicia have been giving me great haircuts for years now and I will continue to go as long as they have me!"
+      }
+    ],
+    "slug": "aly-s-hair-salon",
+    "state": "TX",
+    "street": "2410 East Riverside Drive Suite D1",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "The Spot Salon",
+    "phone": "(512) 554-9007",
+    "rating": 4.3,
+    "reviewCount": 68,
+    "reviews": [
+      {
+        "author": "Lisa Larson",
+        "rating": 5,
+        "text": "I had a great experience at the Spot Salon.  The salon was clean and modern but not intimidating like some of the salons around Austin.  My stylist was friendly and experienced. She listened to me when I explained what I"
+      },
+      {
+        "author": "Alexis Hernandez",
+        "rating": 5,
+        "text": "I’ve been going to Shoni for over a decade and I don’t let anyone else come near me with scissors. She is really great at any type of cut and has kept up with my style changes. Plus she is just one of the warmest, welcom"
+      },
+      {
+        "author": "Christy Ernull",
+        "rating": 5,
+        "text": "Shoni does an awesome job on my highlights! She is really good at blending and making the color look natural. I'm so glad she opened up the Spot Salon near my house. My teenage son and daughter also go to her. I trust he"
+      }
+    ],
+    "slug": "the-spot-salon",
+    "state": "TX",
+    "street": "6811 Ranch Road 620 North",
+    "zip": "78732"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "L&J HAIR BRAIDING",
+    "phone": "(832) 419-7978",
+    "rating": 5,
+    "reviewCount": 16,
+    "reviews": [
+      {
+        "author": "Brittany Brown",
+        "rating": 5,
+        "text": "She did a very good job satisfied with the results."
+      },
+      {
+        "author": "Benardette Teke",
+        "rating": 5,
+        "text": "One of the best hair looks i have carried was done by L$J HAIR BRAIDING. Their customer service is topic notch, I can't wait to have my hair braided by them again.\nThey are also very affordable."
+      },
+      {
+        "author": "Oboy Comedy",
+        "rating": 5,
+        "text": "She is very reliable and her prices are really sweet. It’s almost pain free during and after braiding . Pls try her and thank me later L & J braiding one and only in Austin area"
+      }
+    ],
+    "slug": "l-and-j-hair-braiding",
+    "state": "TX",
+    "street": "6309 Melrose Trail",
+    "zip": "78727"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "VALERO BEAUTY SALON",
+    "phone": "(512) 771-6260",
+    "rating": 4.6,
+    "reviewCount": 7,
+    "reviews": [
+      {
+        "author": "Joseph Hinojosa",
+        "rating": 5,
+        "text": "I live close to here. My haircut is absolutely amazing.  Everytime I come here my cut is perfect"
+      },
+      {
+        "author": "Victor Palencia",
+        "rating": 5,
+        "text": "This is my new spot to come and get a haircut customer service is great and great hair cuts"
+      },
+      {
+        "author": "Samuel Garza",
+        "rating": 5,
+        "text": "Friendly staff. Cheap and good hair cut."
+      }
+    ],
+    "slug": "valero-beauty-salon",
+    "state": "TX",
+    "street": "4801 Imperial Drive",
+    "zip": "78725"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Shalom Hair Salon",
+    "phone": "(512) 436-1431",
+    "rating": 4.3,
+    "reviewCount": 26,
+    "reviews": [
+      {
+        "author": "sam",
+        "rating": 5,
+        "text": "Great job"
+      },
+      {
+        "author": "Veronica Estaville",
+        "rating": 4,
+        "text": "I love that place, it's very peaceful and I feel the holy spirit 🙌."
+      }
+    ],
+    "slug": "shalom-hair-salon",
+    "state": "TX",
+    "street": "5611 South Highway 183 S",
+    "zip": "78744"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Beautiful hair & barberchop YSamar",
+    "phone": "(737) 932-3586",
+    "rating": 5,
+    "reviewCount": 9,
+    "reviews": [
+      {
+        "author": "Ernesto Diaz",
+        "rating": 5,
+        "text": "Best cut in Austin Texas. Best price $"
+      },
+      {
+        "author": "Fernanda Fonseca",
+        "rating": 5,
+        "text": "Tuve una experiencia muy bonita en este salón. Me atendieron con mucha amabilidad y el resultado fue justo lo que quería. El lugar es limpio y agradable. Lo recomiendo totalmente."
+      },
+      {
+        "author": "Lisdi Alvarado",
+        "rating": 5,
+        "text": "The stylist was very nice and kind, as she should be 😇🥰"
+      }
+    ],
+    "slug": "beautiful-hair-and-barberchop-ysamar",
+    "state": "TX",
+    "street": "9706 Farm to Market 969",
+    "zip": "78724"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Aana's Beauty Salon",
+    "phone": "(512) 761-4918",
+    "rating": 4.5,
+    "reviewCount": 27,
+    "reviews": [
+      {
+        "author": "Fernando Salaices",
+        "rating": 5,
+        "text": "This is the best place that I have ever gotten to. The owner gave me a haircut in a very short amount of time. The haircut was also a very good quality. There is also a mini store in the salon which makes it even better "
+      },
+      {
+        "author": "Greg Blackman",
+        "rating": 5,
+        "text": "Alex is on point, great barber who can any type of hair from Anglo to ethnic. Anna always has a line overall good experience here"
+      },
+      {
+        "author": "Francisco Zarazua",
+        "rating": 5,
+        "text": "I love this place, my barber is xochitl since 2017 and she always do an awesome job, she is so hilarious and gentle and always whit smile on her face."
+      }
+    ],
+    "slug": "aana-s-beauty-salon",
+    "state": "TX",
+    "street": "720 Bastrop Highway 202",
+    "zip": "78741"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Fast Cuts Hair Salon",
+    "phone": "(512) 458-9456",
+    "rating": 3.8,
+    "reviewCount": 80,
+    "reviews": [
+      {
+        "author": "Amber Ahmed",
+        "rating": 5,
+        "text": "Highly recommend\nAny buddy and everybody will get an excellent Service. Edwin gave my 6 year old niece a brand new look she asked for. Also they are Very clean and sanitary."
+      },
+      {
+        "author": "Daniel Castor",
+        "rating": 5,
+        "text": "Good, cheap haircuts, no need to spend alot of money.  If you're good looking, you'll come out better looking.  If you're not so good looking well at least your hair will look nice.  Ask for Edwin, he's great! But don't "
+      },
+      {
+        "author": "Telisa Molina",
+        "rating": 5,
+        "text": "My son got his hair done and they did an amazing job!. I even got to sit with him. I am so happy I found a great comfortable place for my toddler's haircuts."
+      }
+    ],
+    "slug": "fast-cuts-hair-salon",
+    "state": "TX",
+    "street": "7110 Cameron Road # G",
+    "zip": "78752"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Manor",
+    "hours": null,
+    "industry": "salon",
+    "name": "Mane attraction hair salon",
+    "phone": "(512) 278-1194",
+    "rating": 4.7,
+    "reviewCount": 84,
+    "reviews": [
+      {
+        "author": "Angelica Loredo",
+        "rating": 5,
+        "text": "Everyone there, is amazing.  I personally go to Janet and her work never goes unnoticed.  I'm a returning client , have been going to her for years and I have to say everytime she does my hair I get compliments by friend"
+      },
+      {
+        "author": "devianna rodriguez",
+        "rating": 5,
+        "text": "Hands down always a great experience when I go, I was lucky to have been booked with Gloria and she did such an amazing job!!! She was so kind, great conversation, and most importantly did an amazing job on my hair! I wi"
+      },
+      {
+        "author": "S H",
+        "rating": 5,
+        "text": "I recently had the pleasure of visiting a new hair salon, and I'm so grateful I did. From the moment I walked through the door, Janet made me feel like I was her top priority. Her genuine warmth and attentiveness instant"
+      }
+    ],
+    "slug": "mane-attraction-hair-salon",
+    "state": "TX",
+    "street": "810 North Caldwell Street 100a",
+    "zip": "78653"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Manor",
+    "hours": null,
+    "industry": "salon",
+    "name": "Gonzalez Hair Salon",
+    "phone": "(512) 278-1011",
+    "rating": 4.2,
+    "reviewCount": 132,
+    "reviews": [
+      {
+        "author": "Gladys Cancela",
+        "rating": 5,
+        "text": "I was really happy of how they cut my hair. I’m a very picky individual with hair, especially but the lady made my hair look phenomenal, and the prices were correct. Very happy. Will return."
+      },
+      {
+        "author": "Pruthvi Raj",
+        "rating": 5,
+        "text": "They accommodated walk-in and did fantastic job of trimming and curling my daughter’s hair. Highly recommend. They are cash only."
+      },
+      {
+        "author": "Mari Sunshine",
+        "rating": 5,
+        "text": "I would definitely recommend this place to anyone.  The ladies who work here are very nice, and  pleasant  They did a great job on my daughters hair and mine.  She did excellent, gave me the colors I wanted.  ❤ This plac"
+      }
+    ],
+    "slug": "gonzalez-hair-salon",
+    "state": "TX",
+    "street": "209 West Parsons Street",
+    "zip": "78653"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Manor",
+    "hours": null,
+    "industry": "salon",
+    "name": "Rocio's Hair Salon",
+    "phone": "(512) 278-0350",
+    "rating": 4.3,
+    "reviewCount": 159,
+    "reviews": [
+      {
+        "author": "Jasmin Maynard",
+        "rating": 5,
+        "text": "I took my son in for a haircut and Oscar did an amazing job.  He was very detailed. It's the best cut my son ever got! Also, he went above and beyond and wiped my son's nose after he sneezed. The gesture let me know that"
+      },
+      {
+        "author": "Jose Campuzano",
+        "rating": 5,
+        "text": "Oscar is a great barber,Rocio the owner is also very kind and attentive to clients requests! 10 out of 10"
+      },
+      {
+        "author": "Mark Reyes",
+        "rating": 5,
+        "text": "Took my 6 year old son here for the 1st time and I am impressed. They have great customer service and give quality cuts. This will be his go to place when he needs a haircut."
+      }
+    ],
+    "slug": "rocio-s-hair-salon",
+    "state": "TX",
+    "street": "900 Lexington Street",
+    "zip": "78653"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "S & R Hair Design's",
+    "phone": "(512) 933-1833",
+    "rating": 4.6,
+    "reviewCount": 52,
+    "reviews": [
+      {
+        "author": "Evon Hartfield",
+        "rating": 5,
+        "text": "I'm new but will continue to go because they do a good job and plus they are very friendly. Just how I like it especially Shawna my hair was a hot mess and she fixed it and it looks good. Thank you ladies."
+      },
+      {
+        "author": "Gwen Mayberry",
+        "rating": 5,
+        "text": "I love going to S&R to get my hair done.  Everyone there is friendly and the styalists do great jobs.  Rosalind, the owner, does my hair and I love her and her work.  I wouldn't go anywhere else and I drive from Leander "
+      },
+      {
+        "author": "Rolanda Smart",
+        "rating": 5,
+        "text": "S&R gives you the such professional service.  Roz and Shauna are both very nice, they respect your time and appreciate your business.  This is the only shop that I have came to that when I say thank you at the end of the"
+      }
+    ],
+    "slug": "s-and-r-hair-design-s",
+    "state": "TX",
+    "street": "5903 Wellington Drive",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Eclipse Hair Salon",
+    "phone": "(512) 919-6581",
+    "rating": 4.5,
+    "reviewCount": 67,
+    "reviews": [
+      {
+        "author": "Syed Masfiqur Rahman",
+        "rating": 5,
+        "text": "Really interesting. A website will help you to reach the clints.It will be more attractive and sustainable for your business ."
+      },
+      {
+        "author": "Tamara Ybarra",
+        "rating": 5,
+        "text": "Owner did an amazing job on my daughters hair. Her hair went to her butt and we need to cut the dead ends. I was afraid she would cut too much but she didn't. She did an amazing job. She kept it long with no dead ends. I"
+      },
+      {
+        "author": "Loreli g",
+        "rating": 5,
+        "text": "Loved my deep conditioning treatment! My hair feels so much better.. Hair Botox!! :)"
+      }
+    ],
+    "slug": "eclipse-hair-salon",
+    "state": "TX",
+    "street": "1215 Corona Drive",
+    "zip": "78723"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Hair By Nicole",
+    "phone": "(512) 524-0487",
+    "rating": 4.7,
+    "reviewCount": 31,
+    "reviews": [
+      {
+        "author": "K Nicole Johnson",
+        "rating": 5,
+        "text": "I've been going to Nicole since I moved here (2008). Listen she is the realest stylist you will ever know. She's going to be honest with you, and she's not going to do anything that is unhealthy for your hair even if you"
+      },
+      {
+        "author": "Teresa Carter",
+        "rating": 5,
+        "text": "Ms. Nicole is awesome. She so nice and professional. It really was nice to be in a hairsalon where everyone is professional. She did such a great job on my daughter hair we was very pleased. Will be returning to her agai"
+      },
+      {
+        "author": "Aisha Adio",
+        "rating": 5,
+        "text": "The best salon ever. Ms Nicole can whip up your hair in no time. I also love the fact that she offers early morning appointments. So if you have an event in the morning or a meeting in the morning she can get you before "
+      }
+    ],
+    "slug": "hair-by-nicole",
+    "state": "TX",
+    "street": "4130 East 12th Street",
+    "zip": "78721"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Hair palace",
+    "phone": "(512) 903-3533",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "reviews": [
+      {
+        "author": "Carolyn Williams",
+        "rating": 5,
+        "text": "Toshia has such an amazing, gentle spirit very, rare these days! I will continue to support this shining star 🌟"
+      },
+      {
+        "author": "Oluwatosin Ogunlaja",
+        "rating": 5,
+        "text": "I get my retwist and sometimes style my hair with LaToshia here at Hair Palace and let me just say, it leaves me feeling very confident about and in my self, because we all know, good style boost self confidence, and she"
+      },
+      {
+        "author": "Grace N",
+        "rating": 5,
+        "text": "I've been going here for the past 3 yrs and Toshia is one of the best hairstyles Ive known. She's very knowledgeable of any type of hair. She gives good advices not only about hair but about life. Book an appointment wit"
+      }
+    ],
+    "slug": "hair-palace",
+    "state": "TX",
+    "street": "1514 Ed Bluestein Boulevard",
+    "zip": "78721"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "La Tonya Jackson In The Hair Palace",
+    "phone": "(512) 963-8276",
+    "rating": 4.3,
+    "reviewCount": 44,
+    "reviews": [
+      {
+        "author": "Sandra Crenshaw",
+        "rating": 5,
+        "text": "I was skeptical when scheduling my daughter's first appointment as any mother would be with their daughter's hair.  I must say from the first time La Tonya did my daughter's hair until now, I am very pleased.  She takes "
+      },
+      {
+        "author": "Olivia Amboree",
+        "rating": 5,
+        "text": "Great Place!!!! I came here in desperate need of a style and found a great stylist!! La Tonya is amazing!!!  She has miracle fingers!  I've never sat in her chair and was not pleased with her service.  She is always on t"
+      },
+      {
+        "author": "Chariese L.",
+        "rating": 5,
+        "text": "I truly want to thank La Tonya for her service to me with the messy \"mop\" I had today. I came in for a haircut and is my first time visiting her place of business. Not only is she great at what she does, but she was very"
+      }
+    ],
+    "slug": "la-tonya-jackson-in-the-hair-palace",
+    "state": "TX",
+    "street": "1500 Smith Road Ste 206",
+    "zip": "78721"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Fashion hair salon",
+    "phone": "(512) 751-2123",
+    "rating": 4.4,
+    "reviewCount": 104,
+    "reviews": [
+      {
+        "author": "Manish Khadka",
+        "rating": 5,
+        "text": "This is the best place for hair cuts! I’ve been here since 2018 and loved it. She is very kind, professional, and can do a first class hair cut. I’ve been very satisfied with her. I was a kid in 2018, and this was the on"
+      },
+      {
+        "author": "Colby Mckinney",
+        "rating": 5,
+        "text": "Cheapest and fastest haircut shop around. But the best thing about it is Sophia, the lady that cuts hair. She is so awesome and really nice. Couldn’t ask for a better barber. Thank you Sophia!!!!"
+      }
+    ],
+    "slug": "fashion-hair-salon",
+    "state": "TX",
+    "street": "15912 Ranch Road 620 North Suite 201",
+    "zip": "78717"
+  },
+  {
+    "categoryLabel": "salon",
+    "city": "Austin",
+    "hours": null,
+    "industry": "salon",
+    "name": "Ziba Hair Salon",
+    "phone": "(512) 335-7895",
+    "rating": 4.9,
+    "reviewCount": 136,
+    "reviews": [
+      {
+        "author": "Sarah Amann",
+        "rating": 5,
+        "text": "THE HAIRCUT THAT CHANGED MY LIFE...\nY'all, Faraz literally changed my life with the amazing haircut he gave me. After getting my haircut last year, I felt so much more confident, so I asked my manager for the sabbatical "
+      },
+      {
+        "author": "Jen Bento",
+        "rating": 5,
+        "text": "Faraz is amazing with many years experience. After spending months brushing out 14 year old locs, I was definitely in need of some help.\nHe cut, highlighted and dyed my hair. I was able to keep good length and am absolut"
+      },
+      {
+        "author": "Alireza Farhangi",
+        "rating": 5,
+        "text": "I have been coming here for more than 1 years after trying 4-5 different barbershops. This is the most consistent good haircut in town. I recommend strongly."
+      }
+    ],
+    "slug": "ziba-hair-salon",
+    "state": "TX",
+    "street": "13776 U.S. 183 150",
+    "zip": "78750"
   }
 ]
